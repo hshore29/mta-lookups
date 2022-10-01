@@ -1,4 +1,4 @@
-﻿booth,remote,station,line_name,division,is_active,has_booth,historic,prior_station_1,prior_station_2
+booth,remote,station,line_name,division,is_active,has_booth,historic,prior_station_1,prior_station_2
 A002,R051,59 ST,NQR456W,BMT,1,0,0,LEXINGTON AVE,
 A004,R050,LEXINGTON AVE,456NQR,BMT,0,0,1,,
 A006,R079,5 AV/59 ST,NQRW,BMT,1,,0,5 AVE-59 ST,5 AV
@@ -792,4 +792,3 @@ TRAM2,R469,RIT-ROOSEVELT,R,RIT,1,,0,,
 WCCTR,R532,WEST COUNTY CTR,5,BEE,0,,1,,
 X001,R410,NYC & CO - 7 AV,1,IRT,0,,1,,
 X002,R470,ELTINGVILLE PK,Z,SRT,0,,1,,
-,,ATL AV-BARCLAY,2345BDNQR,,,,,,
