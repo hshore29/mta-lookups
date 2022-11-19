@@ -26,5 +26,5 @@ The *source* folder includes copies of the original files published by the MTA; 
 
 **Remote-Booth-Station_Turnstile.csv**: booth information pulled from the MTA's weekly turnstile data. All metadata from 10/2014 onward is from the turnstile files themselves; prior to that I populated metadata using the official Remote-Booth-Station file. The code used to generate this file is in **turnstiles.py**.
 * Source: http://web.mta.info/developers/turnstile.html
-* Retrieved on 10/2/22
-* Data from 5/5/2010 through 10/1/22
+* Retrieved on 11/19/22
+* Data from 5/5/2010 through 11/11/22
