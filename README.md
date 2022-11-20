@@ -28,3 +28,14 @@ The *source* folder includes copies of the original files published by the MTA; 
 * Source: http://web.mta.info/developers/turnstile.html
 * Retrieved on 11/19/22
 * Data from 5/5/2010 through 11/11/22
+
+**2009_nyct_booth_closures.pdf**: due to the 2008 global financial crisis, in January 2009 the MTA prepared a plan to cut costs by shuttering token booths and reducing the number of booth attendants. As part of the proposal, this document was prepared, which includes labeled blue prints of every station with impacted booths. The plan didn't end up being enacted until 2010, and some changes may have been made, but this document seems largely accurate - all kiosks were removed, and most stations had all but one booth closed.
+* Source: https://web.archive.org/web/20090305201018/http://www.mta.info/mta/09/2009_nyct_booth_closures.pdf (linked from https://en.wikipedia.org/wiki/Kew_Gardens–Union_Turnpike_station) - the report doesn't seem to be hosted on the MTA site anymore
+* Retrieved 6/21/20
+* Report dated 1/2009
+
+**2009_nyct_booth_closures.csv**: my transcription of the booth details from the blueprints. Includes station name, lines, borough, and booth / control area designation, plus additionally:
+* **Current** / **Proposed**: the control area's booth status, using MTA shorthand - F/T is a full-time booth, P/T is a part-time booth, K is a kiosk (booth with no sales, just customer service), X is an automated entry control area (no booth).
+* **Description**: my shorthand for where the control area is located. Access to only one platform is indicated with NB or SB (north-bound or south-bound) while M means access to a Mezzanine; then I note the closest cross street; finally a cardinal direction if multiple control areas are at the same intersection.
+* **Additional C/As**: some control areas that never had booths (often exit-only or single-HEET C/As) don't get their own code, so when codes are reused I list the secondary C/As here with the same notation as the Description column. Ex: Clinton-Washington Avs has four exits, but while the SB exits have different codes (N112 and N112A) the NB exits are both just coded N111; so N111's description is *NB Clinton Ave* with an additional C/A at *NB Washington Av*.
+* **Notes**: any additional notes from the blueprints, about ongoing work or station changes.
