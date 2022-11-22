@@ -36,6 +36,17 @@ The *source* folder includes copies of the original files published by the MTA; 
 
 **2009_nyct_booth_closures.csv**: my transcription of the booth details from the blueprints. Includes station name, lines, borough, and booth / control area designation, plus additionally:
 * **Current** / **Proposed**: the control area's booth status, using MTA shorthand - F/T is a full-time booth, P/T is a part-time booth, K is a kiosk (booth with no sales, just customer service), X is an automated entry control area (no booth).
-* **Description**: my shorthand for where the control area is located. Access to only one platform is indicated with NB or SB (north-bound or south-bound) while M means access to a Mezzanine; then I note the closest cross street; finally a cardinal direction if multiple control areas are at the same intersection.
+* **Description**: my shorthand for where the control area is located. Access to one direction is indicated with N/B or S/B (north-bound or south-bound) while Mez (mezzanine) indicates access to both directions; then I note the closest cross street; finally a cardinal direction if multiple control areas are at the same intersection.
 * **Additional C/As**: some control areas that never had booths (often exit-only or single-HEET C/As) don't get their own code, so when codes are reused I list the secondary C/As here with the same notation as the Description column. Ex: Clinton-Washington Avs has four exits, but while the SB exits have different codes (N112 and N112A) the NB exits are both just coded N111; so N111's description is *NB Clinton Ave* with an additional C/A at *NB Washington Av*.
 * **Notes**: any additional notes from the blueprints, about ongoing work or station changes.
+
+**New York MPS Station Maps.pdf**: in 2004 and 2005, 47 subway stations were added to the National Register of Historic Places. The applications are available online via the National Archives catalog, and each includes blueprints of the station in question. The blueprints include booth numbers and locations; this PDF collects just the blueprint pages from the MPS applications.
+
+**New York MPS Stations.csv**: my transcription of the booth details from the blueprints.
+* **Ref**: the reference number of the application
+* **Received**: date that the NRHP recieved the application
+* **Date**: date that the attached blueprints were drawn / had changes to fare control areas
+* **Station ID**: blueprints since 1995 include the MTA's Station ID number
+* **Booth**: the booth number if labled on the blueprints. "X" and "Exit-only" indicate control areas that were open but had no booth ("X" denotes automated entry); "Closed" indicates control areas that existed but were closed
+* **Description**: my shorthand for where the control area is located, see 2009 booth closure description
+* **Notes**: my additional notes clarifying locations for some areas
