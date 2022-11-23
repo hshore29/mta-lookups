@@ -7,9 +7,14 @@ The *source* folder includes copies of the original files published by the MTA; 
 
 **remote_booth_station.csv**: this is a rationalized Remote-Booth-Station file with the following improvements over the MTA's currently posted copy:
 * Includes stations that have opened since 2015 (Hudson Yards, 2nd Av Subway, WTC Cortlandt, plus new exits on the L and others)
-* **status** current status for the booth; Open, Closed, or Vending-Only (several booths in the MTA lookup file are locations with MetroCard vending machines outside transit stations, like LGA, Eltingville Park, or the MetroCard Buses).
-* **has_booth** flag for whether this control area still has a token booth (many were removed in 2010)
-* **prior_remotes** / **prior_station_names** list of remote units and station names a booth had since ~2009
+* **status**: current status for the booth; Open, Closed, or Vending-Only (several booths in the MTA lookup file are locations with MetroCard vending machines outside transit stations, like LGA, Eltingville Park, or the MetroCard Buses).
+* **has_booth**: flag for whether this control area still has a token booth (many were removed in 2010)
+* **prior_remotes** / **prior_station_names**: list of remote units and station names a booth had since ~2009
+* **station_id** / **station_id_2** / **station_id_3** / **station_name**: the MTA station ids directly accessible from this booth, plus the primary station's name
+* **complex_id** / **complex_name**: the id and name of the station complex the booth is part of
+
+**booth_station.csv**: I mapped each booth code to one or more station ids. Since some control areas provide access to multiple stations, up to three are specified for each booth roughly in order of proximity. Only direct access is noted, for indirect access you would look for other stations with the same complex id.
+There are several booth codes that don't provide access to an MTA station; I filled in placeholder station ids and names for those at the end of the file. This includes vending-only "control areas" like the MetroCard Bus, but also non-MTA systems that accept MetroCards like the PATH or JFK AirTrain.
 
 ## Sources
 
@@ -28,6 +33,16 @@ The *source* folder includes copies of the original files published by the MTA; 
 * Source: http://web.mta.info/developers/turnstile.html
 * Retrieved on 11/19/22
 * Data from 5/5/2010 through 11/11/22
+
+**Stations.csv**: file provided by the MTA as metadata for their GTFS schedule and real time data. Includes MTA station ids, matched to GTFS stops, grouped by complex id.
+* Source: http://web.mta.info/developers/developer-data-terms.html
+* Retrieved on 9/13/22
+* Last updated 8/3/22
+
+**StationComplexes.csv**: additional file including complex names (complexes are groupings of connected stations).
+* Source: http://web.mta.info/developers/developer-data-terms.html
+* Retrieved on 9/13/22
+* Last updated 7/7/22
 
 **2009_nyct_booth_closures.pdf**: due to the 2008 global financial crisis, in January 2009 the MTA prepared a plan to cut costs by shuttering token booths and reducing the number of booth attendants. As part of the proposal, this document was prepared, which includes labeled blue prints of every station with impacted booths. The plan didn't end up being enacted until 2010, and some changes may have been made, but this document seems largely accurate - all kiosks were removed, and most stations had all but one booth closed.
 * Source: https://web.archive.org/web/20090305201018/http://www.mta.info/mta/09/2009_nyct_booth_closures.pdf (linked from https://en.wikipedia.org/wiki/Kew_Gardens–Union_Turnpike_station) - the report doesn't seem to be hosted on the MTA site anymore
