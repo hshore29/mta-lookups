@@ -67,6 +67,7 @@ There are several booth codes that don't provide access to an MTA station; I fil
 * **Notes**: my additional notes clarifying locations for some areas
 
 **FEIS Documents**: NYC requires environmental impact statements for some large projects, which includes their impact on transit. Frequently, these projects will include blueprints or diagrams of subway stations. All final EIS documents are posted on the NYC Planning website here: https://www.nyc.gov/site/planning/applicants/eis-documents.page; below I've included excerpts of the FEIS documents that include subway station plans. Control areas are sometimes referred to as "fare arrays".
+
 * **FEIS Innovation QNS.pdf**: section 13.H, dated 9/9/22
 * **FEIS River Ring.pdf**: section 12.G, dated 11/5/21
 * **FEIS NoHo-SoHo.pdf**: section 14.G, dated 10/8/21
@@ -77,5 +78,10 @@ There are several booth codes that don't provide access to an MTA station; I fil
 * **FEIS Greater East Midtown Rezoning.pdf**: section 12.4, dated 5/26/17
 * **FEIS East Midtown Rezoning and Related Actions.pdf**: section 12.8, dated 9/27/13
 * **FEIS Silvercup West.pdf**: section 10.0, dated 5/24/06
+
+Additional environmental impact statements not found on the NYC Planning website, with links:
+
+* **FEIS Pennsylvania Station.pdf**: section 14 figures 8-10, dated 6/30/22, from https://esd.ny.gov/penn-station-area-final-environmental-impact-statement-feis
+* **FEIS Atlantic Yards.pdf**: section 13 figures 1, 2, dated 11/2006, from https://esd.ny.gov/subsidiaries_projects/ayp/ay_feis.html
 
 **FEIS.csv**: my transcription of the booth details from the blueprints found in the FEIS documents, in a similar format to the NRHP and Booth Closure transcriptions.
