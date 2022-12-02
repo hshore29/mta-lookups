@@ -65,3 +65,17 @@ There are several booth codes that don't provide access to an MTA station; I fil
 * **Booth**: the booth number if labled on the blueprints. "X" and "Exit-only" indicate control areas that were open but had no booth ("X" denotes automated entry); "Closed" indicates control areas that existed but were closed
 * **Description**: my shorthand for where the control area is located, see 2009 booth closure description
 * **Notes**: my additional notes clarifying locations for some areas
+
+**FEIS Documents**: NYC requires environmental impact statements for some large projects, which includes their impact on transit. Frequently, these projects will include blueprints or diagrams of subway stations. All final EIS documents are posted on the NYC Planning website here: https://www.nyc.gov/site/planning/applicants/eis-documents.page; below I've included excerpts of the FEIS documents that include subway station plans. Control areas are sometimes referred to as "fare arrays".
+* **FEIS Innovation QNS.pdf**: section 13.H, dated 9/9/22
+* **FEIS River Ring.pdf**: section 12.G, dated 11/5/21
+* **FEIS NoHo-SoHo.pdf**: section 14.G, dated 10/8/21
+* **FEIS 343 Madison Avenue.pdf**: section 9 pg 41-50, dated 9/10/21
+* **FEIS Gowanus Neighborhood Rezoning.pdf**: section 14.H, dated 9/10/21
+* **FEIS Acme Fish Expansion.pdf**: section 10.H, dated 3/26/21
+* **FEIS East Harlem Rezoning.pdf**: section 14.H, dated 9/19/17
+* **FEIS Greater East Midtown Rezoning.pdf**: section 12.4, dated 5/26/17
+* **FEIS East Midtown Rezoning and Related Actions.pdf**: section 12.8, dated 9/27/13
+* **FEIS Silvercup West.pdf**: section 10.0, dated 5/24/06
+
+**FEIS.csv**: my transcription of the booth details from the blueprints found in the FEIS documents, in a similar format to the NRHP and Booth Closure transcriptions.

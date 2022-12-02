@@ -241,6 +241,7 @@ N070,164,,,164,34 St-Penn Station,
 N071,164,,,164,34 St-Penn Station,
 N072,164,,,164,34 St-Penn Station,
 N073,164,,,164,34 St-Penn Station,
+N074,165,,,165,23 St,
 N075,165,,,165,23 St,
 N076,165,,,165,23 St,
 N077,165,,,165,23 St,
@@ -250,6 +251,7 @@ N081,167,,,167,W 4 St-Wash Sq,
 N083,167,,,167,W 4 St-Wash Sq,
 N086,168,,,168,Spring St,
 N087,168,,,168,Spring St,
+N088,169,,,169,Canal St,
 N089,169,,,169,Canal St,
 N090,169,,,169,Canal St,
 N091,170,,,624,Chambers St,Chambers St / WTC / Park Place / Cortlandt St
@@ -336,6 +338,7 @@ N601,223,,,223,Lexington Av/63 St,
 N601A,223,,,223,Lexington Av/63 St,
 N600,224,,,224,57 St,
 N500,225,,,225,47-50 Sts-Rockefeller Ctr,
+N500A,225,,,225,47-50 Sts-Rockefeller Ctr,
 N501,225,,,225,47-50 Sts-Rockefeller Ctr,
 N501A,225,,,225,47-50 Sts-Rockefeller Ctr,
 N502,226,,,609,42 St-Bryant Pk,42 St - Bryant Pk / 5 Av
@@ -357,15 +360,17 @@ N521,232,,,232,2 Av,
 N523,232,,,232,2 Av,
 N525,233,102,,625,Delancey St-Essex St,Delancey St / Essex St
 N526,233,102,,625,Delancey St-Essex St,Delancey St / Essex St
+N526A,233,102,,625,Delancey St-Essex St,Delancey St / Essex St
 N528,234,,,234,East Broadway,
 N529,234,,,234,East Broadway,
 N530,235,,,235,York St,
 N531,236,,,236,Bergen St,
+N531A,236,,,236,Bergen St,
 N532,236,,,236,Bergen St,
 N533,236,,,236,Bergen St,
 N534,237,,,237,Carroll St,
+N534A,237,,,237,Carroll St,
 N535,237,,,237,Carroll St,
-N535A,237,,,237,Carroll St,
 N536,238,,,238,Smith-9 Sts,
 N537,239,29,,608,4 Av-9 St,4 Av - 9 St
 N539,240,,,240,7 Av,
@@ -426,14 +431,19 @@ N314,271,,,271,Steinway St,
 N315,271,,,271,Steinway St,
 N311,272,,,272,36 St,
 N312,272,,,272,36 St,
+N312A,272,,,272,36 St,
+N313,272,,,272,36 St,
 N309A,273,,,273,Queens Plaza,
 N310,273,,,273,Queens Plaza,
 N307,274,,,606,Court Sq-23 St,Court Sq - 23 St
 N305,275,,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
-N305A,275,,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
+N305A,275,401,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
+N305B,275,401,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
 N306,275,,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
+N306A,275,,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
 N303,276,,,276,5 Av/53 St,
 N304,276,,,276,5 Av/53 St,
+N304A,276,,,276,5 Av/53 St,
 N300,277,,,277,7 Av,
 N301,277,,,277,7 Av,
 N606,278,,,278,Jamaica Center-Parsons/Archer,
@@ -445,6 +455,9 @@ N400A,281,274,,606,Court Sq,Court Sq - 23 St
 N401,282,,,282,21 St,
 N403,283,,,283,Greenpoint Av,
 N405,283,,,283,Greenpoint Av,
+N406,284,,,284,Nassau Av,
+N407,284,,,284,Nassau Av,
+N408,284,,,284,Nassau Av,
 N408A,284,,,284,Nassau Av,
 N409,285,,,629,Metropolitan Av,Metropolitan Av / Lorimer St
 N412,286,,,286,Broadway,
@@ -638,10 +651,12 @@ R242,401,,,612,51 St,51 St - Lexington Av / 53 St
 R242A,401,,,612,51 St,51 St - Lexington Av / 53 St
 R243,401,,,612,51 St,51 St - Lexington Av / 53 St
 R237,402,465,,610,Grand Central-42 St,Grand Central - 42 St
+R237A,402,465,,610,Grand Central-42 St,Grand Central - 42 St
 R237B,402,465,,610,Grand Central-42 St,Grand Central - 42 St
 R238,402,465,,610,Grand Central-42 St,Grand Central - 42 St
 R238A,402,465,,610,Grand Central-42 St,Grand Central - 42 St
 R240,402,465,,610,Grand Central-42 St,Grand Central - 42 St
+R240A,402,,,610,Grand Central-42 St,Grand Central - 42 St
 R231,403,,,403,33 St,
 R231A,403,,,403,33 St,
 R232,403,,,403,33 St,
