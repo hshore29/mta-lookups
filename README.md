@@ -7,7 +7,8 @@ The *source* folder includes copies of the original files published by the MTA; 
 
 **remote_booth_station.csv**: this is a rationalized Remote-Booth-Station file with the following improvements over the MTA's currently posted copy:
 * Includes stations that have opened since 2015 (Hudson Yards, 2nd Av Subway, WTC Cortlandt, plus new exits on the L and others)
-* **status**: current status for the booth; Open, Closed, or Vending-Only (several booths in the MTA lookup file are locations with MetroCard vending machines outside transit stations, like LGA, Eltingville Park, or the MetroCard Buses).
+* **status**: current status for the booth; Open, Closed, Exit-only, or Vending Only (several booths in the MTA lookup file are locations with MetroCard vending machines outside transit stations, like LGA, Eltingville Park, or the MetroCard Buses).
+* **tracked_as**: in the MTA's turnstile data, some control areas are grouped together, despite the areas still being labeled separately on schematics. Exit-only control areas or those with just one or two HEETs will typically be grouped with a nearby control area. This column notes which C/A this area is tracked under in the turnstile data (which also typically match the markings on the security doors and booths).
 * **has_booth**: flag for whether this control area still has a token booth (many were removed in 2010)
 * **prior_remotes** / **prior_station_names**: list of remote units and station names a booth had since ~2009
 * **station_id** / **station_id_2** / **station_id_3** / **station_name**: the MTA station ids directly accessible from this booth, plus the primary station's name
