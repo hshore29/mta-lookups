@@ -6,6 +6,7 @@ R512,4,,,4,Broadway,
 R511,5,,,5,36 Av,
 R510,6,,,6,39 Av-Dutch Kills,
 A002,7,,,613,Lexington Av/59 St,Lexington Av / 59 St
+A003A,7,,,613,Lexington Av/59 St,Lexington Av / 59 St
 A004,7,,,613,Lexington Av/59 St,Lexington Av / 59 St
 A006,8,,,8,5 Av/59 St,
 A007,8,,,8,5 Av/59 St,
@@ -15,8 +16,10 @@ A013,10,,,10,49 St,
 A014,10,,,10,49 St,
 A015,10,,,10,49 St,
 A016,10,,,10,49 St,
+A017,11,468,317,611,Times Sq-42 St,Times Sq - 42 St / Port Authority Bus Terminal
 A021,11,,,611,Times Sq-42 St,Times Sq - 42 St / Port Authority Bus Terminal
 A022,12,227,,607,34 St-Herald Sq,34 St - Herald Sq
+A022A,12,227,,607,34 St-Herald Sq,34 St - Herald Sq
 A025,12,,,607,34 St-Herald Sq,34 St - Herald Sq
 A027,13,,,13,28 St,
 A029,13,,,13,28 St,
@@ -26,6 +29,7 @@ A033,15,,,602,14 St-Union Sq,14 St - Union Sq
 A034,15,,,602,14 St-Union Sq,14 St - Union Sq
 A038,16,,,16,8 St-NYU,
 A039,16,,,16,8 St-NYU,
+A040,16,,,16,8 St-NYU,
 A041,17,,,17,Prince St,
 A042,17,,,17,Prince St,
 A043,18,19,,623,Canal St,Canal St
@@ -44,6 +48,7 @@ A060,23,,,635,Whitehall St-South Ferry,South Ferry / Whitehall
 C001,24,,,620,Court St,Borough Hall / Court St
 C003,25,,,636,Jay St-MetroTech,Jay St - MetroTech
 C004,25,,,636,Jay St-MetroTech,Jay St - MetroTech
+C006,26,,,26,DeKalb Av,
 C008,26,,,26,DeKalb Av,
 C009,27,,,617,Atlantic Av-Barclays Ctr,Atlantic Av-Barclays Ctr
 C010,28,,,28,Union St,
@@ -97,7 +102,9 @@ E001,59,,,59,9 Av,
 E003,60,,,60,Fort Hamilton Pkwy,
 E004,61,,,61,50 St,
 E005,62,,,62,55 St,
+E006,63,,,615,62 St,62 St / New Utrecht Av
 E009,64,,,64,71 St,
+E010,65,,,65,79 St,
 E011,65,,,65,79 St,
 E012,66,,,66,18 Av,
 E013,67,,,67,20 Av,
@@ -110,11 +117,14 @@ D003,72,,,72,Fort Hamilton Pkwy,
 D004,72,,,72,Fort Hamilton Pkwy,
 D005,73,63,,615,New Utrecht Av,62 St / New Utrecht Av
 D006,73,,,615,New Utrecht Av,62 St / New Utrecht Av
+D007,74,,,74,18 Av,
 D008,74,,,74,18 Av,
 D009,75,,,75,20 Av,
 D010,76,,,76,Bay Pkwy,
 D011,76,,,76,Bay Pkwy,
 D012,77,,,77,Kings Hwy,
+D013,77,,,77,Kings Hwy,
+D014,78,,,78,Avenue U,
 D015,78,,,78,Avenue U,
 D016,79,,,79,86 St,
 J037,80,,,80,121 St,
@@ -124,17 +134,21 @@ J031,83,,,83,Woodhaven Blvd,
 J032,83,,,83,Woodhaven Blvd,
 J030,84,,,84,85 St-Forest Pkwy,
 J028,85,,,85,75 St-Elderts Ln,
+J026,86,,,86,Cypress Hills,
 J025,86,,,86,Cypress Hills,
 J024,87,,,87,Crescent St,
 J023,88,,,88,Norwood Av,
 J022,89,,,89,Cleveland St,
 J021,90,,,90,Van Siclen Av,
 J020,91,,,91,Alabama Av,
+J019,92,,,621,Broadway Junction,Broadway Junction
 J017,93,,,93,Chauncey St,
 J016,94,,,94,Halsey St,
 J013,95,,,95,Gates Av,
 J012,96,,,96,Kosciuszko St,
+J010,97,,,97,Myrtle Av,
 J009,97,,,97,Myrtle Av,
+J008,98,,,98,Flushing Av,
 J007,98,,,98,Flushing Av,
 J005,99,,,99,Lorimer St,
 J003,100,,,100,Hewes St,
@@ -143,9 +157,13 @@ J002,101,,,101,Marcy Av,
 A061,102,,,625,Delancey St-Essex St,Delancey St / Essex St
 A064,103,,,103,Bowery,
 A066,104,19,,623,Canal St,Canal St
+A068,104,,,623,Canal St,Canal St
 A069,105,,,622,Chambers St,Brooklyn Bridge-City Hall / Chambers St
 A071,105,,,622,Chambers St,Brooklyn Bridge-City Hall / Chambers St
+A076,106,,,628,Fulton St,Fulton St
 A077,106,172,,628,Fulton St,Fulton St
+A078,106,,,628,Fulton St,Fulton St
+A079,106,,,628,Fulton St,Fulton St
 A081,106,172,,628,Fulton St,Fulton St
 A082,106,,,628,Fulton St,Fulton St
 A083,107,,,107,Broad St,
@@ -159,6 +177,7 @@ H026,112,128,,630,Myrtle-Wyckoff Avs,Myrtle - Wyckoff Avs
 K019,113,,,113,Knickerbocker Av,
 K017,114,,,114,Central Av,
 H001,115,166,,618,8 Av,14 St / 8 Av
+H002,116,,,601,6 Av,14 St / 6 Av
 H003,116,,,601,6 Av,14 St / 6 Av
 A035,117,406,,602,14 St-Union Sq,14 St - Union Sq
 A036,117,,,602,14 St-Union Sq,14 St - Union Sq
@@ -170,18 +189,26 @@ H007A,119,,,119,1 Av,
 H008,119,,,119,1 Av,
 H009,120,,,120,Bedford Av,
 H010,120,,,120,Bedford Av,
+H011,121,,,629,Lorimer St,Metropolitan Av / Lorimer St
 H012,121,,,629,Lorimer St,Metropolitan Av / Lorimer St
 H013,122,,,122,Graham Av,
 H014,122,,,122,Graham Av,
 H015,123,,,123,Grand St,
 H016,123,,,123,Grand St,
 H017,124,,,124,Montrose Av,
+H018,125,,,125,Morgan Av,
 H019,125,,,125,Morgan Av,
+H020,126,,,126,Jefferson St,
+H021,126,,,126,Jefferson St,
 H022,126,,,126,Jefferson St,
 H023,127,,,127,DeKalb Av,
+H024,127,,,127,DeKalb Av,
+H025,127,,,127,DeKalb Av,
 H027,128,112,,630,Myrtle-Wyckoff Avs,Myrtle - Wyckoff Avs
 H028,129,,,129,Halsey St,
+H029,129,,,129,Halsey St,
 H030,129,,,129,Halsey St,
+H031,129,,,129,Halsey St,
 H032,130,,,130,Wilson Av,
 H033,131,,,131,Bushwick Av-Aberdeen St,
 H035,133,,,133,Atlantic Av,
@@ -195,6 +222,7 @@ B010,142,,,626,Botanic Garden,Franklin Av-Medgar Evers College / Botanic Garden
 N001,143,,,143,Inwood-207 St,
 N002A,143,,,143,Inwood-207 St,
 N003,144,,,144,Dyckman St,
+N004,144,,,144,Dyckman St,
 N006A,145,,,145,190 St,
 N007A,146,,,146,181 St,
 N009,146,,,146,181 St,
@@ -202,8 +230,11 @@ N010,147,,,147,175 St,
 N011,147,,,147,175 St,
 N012,148,,,605,168 St,168 St - Washington Hts
 N013,148,,,605,168 St,168 St - Washington Hts
+N014,148,,,605,168 St,168 St - Washington Hts
+N015,149,,,149,163 St-Amsterdam Av,
 N016A,149,,,149,163 St-Amsterdam Av,
 N017,150,,,150,155 St,
+N018,150,,,150,155 St,
 N019,151,,,151,145 St,
 N020,151,,,151,145 St,
 N021,152,,,152,135 St,
@@ -214,6 +245,7 @@ N025,153,,,153,125 St,
 N026,153,,,153,125 St,
 N029,154,,,154,116 St,
 N030,154,,,154,116 St,
+N031,155,,,155,Cathedral Pkwy (110 St),
 N034,155,,,155,Cathedral Pkwy (110 St),
 N035,155,,,155,Cathedral Pkwy (110 St),
 N037,156,,,156,103 St,
@@ -224,8 +256,14 @@ N043,158,,,158,86 St,
 N044,159,,,159,81 St-Museum of Natural History,
 N045,159,,,159,81 St-Museum of Natural History,
 N046,160,,,160,72 St,
+N047,160,,,160,72 St,
+N048,161,,,614,59 St-Columbus Circle,59 St - Columbus Circle
 N049,161,315,,614,59 St-Columbus Circle,59 St - Columbus Circle
-N051,161,,,614,59 St-Columbus Circle,59 St - Columbus Circle
+N051,161,315,,614,59 St-Columbus Circle,59 St - Columbus Circle
+N052,162,,,162,50 St,
+N053,162,,,162,50 St,
+N054,162,,,162,50 St,
+N055,162,,,162,50 St,
 N056,162,,,162,50 St,
 N057,162,,,162,50 St,
 N060,163,,,611,42 St-Port Authority Bus Terminal,Times Sq - 42 St / Port Authority Bus Terminal
@@ -233,6 +271,7 @@ N062,163,,,611,42 St-Port Authority Bus Terminal,Times Sq - 42 St / Port Authori
 N062A,163,,,611,42 St-Port Authority Bus Terminal,Times Sq - 42 St / Port Authority Bus Terminal
 N063,163,,,611,42 St-Port Authority Bus Terminal,Times Sq - 42 St / Port Authority Bus Terminal
 N063A,163,,,611,42 St-Port Authority Bus Terminal,Times Sq - 42 St / Port Authority Bus Terminal
+N064,164,,,164,34 St-Penn Station,
 N065,164,,,164,34 St-Penn Station,
 N067,164,,,164,34 St-Penn Station,
 N068,164,,,164,34 St-Penn Station,
@@ -246,6 +285,7 @@ N075,165,,,165,23 St,
 N076,165,,,165,23 St,
 N077,165,,,165,23 St,
 N078,166,,,618,14 St,14 St / 8 Av
+N079,166,,,618,14 St,14 St / 8 Av
 N080,167,,,167,W 4 St-Wash Sq,
 N081,167,,,167,W 4 St-Wash Sq,
 N083,167,,,167,W 4 St-Wash Sq,
@@ -267,10 +307,12 @@ N103,174,,,636,Jay St-MetroTech,Jay St - MetroTech
 N108,175,,,175,Hoyt-Schermerhorn Sts,
 N110,176,,,176,Lafayette Av,
 N111,177,,,177,Clinton-Washington Avs,
+N111A,177,,,177,Clinton-Washington Avs,
 N112,177,,,177,Clinton-Washington Avs,
 N112A,177,,,177,Clinton-Washington Avs,
 N113,178,,,627,Franklin Av,Franklin Av
 N114,178,139,,627,Franklin Av,Franklin Av
+N114A,178,,,627,Franklin Av,Franklin Av
 N116,179,,,179,Nostrand Av,
 N117,179,,,179,Nostrand Av,
 N118,180,,,180,Kingston-Throop Avs,
@@ -279,6 +321,7 @@ N120,181,,,181,Utica Av,
 N120A,181,,,181,Utica Av,
 N121B,182,,,182,Ralph Av,
 N122,183,,,183,Rockaway Av,
+N123A,183,,,183,Rockaway Av,
 N123B,183,,,183,Rockaway Av,
 N124,184,92,132,621,Broadway Junction,Broadway Junction
 N125,185,,,185,Liberty Av,
@@ -318,6 +361,7 @@ N220,212,,,212,Kingsbridge Rd,
 N221,212,,,212,Kingsbridge Rd,
 N217,213,,,213,Fordham Rd,
 N218,213,,,213,Fordham Rd,
+N219,213,,,213,Fordham Rd,
 N215,214,,,214,182-183 Sts,
 N213,215,,,215,Tremont Av,
 N214,215,,,215,Tremont Av,
@@ -339,12 +383,14 @@ N601A,223,,,223,Lexington Av/63 St,
 N600,224,,,224,57 St,
 N500,225,,,225,47-50 Sts-Rockefeller Ctr,
 N500A,225,,,225,47-50 Sts-Rockefeller Ctr,
+N500B,225,,,225,47-50 Sts-Rockefeller Ctr,
 N501,225,,,225,47-50 Sts-Rockefeller Ctr,
 N501A,225,,,225,47-50 Sts-Rockefeller Ctr,
 N502,226,,,609,42 St-Bryant Pk,42 St - Bryant Pk / 5 Av
 N503,226,,,609,42 St-Bryant Pk,42 St - Bryant Pk / 5 Av
 N504,226,,,609,42 St-Bryant Pk,42 St - Bryant Pk / 5 Av
 N505,227,12,,607,34 St-Herald Sq,34 St - Herald Sq
+N505A,227,12,,607,34 St-Herald Sq,34 St - Herald Sq
 N506,227,12,,607,34 St-Herald Sq,34 St - Herald Sq
 N507,227,,,607,34 St-Herald Sq,34 St - Herald Sq
 N508,228,,,228,23 St,
@@ -386,6 +432,7 @@ N548,244,,,244,Ditmas Av,
 N549,245,,,245,18 Av,
 N550,245,,,245,18 Av,
 N551,246,,,246,Avenue I,
+N552,246,,,246,Avenue I,
 N553,247,,,247,Bay Pkwy,
 N554,248,,,248,Avenue N,
 N555,248,,,248,Avenue N,
@@ -393,6 +440,7 @@ N556,249,,,249,Avenue P,
 N557,250,,,250,Kings Hwy,
 N558,250,,,250,Kings Hwy,
 N559,251,,,251,Avenue U,
+N560,251,,,251,Avenue U,
 N561,252,,,252,Avenue X,
 N562,253,,,253,Neptune Av,
 N342,254,,,254,Jamaica-179 St,
@@ -436,6 +484,7 @@ N313,272,,,272,36 St,
 N309A,273,,,273,Queens Plaza,
 N310,273,,,273,Queens Plaza,
 N307,274,,,606,Court Sq-23 St,Court Sq - 23 St
+N308,274,,,606,Court Sq-23 St,Court Sq - 23 St
 N305,275,,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
 N305A,275,401,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
 N305B,275,401,,612,Lexington Av/53 St,51 St - Lexington Av / 53 St
@@ -454,12 +503,14 @@ N400,281,,,606,Court Sq,Court Sq - 23 St
 N400A,281,274,,606,Court Sq,Court Sq - 23 St
 N401,282,,,282,21 St,
 N403,283,,,283,Greenpoint Av,
+N404,283,,,283,Greenpoint Av,
 N405,283,,,283,Greenpoint Av,
 N406,284,,,284,Nassau Av,
 N407,284,,,284,Nassau Av,
 N408,284,,,284,Nassau Av,
 N408A,284,,,284,Nassau Av,
 N409,285,,,629,Metropolitan Av,Metropolitan Av / Lorimer St
+N410,285,,,629,Metropolitan Av,Metropolitan Av / Lorimer St
 N412,286,,,286,Broadway,
 N414,287,,,287,Flushing Av,
 N414A,287,,,287,Flushing Av,
@@ -469,6 +520,7 @@ N417,289,,,289,Bedford-Nostrand Avs,
 N418,289,,,289,Bedford-Nostrand Avs,
 N419,290,,,290,Classon Av,
 N420B,291,,,291,Clinton-Washington Avs,
+N421,292,,,292,Fulton St,
 N422,292,,,292,Fulton St,
 R197,293,,,293,Van Cortlandt Park-242 St,
 R196,294,,,294,238 St,
@@ -499,6 +551,7 @@ R165,311,,,311,86 St,
 R166,311,,,311,86 St,
 R162,312,,,312,79 St,
 R163,312,,,312,79 St,
+R161,313,,,313,72 St,
 R161A,313,,,313,72 St,
 R161B,313,,,313,72 St,
 R159,314,,,314,66 St-Lincoln Center,
@@ -518,6 +571,7 @@ R135,318,,,318,34 St-Penn Station,
 R137,318,,,318,34 St-Penn Station,
 R138,318,,,318,34 St-Penn Station,
 R139,318,,,318,34 St-Penn Station,
+R140,318,,,318,34 St-Penn Station,
 R141,318,,,318,34 St-Penn Station,
 R142,318,,,318,34 St-Penn Station,
 R133,319,,,319,28 St,
@@ -561,6 +615,7 @@ R600,334,,,334,Clark St,
 R601A,335,24,,620,Borough Hall,Borough Hall / Court St
 R605,336,,,336,Hoyt St,
 R606,336,,,336,Hoyt St,
+R607,336,,,336,Hoyt St,
 R608,337,,,337,Nevins St,
 R609,337,,,337,Nevins St,
 R610,338,40,,617,Atlantic Av-Barclays Ctr,Atlantic Av-Barclays Ctr
@@ -614,6 +669,7 @@ R405,375,,,375,Cypress Av,
 R402,376,,,376,Brook Av,
 R403,376,,,376,Brook Av,
 R401,377,,,377,3 Av-138 St,
+R400,377,,,377,3 Av-138 St,
 R294,378,,,378,Woodlawn,
 R293,379,,,379,Mosholu Pkwy,
 R291,380,,,380,Bedford Park Blvd-Lehman College,
@@ -671,6 +727,7 @@ R227A,405,,,405,23 St,
 R221,406,,,602,14 St-Union Sq,14 St - Union Sq
 R219,407,,,407,Astor Pl,
 R220,407,,,407,Astor Pl,
+R218,408,,,619,Bleecker St,Broadway-Lafayette St / Bleecker St
 R217,408,,,619,Bleecker St,Broadway-Lafayette St / Bleecker St
 R217A,408,,,619,Bleecker St,Broadway-Lafayette St / Bleecker St
 R215,409,,,409,Spring St,
@@ -744,6 +801,7 @@ R526,453,,,453,82 St-Jackson Hts,
 R525,454,,,616,74 St-Broadway,Jackson Hts-Roosevelt Av / 74 St
 R524,455,,,455,69 St,
 R523,456,,,456,Woodside-61 St,
+R522,457,,,457,52 St,
 R521,457,,,457,52 St,
 R519,458,,,458,46 St-Bliss St,
 R520,458,,,458,46 St-Bliss St,
@@ -763,6 +821,7 @@ R501,466,,,609,5 Av,42 St - Bryant Pk / 5 Av
 R148,468,11,317,611,Times Sq-42 St,Times Sq - 42 St / Port Authority Bus Terminal
 R153,468,11,317,611,Times Sq-42 St,Times Sq - 42 St / Port Authority Bus Terminal
 R233,469,,,610,Grand Central-42 St,Grand Central - 42 St
+R234,469,,,610,Grand Central-42 St,Grand Central - 42 St
 R235,469,,,610,Grand Central-42 St,Grand Central - 42 St
 R236,469,,,610,Grand Central-42 St,Grand Central - 42 St
 R550,471,,,471,34 St-Hudson Yards,
