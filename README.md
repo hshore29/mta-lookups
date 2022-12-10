@@ -87,4 +87,8 @@ Additional environmental impact statements not found on the NYC Planning website
 
 **FEIS.csv**: my transcription of the booth details from the blueprints found in the FEIS documents, in a similar format to the NRHP and Booth Closure transcriptions.
 
-**1988/1991 MTA Board Meeting Minutes**: User Kew Gardens 613 on Wikipedia took pictures of a number of batches of MTA board meeting minutes from the late 80s/early 90s detailing a wave of booth closures; links to those pictures are catalogued on their user page here: https://en.wikipedia.org/wiki/User:Kew_Gardens_613/List_of_closed_New_York_City_Subway_entrances#Closed_street_entrances. I scanned through those and used them to fill in missing booth codes, many of which are still open but as HEETs which the MTA doesn't track as separate C/As.
+**1988/1991 MTA Board Meeting Minutes**: User Kew Gardens 613 on Wikipedia took pictures of a number of batches of MTA board meeting minutes from the late 80s/early 90s detailing a wave of booth closures; links to those pictures are catalogued on their user page here: https://en.wikipedia.org/wiki/User:Kew_Gardens_613/List_of_closed_New_York_City_Subway_entrances#Closed_street_entrances. I scanned through those and used them to fill in missing booth codes, many of which are still open or were reopened as HEETs which the MTA doesn't track separately in the turnstile data.
+
+**FOIL-No-19822-Copy-of-Stair_Egress-Closures_All-Stations-3-18-2015_MasterList.xlsx** is a document that WNYC requested from the MTA; it's an internal review of closed stairs and entranceways. Found on WNYC's GitHub here: https://github.com/datanews/subway-stair-closures
+
+**FOIL-Closures-03-18-2015.csv**: just the details about closed control areas, in CSV form.

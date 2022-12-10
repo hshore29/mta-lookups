@@ -138,6 +138,7 @@ Station ID,Complex ID,GTFS Stop ID,Division,Line,Stop Name,Borough,Daytime Route
 137,137,L28,BMT,Canarsie,East 105 St,Bk,L,At Grade,40.650573,-73.899485,Manhattan,Canarsie - Rockaway Parkway,0,,,,,
 138,138,L29,BMT,Canarsie,Canarsie-Rockaway Pkwy,Bk,L,At Grade,40.646654,-73.90185,Manhattan,,1,,,,,
 139,627,S01,BMT,Franklin Shuttle,Franklin Av,Bk,S,Elevated,40.680596,-73.955827,,Prospect Park,1,,,,,
+140,140,S02,BMT,Franklin Shuttle,Dean St,Bk,S,Elevated,40.677809,-73.95654,Franklin Av,Prospect Park,0,,,,,
 141,141,S03,BMT,Franklin Shuttle,Park Pl,Bk,S,Open Cut,40.674772,-73.957624,Franklin Av,Prospect Park,1,,,,,
 142,626,S04,BMT,Franklin Shuttle,Botanic Garden,Bk,S,Open Cut,40.670343,-73.959245,Franklin Av,Prospect Park,0,,,,,
 143,143,A02,IND,8th Av - Fulton St,Inwood-207 St,M,A,Subway,40.868072,-73.919899,,Downtown & Brooklyn,1,,,,,
