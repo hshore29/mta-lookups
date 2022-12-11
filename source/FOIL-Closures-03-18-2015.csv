@@ -4,10 +4,9 @@
 20,BMT,BWY,City Hall,M,,,Mez,,abandoned passageway and easement entrance through Woolworth Bldg
 33,BMT,4AV,45th St,BK,----,,S/B,46 St,"auxiliary s/b plat plat stair, control area and street stair south of 46 St closed; s/b plat has only 1 plat stair"
 41,BMT,BRT,7th Av,BK,B005,South,,,"southern B5, platform stairs and street stairs closed"
-44,BMT,BRT,Church Av,BK,----,,,,Old exit house at SB Plat
 52,BMT,BRT,Av U,BK,----,South,,,"southern auxiliary stair off S/B plat closed, emergency exit only"
-64,BMT,WST,71st St,BK,,North,,,not included:  interior of northern auxiliary mezzanien closed off
-65,BMT,WST,79th St,BK,,North,,,not included:  interior of northern auxiliary mezzanien closed off
+64,BMT,WST,71st St,BK,E008,North,Mez,,not included:  interior of northern auxiliary mezzanien closed off
+65,BMT,WST,79th St,BK,E010,North,Mez,,not included:  interior of northern auxiliary mezzanien closed off
 71,BMT,SEA,8th Av,BK,D001,,Mez,7 Ave,7 Ave control house and plat stairs closed; s/b plat has only 1 platform stair
 80,BMT,BWJ,121st St,Q,J038,East,Mez,123 St,eastern 123 St mezz interior closed and its n/b plat stair exit-only
 81,BMT,BWJ,111th St,Q,J036,East,Mez,113 St,"eastern 113 St mezzanine, platform stairs closed; street stair removed"
@@ -24,12 +23,12 @@
 103,BMT,NAS,Bowery,M,A065,West,Mez,,western mezz A65 closed;  all VCEs share common landing in mezzanine; not included:  closed platform
 104,BMT,NAS,Canal St,M,,North,Mez,Canal St,mezz on north side of Canal St closed
 104,BMT,NAS,Canal St,M,,,,,abandonded platform and mezz to abandoned plat on SE side of Center and Canal
-106,BMT,NAS,Fulton St,M,,,N/B,John St,lower n/b plat: closed control areas at John and Ann Sts
-106,BMT,NAS,Fulton St,M,,,N/B,Ann St,lower n/b plat: closed control areas at John and Ann Sts
-106,BMT,NAS,Fulton St,M,,,S/B,Beekman St,upper s/b plat - closed control area at Beekman St
+106,BMT,NAS,Fulton St,M,A078,,N/B,John St,lower n/b plat: closed control areas at John and Ann Sts
+106,BMT,NAS,Fulton St,M,A076,,N/B,Ann St,lower n/b plat: closed control areas at John and Ann Sts
+106,BMT,NAS,Fulton St,M,A079,,S/B,Beekman St,upper s/b plat - closed control area at Beekman St
 110,BMT,MRT,Forest Av,Q,K023,West,Mez,Madison St,western Madison St mezz removed; 1 platform stair
-134,BMT,CNR,Sutter Av,BK,,,,,"1 Plat Stair/Platform, 1 Street stair, control area mezz possibly removed entirely"
-140,,FRK,Dean St,BK,,,,,Station Demolished
+134,BMT,CNR,Sutter Av,BK,H036,,,,"1 Plat Stair/Platform, 1 Street stair, control area mezz possibly removed entirely"
+140,,FRK,Dean St,BK,B008,,,,Station Demolished
 148,IND,8AV,168th St - Washington Heights,M,N013A,South,Mez,,"2 exit-only control areas closed at south end of mezz; 4 closed street stairs at south end, 1 closed stair at N013A, Closed CA N013A"
 148,IND,8AV,168th St - Washington Heights,M,N012,South,Mez,,"2 exit-only control areas closed at south end of mezz; 4 closed street stairs at south end, 1 closed stair at N013A, Closed CA N013A"
 149,IND,8AV,163rd St - Amsterdam Av,M,N015,,,,Closed CA N015
@@ -50,7 +49,6 @@
 162,IND,8AV,50th St,M,N053,,,,"two closed control areas per direction - 49th and 52nd n/b; 51St and 52nd s/b.  Closed CA N052-3 street stair closed, N053-2 street stair closed, N055-1 street stair closed,, N053-1 street stair closed"
 162,IND,8AV,50th St,M,N054,,,,"two closed control areas per direction - 49th and 52nd n/b; 51St and 52nd s/b.  Closed CA N052-3 street stair closed, N053-2 street stair closed, N055-1 street stair closed,, N053-1 street stair closed"
 162,IND,8AV,50th St,M,N055,,,,"two closed control areas per direction - 49th and 52nd n/b; 51St and 52nd s/b.  Closed CA N052-3 street stair closed, N053-2 street stair closed, N055-1 street stair closed,, N053-1 street stair closed"
-166,IND,8AV,14th St,M,,,,,
 167,IND,8AV,West 4th St,M,,,,,"4 closed or slabbed over street stairs to lower mezzanine, assumed minimum of 2 CA closures"
 167,IND,8AV,West 4th St,M,,,,,"4 closed or slabbed over street stairs to lower mezzanine, assumed minimum of 2 CA closures"
 167,IND,8AV,West 4th St,M,,,,,"4 closed or slabbed over street stairs to lower mezzanine, assumed minimum of 2 CA closures"
@@ -60,11 +58,11 @@
 175,IND,FUL,Hoyt Schermerhorn,BK,,West,,Hoyt St,"Hoyt St / west end control area closed-2 street stair closures, East Mezz has 3 street stair closures"
 178,IND,FUL,Franklin Av,BK,N113A,West,N/B,Classon Ave,"1 closed control area per platform at west / Classon Ave end of station, 1 stair closure per CA"
 178,IND,FUL,Franklin Av,BK,N114A,West,S/B,Classon Ave,"1 closed control area per platform at west / Classon Ave end of station, 1 stair closure per CA"
-179,IND,FUL,Nostrand Av,BK,,,,,"2 Closed CA Unlabeled, 2 street stairs closed per closed CA"
-179,IND,FUL,Nostrand Av,BK,,,,,"2 Closed CA Unlabeled, 2 street stairs closed per closed CA"
+179,IND,FUL,Nostrand Av,BK,N115,West,Mez,Bedford Av,"2 Closed CA Unlabeled, 2 street stairs closed per closed CA"
+179,IND,FUL,Nostrand Av,BK,,Center,N/B,Arlington Pl,"2 Closed CA Unlabeled, 2 street stairs closed per closed CA"
 182,IND,FUL,Ralph Av,BK,N121C,East,,,eastern control area N121C closed
-191,IND,LIB,88th St-Boyd Av,Q,,West,,,"western mezzanine is closed, stairs possibly removed"
-193,IND,LIB,104th St-Oxford Av,Q,,,,,
+191,IND,LIB,88th St-Boyd Av,Q,N132,West,Mez,86th St,"western mezzanine is closed, stairs possibly removed"
+193,IND,LIB,104th St-Oxford Av,Q,N136,West,Mez,102nd St,
 198,IND,RKY,Howard Beach,Q,,,,,Bus terminal closed with associated passageway and CA
 213,IND,BXC,Fordham Rd,BX,N219,,,,
 214,IND,BXC,182nd-183rd Sts,BX,N215A,South,Mez,,southern CA N215A closed - 4 street stairs closed
@@ -77,13 +75,11 @@
 232,IND,6AV,2nd Av,M,N522,East,Mez,1st Ave,"eastern mezzane at 1st Ave closed, no street access"
 233,IND,6AV,Delancey St,M,N524,North,Mez,Rivington,northern N524 at Rivington and southern N527 at Broome closed - 2 street stairs each
 233,IND,6AV,Delancey St,M,N527,South,Mez,Broome,northern N524 at Rivington and southern N527 at Broome closed - 2 street stairs each
-258,IND,QBL,Briarwood-Van Wyck Blvd,Q,----,,,,
-268,IND,QBL,65th St,Q,,West,N/B,63 St,western control areas (63 St) on both platforms closed
-268,IND,QBL,65th St,Q,,West,S/B,63 St,western control areas (63 St) on both platforms closed
-269,IND,QBL,Northern Blvd,Q,,East,N/B,56 St,eastern control areas (56 St) on both platforms closed
-269,IND,QBL,Northern Blvd,Q,,East,S/B,56 St,eastern control areas (56 St) on both platforms closed
-277,IND,E53,7th Av,M,,East,Mez,6th/7th Avs,East Mezz (between 6th and 7th Aves) Closed
-282,IND,BCT,21st St,Q,,,,,2 street stairs closed per closed CA; 2 Additional Plat Stairs removed
+268,IND,QBL,65th St,Q,N320,West,S/B,63 St,western control areas (63 St) on both platforms closed
+268,IND,QBL,65th St,Q,N321,West,N/B,63 St,western control areas (63 St) on both platforms closed
+269,IND,QBL,Northern Blvd,Q,N320,East,S/B,56 St,eastern control areas (56 St) on both platforms closed
+269,IND,QBL,Northern Blvd,Q,N321,East,N/B,56 St,eastern control areas (56 St) on both platforms closed
+282,IND,BCT,21st St,Q,N402,,,,2 street stairs closed per closed CA; 2 Additional Plat Stairs removed
 285,IND,BCT,Metropolitan Av,BK,N410,South,,,"Closed CA N410 w/4 closed street stairs, other 2 street stair closures at north end"
 286,IND,BCT,Broadway,BK,N411,North,,,N411 at north end-includes passageway and 5 street stairs
 286,IND,BCT,Broadway,BK,,,,,Possible auxilarly CA closed at SB plat
@@ -96,9 +92,13 @@
 310,IRT,BW7,96th St,M,,,,,
 318,IRT,BW7,34th St,M,,,,,
 341,IRT,EPK,Eastern Parkway-Brooklyn Museum,BK,R620,West,Mez,,"western mezzanine - 1 Plat Stair/Plat, Mezz level Stair Closed, Closed CA R620"
-349,IRT,NLT,Junius St,BK,,,,,Shared landing - Plat Stairs; eastern Junius St mezzanine closed and street stairs removed
-394,IRT,LEX,110th St,M,,,N/B,111 St,both platforms - 111 St control areas closed
-394,IRT,LEX,110th St,M,,,S/B,111 St,both platforms - 111 St control areas closed
+349,IRT,NLT,Junius St,BK,R631,East,Mez,Junius St,Shared landing - Plat Stairs; eastern Junius St mezzanine closed and street stairs removed
+394,IRT,LEX,110th St,M,R255,North,N/B,111 St,both platforms - 111 St control areas closed
+394,IRT,LEX,110th St,M,----,North,S/B,111 St,both platforms - 111 St control areas closed
+402,IRT,LEX,Grand Central-42nd St,M,R234,,Mez,,"Easement closed to Mobil, Pershing, Lincoln buildings, Mezz D Closed, passageway to GCT "
+412,IRT,LEX,Fulton St,M,R206N,,,,R206N/Southside of 195 Broadway Easement closed
+449,IRT,FLS,111th St,Q,R531,West,Mez,,western R531 mezzanine closed
+468,IRT,42S,Times Square,M,R150,,,,"42S ONLY plus mezz, 1 closed CA with 1 closed street stair"
 402,IRT,LEX,Grand Central-42nd St,M,R234,,Mez,,"Easement closed to Mobil, Pershing, Lincoln buildings, Mezz D Closed, passageway to GCT "
 412,IRT,LEX,Fulton St,M,R206N,,,,R206N/Southside of 195 Broadway Easement closed
 449,IRT,FLS,111th St,Q,R531,West,Mez,,western R531 mezzanine closed

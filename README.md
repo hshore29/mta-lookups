@@ -92,3 +92,5 @@ Additional environmental impact statements not found on the NYC Planning website
 **FOIL-No-19822-Copy-of-Stair_Egress-Closures_All-Stations-3-18-2015_MasterList.xlsx** is a document that WNYC requested from the MTA; it's an internal review of closed stairs and entranceways. Found on WNYC's GitHub here: https://github.com/datanews/subway-stair-closures
 
 **FOIL-Closures-03-18-2015.csv**: just the details about closed control areas, in CSV form.
+
+**Research.md** is a markdown file detailing additional one-off sources that provide confirmation about other specific booth locations.
