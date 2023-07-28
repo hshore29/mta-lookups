@@ -5,17 +5,26 @@ The *source* folder includes copies of the original files published by the MTA; 
 
 ## Cleaned Files
 
-**remote_booth_station.csv**: this is a rationalized Remote-Booth-Station file with the following improvements over the MTA's currently posted copy:
-* Includes stations that have opened since 2015 (Hudson Yards, 2nd Av Subway, WTC Cortlandt, plus new exits on the L and others)
-* **status**: current status for the booth; Open, Closed, Exit-only, or Vending Only (several booths in the MTA lookup file are locations with MetroCard vending machines outside transit stations, like LGA, Eltingville Park, or the MetroCard Buses).
-* **tracked_as**: in the MTA's turnstile data, some control areas are grouped together, despite the areas still being labeled separately on schematics. Exit-only control areas or those with just one or two HEETs will typically be grouped with a nearby control area. This column notes which C/A this area is tracked under in the turnstile data (which also typically match the markings on the security doors and booths).
-* **has_booth**: flag for whether this control area still has a token booth (many were removed in 2010)
-* **prior_remotes** / **prior_station_names**: list of remote units and station names a booth had since ~2009
-* **station_id** / **station_id_2** / **station_id_3** / **station_name**: the MTA station ids directly accessible from this booth, plus the primary station's name
+**remote_booth_station.csv**: this is a rationalized Remote-Booth-Station file, including stations that have opened since 2015 (Hudson Yards, 2nd Av Subway, WTC Cortlandt, plus new exits on the L and others). Remote/Booth/Station columns match what's present in the turnstile data and other lookups, but I've added the following additional columns:
+* **station_id** / **station_id_2** / **station_id_3** / **station_name**: I mapped each booth code to one or more station ids. Since some control areas provide access to multiple stations, up to three are specified for each booth roughly in order of proximity. Only direct access is noted, for indirect access you would look for other stations with the same complex id. Station name included for convenience. There are several booth codes that don't provide access to an MTA station; I filled in placeholder station ids and names for those at the end of the file. This includes vending-only "control areas" like the MetroCard Bus, but also non-MTA systems that accept MetroCards like the PATH or JFK AirTrain.
 * **complex_id** / **complex_name**: the id and name of the station complex the booth is part of
+* **prior_remotes** / **prior_station_names**: list of remote units and station names a booth had since ~2009
+* **poe_loc**: point of entry locator code found in MetroCard transaction histories.
+* **omny_id**: location code used internally by the OMNY system.
+* **booth_status**: current status for the booth; Open, Closed, Exit-only, or Vending (several booths in the MTA lookup file are locations with MetroCard vending machines outside transit stations, like LGA, Eltingville Park, or the MetroCard Buses).
+* **tracked_as**: in the MTA's turnstile data, some control areas are grouped together, despite the areas still being labeled separately on schematics. Exit-only control areas or those with just one or two HEETs will typically be grouped with a nearby control area. This column notes which C/A this area is tracked under in the turnstile data (which also typically match the markings on the security doors and booths).
+* **location**: summary of where the booth is located, see **booth.csv** for more details.
 
-**booth_station.csv**: I mapped each booth code to one or more station ids. Since some control areas provide access to multiple stations, up to three are specified for each booth roughly in order of proximity. Only direct access is noted, for indirect access you would look for other stations with the same complex id.
-There are several booth codes that don't provide access to an MTA station; I filled in placeholder station ids and names for those at the end of the file. This includes vending-only "control areas" like the MetroCard Bus, but also non-MTA systems that accept MetroCards like the PATH or JFK AirTrain.
+**booths.csv**: information about each booth / control area, describing their current status and where each is located.
+* **right_of_way**: what street or right of way the station / line is positioned under.
+* **location**: the nearest cross-street to the booth.
+* **position**: if multiple control areas are at the same cross-streets, this indicates which side or corner this area is located on.
+* **access**: which direction of travel is accessed from this area: N/B (north-bound), S/B (south-bound), Mez (mezzanine with access to both directions), or B/D (separate N/B & S/B entrances tracked together).
+* **into**: is the control area connected to a building rather than the street?
+* **status**: current status for the booth; Open, Closed, Exit-only, or Vending.
+* **tracked_as**: some control areas are grouped together; this column notes which C/A this area is tracked under.
+* **details**: additional info about what kind of booth / control area this is.
+* **has_booth**: whether there is currently a physical booth at this control area (many have been removed over the years).
 
 ## Sources
 
