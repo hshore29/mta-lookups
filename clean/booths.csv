@@ -98,7 +98,8 @@ C008,DEKALB AV,DeKalb Av,BDNQR,BMT,Bk,Flatbush Ave Ext,DeKalb Ave,,Mez,,Open,,,1
 C009,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,4th Ave,Pacific St,,Mez,,Open,,,1
 C010,UNION ST,Union St,R,BMT,Bk,4th Ave,Union St,,N/B,,Open,,,1
 C011,UNION ST,Union St,R,BMT,Bk,4th Ave,Union St,,S/B,,Open,,,0
-C012,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,B/D,,Open,,,0
+C012,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,N/B,,Open,,,0
+C013,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,S/B,,Open,C012,,0
 C014,PROSPECT AV,Prospect Av,R,BMT,Bk,4th Ave,Prospect Ave,,N/B,,Open,,,1
 C015,PROSPECT AV,Prospect Av,R,BMT,Bk,4th Ave,Prospect Ave,,S/B,,Open,,,0
 C016,25 ST,25 St,R,BMT,Bk,4th Ave,25th St,,N/B,,Open,,,1
@@ -154,8 +155,9 @@ H003,6 AV,6 Av,FLM123,BMT,M,W 14th St,6th Ave,E/S,Mez,,Open,,,0
 H005,3 AV,3 Av,L,BMT,M,E 14th St,3rd Ave,,N/B,,Open,,,0
 H006,3 AV,3 Av,L,BMT,M,E 14th St,3rd Ave,,S/B,,Open,,,1
 H007,1 AV,1 Av,L,BMT,M,E 14th St,1st Ave,,N/B,,Open,,,0
-H007A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,B/D,,Open,,,0
+H007A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,N/B,,Open,,,0
 H008,1 AV,1 Av,L,BMT,M,E 14th St,1st Ave,,S/B,,Open,,,0
+H008A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,S/B,,Open,H007A,,0
 H009,BEDFORD AV,Bedford Av,L,BMT,Bk,N 7th St,Bedford Ave,,Mez,,Open,,,1
 H010,BEDFORD AV,Bedford Av,L,BMT,Bk,N 7th St,Driggs Ave,,Mez,,Open,,,0
 H011,LORIMER ST,Lorimer St,LG,BMT,Bk,Metropolitan Ave,Union Ave,,N/B,,Open,N409,,0
@@ -662,12 +664,17 @@ R180,157 ST,157 St,1,IRT,M,Broadway,W 157th St,,S/B,,Open,,,1
 R182,168 ST,168 St-Washington Hts,1AC,IRT,M,Broadway,W 168th St,,Mez,,Open,,,0
 R183,181 ST,181 St,1,IRT,M,St Nicholas Ave,W 181st St,,Mez,,Open,,,1
 R185,191 ST,191 St,1,IRT,M,St Nicholas Ave,W 191st St,,Mez,,Open,,,1
-R186,DYCKMAN ST,Dyckman St,1,IRT,M,Hillside Ave,Dyckman St,,B/D,,Open,,,1
-R188,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,B/D,,Open,,,1
-R190,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,B/D,,Open,,,1
-R192,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,B/D,,Open,,,1
-R194,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,B/D,,Open,,,1
-R196,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,B/D,,Open,,,1
+R186,DYCKMAN ST,Dyckman St,1,IRT,M,Hillside Ave,Dyckman St,,Mez,,Open,,,1
+R187,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,N/B,,Open,R188,,0
+R188,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,S/B,,Open,,,1
+R189,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,N/B,,Open,R190,,0
+R190,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,S/B,,Open,,,1
+R191,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,N/B,,Open,R192,,0
+R192,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,S/B,,Open,,,1
+R193,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,N/B,,Open,R194,,0
+R194,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,S/B,,Open,,,1
+R195,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,N/B,,Open,R196,,0
+R196,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,S/B,,Open,,,1
 R197,V.CORTLANDT PK,Van Cortlandt Park-242 St,1,IRT,Bx,Broadway,W 242nd St,,Mez,,Open,,,1
 R200A,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,Bowling Green,,Mez,,Open,,,1
 R201,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,Battery Pl,,Mez,,Open,,,0
@@ -677,8 +684,9 @@ R203A,WALL ST,Wall St,45,IRT,M,Broadway,Pine St,,N/B,,Open,,,0
 R204,WALL ST,Wall St,45,IRT,M,Broadway,Rector St,,S/B,,Open,,Historic booth (not active),1
 R204A,WALL ST,Wall St,45,IRT,M,Broadway,Pine St,,S/B,Equitable Building,Open,,,0
 R205,FULTON ST,Fulton St,ACJZ2345,IRT,M,Broadway,John St,,N/B,,Closed,,,0
-R205A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,B/D,,Open,,,0
+R205A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,N/B,,Open,,,0
 R206,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Dey St,,S/B,,Open,,,0
+R206A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,S/B,,Open,R205A,,0
 R208,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Fulton St,,S/B,,Open,,,0
 R210,BROOKLYN BRIDGE,Brooklyn Bridge-City Hall,456JZ,IRT,M,Centre St,Brooklyn Bridge,,Mez,,Open,,,1
 R210A,BROOKLYN BRIDGE,Brooklyn Bridge-City Hall,456JZ,IRT,M,Centre St,Reade St,,Mez,,Open,,,0
