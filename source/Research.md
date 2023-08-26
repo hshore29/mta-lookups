@@ -25,9 +25,13 @@ https://www.newspapers.com/clip/3562745/botanic-garden-station-opens-october/
 
 This notice about the opening of the Botanic Garden station mentions an exit at President St that hadn't been completed yet. If that entrance did open, it closed at some point, possibly when the platforms were shortened during the 1998-1999 reconstruction (citation: https://web.archive.org/web/20200706141421/http://subwaynut.com/ct/botanic_gardens/index.php). There is an unused booth code, B11 - B10 is the northern mezzanine at this station, while B12 is the northern mezzanine at the next station (Prospect Park), so it would make sense for B11 to be a *southern* mezzanine at Botanic Garden. I'm assuming that it was used by or reserved for the President St entrance mentioned in the Daily Eagle notice.
 
-**Atlantic Av-Barclays Center (B1)** is a booth that showed up in the turnstile data once, and would logically correspond to the northern BMT mezz connected to the Williamsburg Savings Bank. That control area is now tracked as part of R610.
+**MetroTech FEIS** has a series of station diagrams which, while not labeled with booth codes, show that there was an additional token booth at Borough Hall, located on the north side of Fulton St opposite R604. Given that R602 is also a control area at Borough Hall, and R603 is not otherwise assigned to anything, I'm assuming that **R603** was the code for this booth.
+
+**Orchard Beach** are a set of turnstiles that provide access to the *bus* - and they are outfitted with OMNY, per the photos in this tweet: https://twitter.com/cynthia4nyc/status/1694824539002212728/photo/1
 
 **Control Areas with Multiple Exits**
+
+**Atlantic Av-Barclays Center (B1)** is a booth that showed up in the turnstile data once, and would logically correspond to the northern BMT mezz connected to the Williamsburg Savings Bank. That control area is now tracked as part of R610.
 
 **Spring St (N87)** the S/B platform has two separate exits, one at Spring St and one at Vandam St. The Vandam St exit is different from the long-closed exits to Spring St at Charlton/Prince Sts; I can't find any specific records but am going to call the Vandam St exit **N87A**.
 
@@ -44,3 +48,7 @@ North of Dyckman St, the stations on the 1 train don't have booths on the N/B pl
 * **R194** is 231 St (nothing is **R193**)
 * **R196** is 238 St (nothing is **R195**)
 Given **R186** is in use at Dyckman St and **R197** is in use at Van Cortlandt Park, we can infer that the currently in use even numbered codes at the stations in between are the S/B entrances, and the missing odd numbered codes are for the unstaffed N/B entrances.
+
+**68 St - Hunter College** has two new entrances currently under construction; N/B opened in March 2023, S/B is planned for early 2024. Unclear from the published plans what these will be designated so I'm going to guess at R246A and R246B in order of opening.
+
+**South Ferry** the new South Ferry station opened in 2009, with two additional entrances north of the ferry terminal. In May 2012, until the station was closed due to Hurricane Sandy, turnstile tracking was reassigned from R101 (the booth adjacent to the ferry terminal) to R101S. I'm guessing that R101S is the southern of the two new entrances at Water St, so the one further north at Pearl St would be R101N.

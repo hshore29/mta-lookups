@@ -25,6 +25,7 @@ The *source* folder includes copies of the original files published by the MTA; 
 * **tracked_as**: some control areas are grouped together; this column notes which C/A this area is tracked under.
 * **details**: additional info about what kind of booth / control area this is.
 * **has_booth**: whether there is currently a physical booth at this control area (many have been removed over the years).
+* **lat**/**lon**: the lat/lon coordinates of the booth or primary fare array (approximate).
 
 ## Sources
 
