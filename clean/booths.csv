@@ -1,950 +1,957 @@
 booth,station,station_name,line_name,division,borough,right_of_way,location,position,access,into,status,tracked_as,details,has_booth,lat,lon
-A002,59 ST,Lexington Av/59 St,NQR456W,BMT,M,E 60th St,3rd Ave,,Mez,,Open,,,0,40.7621427,-73.9660346
-A003A,59 ST,Lexington Av/59 St,NQR456W,BMT,M,E 60th St,Lexington Ave,NE cnr,Mez,,Closed,,,0,40.7627869,-73.9674518
-A004,59 ST,Lexington Av/59 St,NQR456W,BMT,M,E 60th St,Lexington Ave,NW cnr,Mez,,Open,R244,Adjacent C/A,0,40.7629303,-73.9678427
-A006,5 AV/59 ST,5 Av/59 St,NQRW,BMT,M,E 60th St,5th Ave,,Mez,,Open,,,1,40.7648736,-73.9724231
-A007,5 AV/59 ST,5 Av/59 St,NQRW,BMT,M,W 59th St,5th-6th Aves,,Mez,,Open,,,0,40.7650077,-73.9746815
-A010,57 ST-7 AV,57 St-7 Av,NQRW,BMT,M,7th Ave,W 57th St,,Mez,,Open,,,1,40.7654829,-73.9800522
-A011,57 ST-7 AV,57 St-7 Av,NQRW,BMT,M,7th Ave,W 55th St,,Mez,,Open,,,0,40.7642153,-73.9809802
-A013,49 ST,49 St,NQRW,BMT,M,7th Ave,W 49th St,,N/B,,Open,,,0,40.7604379,-73.9836029
-A014,49 ST,49 St,NQRW,BMT,M,7th Ave,W 47th St,,N/B,,Closed,,Temporary closure,0,40.7591682,-73.9844988
-A015,49 ST,49 St,NQRW,BMT,M,7th Ave,W 49th St,,S/B,,Open,,,1,40.7605149,-73.9838327
-A016,49 ST,49 St,NQRW,BMT,M,7th Ave,W 47th St,,S/B,,Open,,,0,40.7592891,-73.9847709
-A017,TIMES SQ-42 ST,Times Sq-42 St,ACENQRS1237W,BMT,M,Broadway,W 42nd St,SW cnr,Mez,,Closed,,,0,40.7557389,-73.9865825
-A021,TIMES SQ-42 ST,Times Sq-42 St,ACENQRS1237W,BMT,M,Broadway,W 40th St,,Mez,,Open,,,0,40.7543617,-73.9868779
-A022,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,BMT,M,Broadway,W 34th St,E/S,Mez,,Open,,,0,40.7497582,-73.9876705
-A022A,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,BMT,M,Broadway,W 34th-35th Sts,E/S,Mez,,Open,A022,Adjacent HEET,0,40.7499371,-73.9875551
-A025,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,BMT,M,Broadway,W 32nd St,,Mez,,Open,,,0,40.7484837,-73.9881645
-A026,28 ST,28 St,NRW,BMT,M,Broadway,W 29th St,,N/B,,Closed,,,0,40.7460062,-73.988513
-A027,28 ST,28 St,NRW,BMT,M,Broadway,W 28th St,,N/B,,Open,,,1,40.7452257,-73.9885754
-A028,28 ST,28 St,NRW,BMT,M,Broadway,W 29th St,,S/B,,Closed,,,0,40.7460915,-73.9887114
-A029,28 ST,28 St,NRW,BMT,M,Broadway,W 28th St,,S/B,,Open,,,0,40.745372,-73.9889295
-A030,23 ST,23 St,NRW,BMT,M,Broadway,E 23rd St,,N/B,,Open,,,1,40.7413205,-73.9892179
-A031,23 ST,23 St,NRW,BMT,M,Broadway,E 23rd St,,S/B,,Open,,,0,40.7416218,-73.9893951
-A033,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 16th St,,Mez,,Open,,,0,40.7363481,-73.9904584
-A034,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 14th-15th Sts,W/S,Mez,,Open,,,1,40.7352625,-73.9908573
-A035,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Union Sq E,E 15th St,,Mez,,Open,,,0,40.7351062,-73.9898191
-A036,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 15th St,E/S,Mez,,Open,A034,,0,40.7352077,-73.9904254
-A037,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 14th St,S/S,Mez,,Open,,,0,40.7348953,-73.9910813
-A038,8 ST-NYU,8 St-NYU,NRW,BMT,M,Broadway,E 8th St,,N/B,,Open,,,1,40.7305277,-73.9922498
-A039,8 ST-NYU,8 St-NYU,NRW,BMT,M,Broadway,E 8th St,,S/B,,Open,,,0,40.7306578,-73.992561
-A040,8 ST-NYU,8 St-NYU,NRW,BMT,M,Broadway,Waverly Pl,,S/B,,Open,A039,,0,40.7298082,-73.9931726
-A041,PRINCE ST,Prince St,NRW,BMT,M,Broadway,Prince St,,N/B,,Open,,,1,40.7241467,-73.9975833
-A042,PRINCE ST,Prince St,NRW,BMT,M,Broadway,Prince St,,S/B,,Open,,,0,40.7243337,-73.9979832
-A043,CANAL ST,Canal St,JNQRZ6W,BMT,M,Broadway,Canal St,,N/B,,Open,,,1,40.7193361,-74.0017069
-A044,CANAL ST,Canal St,JNQRZ6W,BMT,M,Broadway,Canal St,,S/B,,Open,A043,,0,40.7195028,-74.0020636
-A046,CANAL ST,Canal St,JNQRZ6W,BMT,M,Canal St,Lafayette St,E/S,Mez,,Open,,,1,40.7183104,-74.0004468
-A047,CITY HALL,City Hall,RNW,BMT,M,Broadway,Murray St,,Mez,,Open,,,1,40.7132786,-74.0069093
-A049,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Dey St,,Mez,Dey St Passageway,Open,,,0,40.7111007,-74.0107425
-A050,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Dey St,,N/B,,Open,,,1,40.7109862,-74.0107093
-A051,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Cortlandt St,,N/B,,Closed,,Pre-2010 closure,0,40.7103588,-74.0111184
-A052,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Dey St,,S/B,Oculus WTC,Open,,,0,40.7112332,-74.0108619
-A053,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Cortlandt St,,S/B,4 WTC,Open,,,,40.7104239,-74.0113249
-A054,RECTOR ST,Rector St,NRW,BMT,M,Trinity Pl,Rector St,,N/B,,Open,,,1,40.7077566,-74.0128853
-A055,RECTOR ST,Rector St,NRW,BMT,M,Trinity Pl,Rector St,,S/B,,Open,,,0,40.7078033,-74.0130596
-A058,WHITEHALL S-FRY,Whitehall St-South Ferry,R1W,BMT,M,Whitehall St,Stone St,,Mez,,Open,,,,40.7041038,-74.013209
-A060,WHITEHALL S-FRY,Whitehall St-South Ferry,R1W,BMT,M,Whitehall St,State St,,Mez,,Open,,,0,40.7020582,-74.0127718
-A061,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,BMT,M,Delancey St,Norfolk St,,S/B,,Open,,,1,40.7184332,-73.9874328
-A064,BOWERY,Bowery,JZ,BMT,M,Delancey St,Bowery,E/S,Mez,,Open,,,1,40.720179,-73.9935198
+A002,59 ST,Lexington Av/59 St,NQR456W,BMT,M,E 60th St,3rd Ave,,Mez,,Open,,,0,40.762143,-73.966035
+A003A,59 ST,Lexington Av/59 St,NQR456W,BMT,M,E 60th St,Lexington Ave,NE cnr,Mez,,Closed,,,0,40.762787,-73.967452
+A004,59 ST,Lexington Av/59 St,NQR456W,BMT,M,E 60th St,Lexington Ave,NW cnr,Mez,,Open,R244,Adjacent C/A,0,40.762930,-73.967843
+A006,5 AV/59 ST,5 Av/59 St,NQRW,BMT,M,E 60th St,5th Ave,,Mez,,Open,,,1,40.764874,-73.972423
+A007,5 AV/59 ST,5 Av/59 St,NQRW,BMT,M,W 59th St,5th-6th Aves,,Mez,,Open,,,0,40.765008,-73.974682
+A010,57 ST-7 AV,57 St-7 Av,NQRW,BMT,M,7th Ave,W 57th St,,Mez,,Open,,,1,40.765483,-73.980052
+A011,57 ST-7 AV,57 St-7 Av,NQRW,BMT,M,7th Ave,W 55th St,,Mez,,Open,,,0,40.764215,-73.980980
+A013,49 ST,49 St,NQRW,BMT,M,7th Ave,W 49th St,,N/B,,Open,,,0,40.760438,-73.983603
+A014,49 ST,49 St,NQRW,BMT,M,7th Ave,W 47th St,,N/B,,Closed,,Temporary closure,0,40.759168,-73.984499
+A015,49 ST,49 St,NQRW,BMT,M,7th Ave,W 49th St,,S/B,,Open,,,1,40.760515,-73.983833
+A016,49 ST,49 St,NQRW,BMT,M,7th Ave,W 47th St,,S/B,,Open,,,0,40.759289,-73.984771
+A017,TIMES SQ-42 ST,Times Sq-42 St,ACENQRS1237W,BMT,M,Broadway,W 42nd St,SW cnr,Mez,,Closed,,,0,40.755739,-73.986583
+A021,TIMES SQ-42 ST,Times Sq-42 St,ACENQRS1237W,BMT,M,Broadway,W 40th St,,Mez,,Open,,,0,40.754362,-73.986878
+A022,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,BMT,M,Broadway,W 34th St,E/S,Mez,,Open,,,0,40.749758,-73.987671
+A022A,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,BMT,M,Broadway,W 34th-35th Sts,E/S,Mez,,Open,A022,Adjacent HEET,0,40.749937,-73.987555
+A025,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,BMT,M,Broadway,W 32nd St,,Mez,,Open,,,0,40.748484,-73.988165
+A026,28 ST,28 St,NRW,BMT,M,Broadway,W 29th St,,N/B,,Closed,,,0,40.746006,-73.988513
+A027,28 ST,28 St,NRW,BMT,M,Broadway,W 28th St,,N/B,,Open,,,1,40.745226,-73.988575
+A028,28 ST,28 St,NRW,BMT,M,Broadway,W 29th St,,S/B,,Closed,,,0,40.746092,-73.988711
+A029,28 ST,28 St,NRW,BMT,M,Broadway,W 28th St,,S/B,,Open,,,0,40.745372,-73.988930
+A030,23 ST,23 St,NRW,BMT,M,Broadway,E 23rd St,,N/B,,Open,,,1,40.741321,-73.989218
+A031,23 ST,23 St,NRW,BMT,M,Broadway,E 23rd St,,S/B,,Open,,,0,40.741622,-73.989395
+A033,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 16th St,,Mez,,Open,,,0,40.736348,-73.990458
+A034,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 14th-15th Sts,W/S,Mez,,Open,,,1,40.735263,-73.990857
+A035,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Union Sq E,E 15th St,,Mez,,Open,,,0,40.735106,-73.989819
+A036,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 15th St,E/S,Mez,,Open,A034,,0,40.735208,-73.990425
+A037,14 ST-UNION SQ,14 St-Union Sq,LNQR456W,BMT,M,Broadway,E 14th St,S/S,Mez,,Open,,,0,40.734895,-73.991081
+A038,8 ST-NYU,8 St-NYU,NRW,BMT,M,Broadway,E 8th St,,N/B,,Open,,,1,40.730528,-73.992250
+A039,8 ST-NYU,8 St-NYU,NRW,BMT,M,Broadway,E 8th St,,S/B,,Open,,,0,40.730658,-73.992561
+A040,8 ST-NYU,8 St-NYU,NRW,BMT,M,Broadway,Waverly Pl,,S/B,,Open,A039,,0,40.729808,-73.993173
+A041,PRINCE ST,Prince St,NRW,BMT,M,Broadway,Prince St,,N/B,,Open,,,1,40.724147,-73.997583
+A042,PRINCE ST,Prince St,NRW,BMT,M,Broadway,Prince St,,S/B,,Open,,,0,40.724334,-73.997983
+A043,CANAL ST,Canal St,JNQRZ6W,BMT,M,Broadway,Canal St,,N/B,,Open,,,1,40.719336,-74.001707
+A044,CANAL ST,Canal St,JNQRZ6W,BMT,M,Broadway,Canal St,,S/B,,Open,A043,,0,40.719503,-74.002064
+A046,CANAL ST,Canal St,JNQRZ6W,BMT,M,Canal St,Lafayette St,E/S,Mez,,Open,,,1,40.718310,-74.000447
+A047,CITY HALL,City Hall,RNW,BMT,M,Broadway,Murray St,,Mez,,Open,,,1,40.713279,-74.006909
+A049,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Dey St,,Mez,Dey St Passageway,Open,,,0,40.711101,-74.010743
+A050,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Dey St,,N/B,,Open,,,1,40.710986,-74.010709
+A051,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Cortlandt St,,N/B,,Closed,,Pre-2010 closure,0,40.710359,-74.011118
+A052,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Dey St,,S/B,Oculus WTC,Open,,,0,40.711233,-74.010862
+A053,CORTLANDT ST,Cortlandt St,RNW,BMT,M,Church St,Cortlandt St,,S/B,4 WTC,Open,,,,40.710424,-74.011325
+A054,RECTOR ST,Rector St,NRW,BMT,M,Trinity Pl,Rector St,,N/B,,Open,,,1,40.707757,-74.012885
+A055,RECTOR ST,Rector St,NRW,BMT,M,Trinity Pl,Rector St,,S/B,,Open,,,0,40.707803,-74.013060
+A058,WHITEHALL S-FRY,Whitehall St-South Ferry,R1W,BMT,M,Whitehall St,Stone St,,Mez,,Open,,,,40.704104,-74.013209
+A060,WHITEHALL S-FRY,Whitehall St-South Ferry,R1W,BMT,M,Whitehall St,State St,,Mez,,Open,,,0,40.702058,-74.012772
+A061,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,BMT,M,Delancey St,Norfolk St,,S/B,,Open,,,1,40.718433,-73.987433
+A064,BOWERY,Bowery,JZ,BMT,M,Delancey St,Bowery,E/S,Mez,,Open,,,1,40.720179,-73.993520
 A065,BOWERY,Bowery,JZ,BMT,M,Delancey St,Bowery,W/S,Mez,,Closed,,,0,40.720493,-73.994429
-A066,CANAL ST,Canal St,JNQRZ6W,BMT,M,Centre St,Canal St,SW cnr,Mez,,Open,,,0,40.7178531,-74.0003315
-A068,CANAL ST,Canal St,JNQRZ6W,BMT,M,Centre St,Canal St,,N/B,,Closed,,,0,40.7178155,-73.9999393
+A066,CANAL ST,Canal St,JNQRZ6W,BMT,M,Centre St,Canal St,SW cnr,Mez,,Open,,,0,40.717853,-74.000332
+A068,CANAL ST,Canal St,JNQRZ6W,BMT,M,Centre St,Canal St,,N/B,,Closed,,,0,40.717816,-73.999939
 A069,CHAMBERS ST,Chambers St,JZ456,BMT,M,Centre St,Chambers St,,Mez,,Open,,,0,40.712754,-74.004045
-A071,CHAMBERS ST,Chambers St,JZ456,BMT,M,Centre St,Duane St,,Mez,,Open,,,0,40.7139413,-74.0031571
-A076,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Ann St,,Mez,,Closed,,,0,40.7105808,-74.0073943
-A077,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Fulton St,,N/B,,Open,,,0,40.7103214,-74.007941
-A078,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,John St,,N/B,,Closed,,,0,40.7095866,-74.0084913
-A079,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Beekman St,,N/B,,Closed,,,0,40.7110485,-74.0067291
-A081,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Fulton St,,S/B,,Open,,,0,40.7101486,-74.0075977
-A082,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,John St,,S/B,,Open,,,0,40.7095163,-74.0084077
-A083,BROAD ST,Broad St,JZ,BMT,M,Broad St,Wall St,,Mez,,Open,,,1,40.7070178,-74.0107538
-A084,BROAD ST,Broad St,JZ,BMT,M,Broad St,Exchange Pl,,N/B,,Open,,,0,40.7061029,-74.0111963
-A085,BROAD ST,Broad St,JZ,BMT,M,Broad St,Exchange Pl,,S/B,,Open,,,0,40.7058161,-74.011486
-B001,ATLANTIC AVE,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,St Felix St,Hansen Pl,,Mez,,Open,R610,,0,40.6850004,-73.9772419
-B002,ATLANTIC AVE,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,St Felix St,Atlantic Terminal,,Mez,LIRR Atlantic Terminal,Open,R610,,0,40.6844842,-73.9769833
-B004,7 AV,7 Av,BQ,BMT,Bk,Flatbush Ave,"Park Pl, Carlton Ave",,Mez,,Open,,,1,40.6773874,-73.9726114
-B005,7 AV,7 Av,BQ,BMT,Bk,Flatbush Ave,Sterling Pl,,Mez,,Closed,,,0,40.6766768,-73.9720889
-B008,DEAN ST,Dean St,S,BMT,Bk,Franklin Ave Line,Dean St,,Mez,,Closed,,Station demolished,0,40.6778816,-73.9565154
-B009,PARK PLACE,Park Pl,S,BMT,Bk,Franklin Ave Line,Park Pl,,Mez,,Open,,,1,40.6747034,-73.9578786
-B010,BOTANIC GARDEN,Botanic Garden,S2345,BMT,Bk,Franklin Ave Line,Eastern Pkwy,,Mez,,Open,,,1,40.6705643,-73.9591748
-B011,BOTANIC GARDEN,Botanic Garden,S2345,BMT,Bk,Franklin Ave Line,President St,,Mez,,Closed,,,0,40.6692796,-73.9596308
-B012,PROSPECT PARK,Prospect Park,BQS,BMT,Bk,Brighton Line (Ocean-Flatbush Aves),"Empire Blvd, Ocean Ave",,Mez,,Open,,,0,40.6622728,-73.9623538
-B013,PROSPECT PARK,Prospect Park,BQS,BMT,Bk,Brighton Line (Ocean-Flatbush Aves),Lincoln Rd,,Mez,,Open,,,1,40.6608859,-73.9621231
-B014,PARKSIDE AV,Parkside Av,BQ,BMT,Bk,Brighton Line (Ocean-Flatbush Aves),Parkside Ave,,Mez,,Open,,,1,40.6553444,-73.9614911
-B015,CHURCH AV,Church Av,BQ,BMT,Bk,Brighton Line (St Pauls Pl),Caton Ave,,Mez,,Open,,,0,40.6514431,-73.96271
-B016,CHURCH AV,Church Av,BQ,BMT,Bk,Brighton Line (E 18th St),Church Ave,,Mez,,Open,,,1,40.6495078,-73.9633993
-B017,BEVERLEY ROAD,Beverley Rd,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Beverley Rd,,Mez,,Open,,,1,40.6442194,-73.964524
-B018,CORTELYOU RD,Cortelyou Rd,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Cortelyou Rd,,Mez,,Open,,,1,40.6415658,-73.9640351
-B019,NEWKIRK PLAZA,Newkirk Plaza,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Newkirk Plaza,,Mez,,Open,,,1,40.6349881,-73.9627778
-B020,AVENUE H,Avenue H,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue H,,Mez,,Open,,,1,40.6300231,-73.9618261
-B021,AVENUE J,Avenue J,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue J,,Mez,,Open,,,1,40.6250814,-73.9608159
-B022,AVENUE M,Avenue M,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue M,,Mez,,Open,,,1,40.6179241,-73.9594619
-B023,KINGS HWY,Kings Hwy,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Kings Hwy,N/S,Mez,,Open,,,0,40.6090919,-73.95782
-B024,KINGS HWY,Kings Hwy,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Kings Hwy,S/S,Mez,,Open,,,1,40.6087987,-73.9577771
-B024A,KINGS HWY,Kings Hwy,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Quentin Rd,,Mez,,Open,,,0,40.6083306,-73.9574139
-B025,AVENUE U,Avenue U,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue U,,Mez,,Open,,,1,40.5990916,-73.95599
-B026,NECK RD,Neck Rd,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Neck Rd,,Mez,,Open,,,1,40.5951298,-73.9551389
-B027,SHEEPSHEAD BAY,Sheepshead Bay,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Sheepshead Bay Rd,,Mez,,Open,,,1,40.5872301,-73.9542104
+A071,CHAMBERS ST,Chambers St,JZ456,BMT,M,Centre St,Duane St,,Mez,,Open,,,0,40.713941,-74.003157
+A076,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Ann St,,Mez,,Closed,,,0,40.710581,-74.007394
+A077,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Fulton St,,N/B,,Open,,,0,40.710321,-74.007941
+A078,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,John St,,N/B,,Closed,,,0,40.709587,-74.008491
+A079,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Beekman St,,N/B,,Closed,,,0,40.711049,-74.006729
+A081,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,Fulton St,,S/B,,Open,,,0,40.710149,-74.007598
+A082,FULTON ST,Fulton St,ACJZ2345,BMT,M,Nassau St,John St,,S/B,,Open,,,0,40.709516,-74.008408
+A083,BROAD ST,Broad St,JZ,BMT,M,Broad St,Wall St,,Mez,,Open,,,1,40.707018,-74.010754
+A084,BROAD ST,Broad St,JZ,BMT,M,Broad St,Exchange Pl,,S/B,,Open,,,0,40.705802,-74.011540
+A085,BROAD ST,Broad St,JZ,BMT,M,Broad St,Exchange Pl,,N/B,,Open,,,0,40.705824,-74.011261
+B001,ATLANTIC AVE,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,St Felix St,Hansen Pl,,Mez,,Open,R610,,0,40.685000,-73.977242
+B002,ATLANTIC AVE,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,St Felix St,Atlantic Terminal,,Mez,LIRR Atlantic Terminal,Open,R610,,0,40.684484,-73.976983
+B004,7 AV,7 Av,BQ,BMT,Bk,Flatbush Ave,"Park Pl, Carlton Ave",,Mez,,Open,,,1,40.677387,-73.972611
+B005,7 AV,7 Av,BQ,BMT,Bk,Flatbush Ave,Sterling Pl,,Mez,,Closed,,,0,40.676677,-73.972089
+B008,DEAN ST,Dean St,S,BMT,Bk,Franklin Ave Line,Dean St,,Mez,,Closed,,Station demolished,0,40.677882,-73.956515
+B009,PARK PLACE,Park Pl,S,BMT,Bk,Franklin Ave Line,Park Pl,,Mez,,Open,,,1,40.674703,-73.957879
+B010,BOTANIC GARDEN,Botanic Garden,S2345,BMT,Bk,Franklin Ave Line,Eastern Pkwy,,Mez,,Open,,,1,40.670564,-73.959175
+B011,BOTANIC GARDEN,Botanic Garden,S2345,BMT,Bk,Franklin Ave Line,President St,,Mez,,Closed,,,0,40.669280,-73.959631
+B012,PROSPECT PARK,Prospect Park,BQS,BMT,Bk,Brighton Line (Ocean-Flatbush Aves),"Empire Blvd, Ocean Ave",,Mez,,Open,,,0,40.662273,-73.962354
+B013,PROSPECT PARK,Prospect Park,BQS,BMT,Bk,Brighton Line (Ocean-Flatbush Aves),Lincoln Rd,,Mez,,Open,,,1,40.660886,-73.962123
+B014,PARKSIDE AV,Parkside Av,BQ,BMT,Bk,Brighton Line (Ocean-Flatbush Aves),Parkside Ave,,Mez,,Open,,,1,40.655344,-73.961491
+B015,CHURCH AV,Church Av,BQ,BMT,Bk,Brighton Line (St Pauls Pl),Caton Ave,,Mez,,Open,,,0,40.651443,-73.962710
+B016,CHURCH AV,Church Av,BQ,BMT,Bk,Brighton Line (E 18th St),Church Ave,,Mez,,Open,,,1,40.649508,-73.963399
+B017,BEVERLEY ROAD,Beverley Rd,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Beverley Rd,,Mez,,Open,,,1,40.644219,-73.964524
+B018,CORTELYOU RD,Cortelyou Rd,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Cortelyou Rd,,Mez,,Open,,,1,40.641566,-73.964035
+B019,NEWKIRK PLAZA,Newkirk Plaza,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Newkirk Plaza,,Mez,,Open,,,1,40.634988,-73.962778
+B020,AVENUE H,Avenue H,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue H,,Mez,,Open,,,1,40.630023,-73.961826
+B021,AVENUE J,Avenue J,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue J,,Mez,,Open,,,1,40.625081,-73.960816
+B022,AVENUE M,Avenue M,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue M,,Mez,,Open,,,1,40.617924,-73.959462
+B023,KINGS HWY,Kings Hwy,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Kings Hwy,N/S,Mez,,Open,,,0,40.609092,-73.957820
+B024,KINGS HWY,Kings Hwy,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Kings Hwy,S/S,Mez,,Open,,,1,40.608799,-73.957777
+B024A,KINGS HWY,Kings Hwy,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Quentin Rd,,Mez,,Open,,,0,40.608331,-73.957414
+B025,AVENUE U,Avenue U,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Avenue U,,Mez,,Open,,,1,40.599092,-73.955990
+B026,NECK RD,Neck Rd,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Neck Rd,,Mez,,Open,,,1,40.595130,-73.955139
+B027,SHEEPSHEAD BAY,Sheepshead Bay,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),Sheepshead Bay Rd,,Mez,,Open,,,1,40.587230,-73.954210
 B028,SHEEPSHEAD BAY,Sheepshead Bay,BQ,BMT,Bk,Brighton Line (E 15th-16th Sts),"Voorhies Ave, Shore Pkwy",,Mez,,Open,,,0,40.585845,-73.954323
-B029,BRIGHTON BEACH,Brighton Beach,BQ,BMT,Bk,Brighton Beach Ave,Brighton 7th St,,Mez,,Open,,,1,40.5778421,-73.9603221
-B031,BRIGHTON BEACH,Brighton Beach,BQ,BMT,Bk,Brighton Beach Ave,Brighton 5th St,,Mez,,Open,,,0,40.5774714,-73.9620494
-B032,OCEAN PKWY,Ocean Pkwy,Q,BMT,Bk,Brighton Beach Ave,Ocean Pkwy,,Mez,,Open,,,1,40.5763467,-73.9676475
-B034,OCEAN PKWY,Ocean Pkwy,Q,BMT,Bk,Brighton Beach Ave,W 1st St,,Mez,,Open,,,0,40.5764119,-73.9695142
-C001,BOROUGH HALL,Court St,R2345,BMT,Bk,Montague St,Clinton St,,Mez,,Closed,,Temporary closure,0,40.694341,-73.9926172
-C003,JAY ST-METROTEC,Jay St-MetroTech,R,BMT,Bk,Willoughby St,Lawrence St,,Mez,,Open,,,1,40.6921911,-73.9861665
-C004,JAY ST-METROTEC,Jay St-MetroTech,R,BMT,Bk,Willoughby St,Bridge St,,Mez,,Open,,,0,40.6921016,-73.985284
-C006,DEKALB AV,DeKalb Av,BDNQR,BMT,Bk,Flatbush Ave Ext,Fleet St,,Mez,,Open,C008,,0,40.6912638,-73.9821599
-C008,DEKALB AV,DeKalb Av,BDNQR,BMT,Bk,Flatbush Ave Ext,DeKalb Ave,,Mez,,Open,,,1,40.6897344,-73.9813741
-C009,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,4th Ave,Pacific St,,Mez,,Open,,,1,40.6839095,-73.9786576
-C010,UNION ST,Union St,R,BMT,Bk,4th Ave,Union St,,N/B,,Open,,,1,40.677136,-73.9830394
-C011,UNION ST,Union St,R,BMT,Bk,4th Ave,Union St,,S/B,,Open,,,0,40.6772416,-73.9833513
-C012,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,N/B,,Open,,,0,40.6704035,-73.988505
-C013,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,S/B,,Open,C012,,0,40.6705499,-73.9887143
-C014,PROSPECT AV,Prospect Av,R,BMT,Bk,4th Ave,Prospect Ave,,N/B,,Open,,,1,40.6651786,-73.9929004
-C015,PROSPECT AV,Prospect Av,R,BMT,Bk,4th Ave,Prospect Ave,,S/B,,Open,,,0,40.6653597,-73.9931472
-C016,25 ST,25 St,R,BMT,Bk,4th Ave,25th St,,N/B,,Open,,,1,40.6602159,-73.9980574
-C017,25 ST,25 St,R,BMT,Bk,4th Ave,25th St,,S/B,,Open,,,0,40.6603767,-73.9983283
-C018,36 ST,36 St,DNR,BMT,Bk,4th Ave,36th St,,Mez,,Open,,,1,40.6545014,-74.0042777
-C019,45 ST,45 St,R,BMT,Bk,4th Ave,45th St,,Mez,,Open,,,1,40.6493591,-74.0095889
-C020,53 ST,53 St,R,BMT,Bk,4th Ave,53rd St,,Mez,,Open,,,1,40.6447036,-74.0144331
-C021,59 ST,59 St,NRW,BMT,Bk,4th Ave,59th St,,Mez,,Open,,,1,40.6415652,-74.0176613
-C022,59 ST,59 St,NRW,BMT,Bk,4th Ave,60th St,,Mez,,Open,,,0,40.6407226,-74.0185894
-C023,BAY RIDGE AV,Bay Ridge Av,R,BMT,Bk,4th Ave,Bay Ridge Ave,,Mez,,Open,,,1,40.6348306,-74.0234323
-C024,77 ST,77 St,R,BMT,Bk,4th Ave,77th St,,Mez,,Open,,,1,40.6296049,-74.0255695
-C025,86 ST,86 St,R,BMT,Bk,4th Ave,86th St,,Mez,,Open,,,1,40.6225287,-74.0284636
-C026,86 ST,86 St,R,BMT,Bk,4th Ave,85th St,,Mez,,Open,,,0,40.6233867,-74.0281236
-C027,BAY RIDGE-95 ST,Bay Ridge-95 St,R,BMT,Bk,4th Ave,95th St,,Mez,,Open,,,,40.6161359,-74.0310724
-C028,BAY RIDGE-95 ST,Bay Ridge-95 St,R,BMT,Bk,4th Ave,93rd St,,Mez,,Open,,,,40.6174104,-74.030552
-D001,8 AV,8 Av,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),7th Ave,,Mez,,Open,,,0,40.6353736,-74.0125401
-D002,8 AV,8 Av,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),8th Ave,,Mez,,Open,,,1,40.6346612,-74.0108289
-D003,FT HAMILTON PKY,Fort Hamilton Pkwy,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),Fort Hamilton Pkwy,,Mez,,Open,,,1,40.6321215,-74.0065616
-D004,FT HAMILTON PKY,Fort Hamilton Pkwy,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),11th Ave,,Mez,,Open,,,0,40.6306783,-74.0041556
-D005,NEW UTRECHT AV,New Utrecht Av,ND,BMT,Bk,Sea Beach Line (62nd St),New Utrecht Ave,,Mez,,Open,,,1,40.6255535,-73.9967861
-D006,NEW UTRECHT AV,New Utrecht Av,ND,BMT,Bk,Sea Beach Line (63rd-64th Sts),15th Ave,,Mez,,Open,,,0,40.6241975,-73.9959517
-D007,18 AV,18 Av,N,BMT,Bk,Sea Beach Line (63rd-64th Sts),17th Ave,,Mez,,Open,D008,,0,40.6212442,-73.9914111
-D008,18 AV,18 Av,N,BMT,Bk,Sea Beach Line (63rd-64th Sts),18th Ave,,Mez,,Open,,,1,40.6201177,-73.9894866
-D009,20 AV,20 Av,N,BMT,Bk,Sea Beach Line (63rd-64th Sts),20th Ave,,Mez,,Open,,,1,40.6172791,-73.984803
-D010,BAY PKWY,Bay Pkwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Bay Pkwy,,Mez,,Open,,,1,40.6128817,-73.9820749
-D011,BAY PKWY,Bay Pkwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Avenue O,,Mez,,Open,,,0,40.6106419,-73.9816324
-D012,KINGS HWY,Kings Hwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Kings Highway,,Mez,,Open,,,1,40.6050433,-73.9805713
-D013,KINGS HWY,Kings Hwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Highlawn Ave,,Mez,,Open,D012,,0,40.6031428,-73.9801995
-D014,AVENUE U,Avenue U,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Avenue T,,Mez,,Open,D015,,0,40.5984393,-73.9793164
-D015,AVENUE U,Avenue U,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Avenue U,,Mez,,Open,,,1,40.5965251,-73.9789599
-D016,86 ST,86 St,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),86th St,,Mez,,Open,,,1,40.5928258,-73.9782543
-E001,9 AV,9 Av,D,BMT,Bk,38th St,9th Ave,,Mez,,Open,,,1,40.6463338,-73.9943797
-E003,FT HAMILTON PKY,Fort Hamilton Pkwy,D,BMT,Bk,New Utrecht Ave,"45th St, Fort Hamilton Pkwy",,Mez,,Open,,,1,40.6403336,-73.9943167
-E004,50 ST,50 St,D,BMT,Bk,New Utrecht Ave,50th St,,Mez,,Open,,,1,40.6358081,-73.9948634
-E005,55 ST,55 St,D,BMT,Bk,New Utrecht Ave,55th St,,Mez,,Open,,,1,40.6315717,-73.9954423
-E006,62 ST,62 St,ND,BMT,Bk,New Utrecht Ave,60th St,,Mez,,Open,D005,,0,40.6271968,-73.9966897
-E008,71 ST,71 St,D,BMT,Bk,New Utrecht Ave,69th St,,Mez,,Open,E009,,0,40.6202992,-73.9986734
-E009,71 ST,71 St,D,BMT,Bk,New Utrecht Ave,71st St,,Mez,,Open,,,1,40.6189621,-73.9990531
-E010,79 ST,79 St,D,BMT,Bk,New Utrecht Ave,77th St,,Mez,,Open,E011,,0,40.6141821,-74.0004191
-E011,79 ST,79 St,D,BMT,Bk,New Utrecht Ave,79th St,,Mez,,Open,,,1,40.6129707,-74.0007773
-E012,18 AV,18 Av,D,BMT,Bk,New Utrecht Ave,18th Ave,,Mez,,Open,,,1,40.6077576,-74.001712
-E013,20 AV,20 Av,D,BMT,Bk,86th St,20th Ave,,Mez,,Open,,,1,40.6045536,-73.9981592
-E014,BAY PKWY,Bay Pkwy,D,BMT,Bk,86th St,Bay Pkwy,,Mez,,Open,,,1,40.6019882,-73.9938884
-E015,25 AV,25 Av,D,BMT,Bk,86th St,25th Ave,,Mez,,Open,,,1,40.5978887,-73.9871257
-E016,BAY 50 ST,Bay 50 St,D,BMT,Bk,Stillwell Ave,Bay 50th St,,Mez,,Open,,,1,40.5882284,-73.9836513
-G001,CONEY IS-STILLW,Coney Island-Stillwell Av,DFNQ,BMT,Bk,Stillwell Ave,Surf Ave,,Mez,,Open,,,1,40.5765869,-73.9809692
-G009,CONEY IS-STILLW,Coney Island-Stillwell Av,DFNQ,BMT,Bk,Stillwell Ave,Mermaid Ave,,Mez,,Open,,,1,40.5770034,-73.9808849
-G011,W 8 ST-AQUARIUM,W 8 St-NY Aquarium,FQ,BMT,Bk,W Brighton Ave,W 8th St,,Mez,,Open,,,1,40.5759391,-73.9765518
-G015,W 8 ST-AQUARIUM,W 8 St-NY Aquarium,FQ,BMT,Bk,W Brighton Ave,W 6th St,,Mez,,Open,,,0,40.5764525,-73.9749264
-H001,8 AV,8 Av,ACEL,BMT,M,W 14th St,8th Ave,,Mez,,Open,,,1,40.7397642,-74.0025212
-H002,6 AV,6 Av,FLM123,BMT,M,W 14th St,6th Ave,W/S,Mez,,Closed,,Platform access removed but mez still open,0,40.7375261,-73.9972244
-H003,6 AV,6 Av,FLM123,BMT,M,W 14th St,6th Ave,E/S,Mez,,Open,,,0,40.7372881,-73.9966574
-H005,3 AV,3 Av,L,BMT,M,E 14th St,3rd Ave,,N/B,,Open,,,0,40.7331999,-73.9867125
-H006,3 AV,3 Av,L,BMT,M,E 14th St,3rd Ave,,S/B,,Open,,,1,40.7330455,-73.9868359
-H007,1 AV,1 Av,L,BMT,M,E 14th St,1st Ave,,N/B,,Open,,,0,40.7313961,-73.9823206
-H007A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,N/B,,Open,,,0,40.7305587,-73.9803733
-H008,1 AV,1 Av,L,BMT,M,E 14th St,1st Ave,,S/B,,Open,,,0,40.7311766,-73.9824761
-H008A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,S/B,,Open,H007A,,0,40.7304359,-73.9806458
-H009,BEDFORD AV,Bedford Av,L,BMT,Bk,N 7th St,Bedford Ave,,Mez,,Open,,,1,40.7178355,-73.9577193
-H010,BEDFORD AV,Bedford Av,L,BMT,Bk,N 7th St,Driggs Ave,,Mez,,Open,,,0,40.7170264,-73.9564426
-H011,LORIMER ST,Lorimer St,LG,BMT,Bk,Metropolitan Ave,Union Ave,,N/B,,Open,N409,,0,40.7141274,-73.9511238
-H012,LORIMER ST,Lorimer St,LG,BMT,Bk,Metropolitan Ave,Lorimer St,,Mez,,Open,,,0,40.7140666,-73.9493654
-H013,GRAHAM AV,Graham Av,L,BMT,Bk,Metropolitan Ave,Graham Ave,,N/B,,Open,,,1,40.7146157,-73.9444032
-H014,GRAHAM AV,Graham Av,L,BMT,Bk,Metropolitan Ave,Graham Ave,,S/B,,Open,,,0,40.7144408,-73.9443764
-H015,GRAND ST,Grand St,L,BMT,Bk,Bushwick Ave,Grand St,,N/B,,Open,,,1,40.7119831,-73.9405733
-H016,GRAND ST,Grand St,L,BMT,Bk,Bushwick Ave,Grand St,,S/B,,Open,,,0,40.7119465,-73.940796
-H017,MONTROSE AV,Montrose Av,L,BMT,Bk,Bushwick Ave,Montrose Ave,,Mez,,Open,,,1,40.707737,-73.9398525
-H018,MORGAN AV,Morgan Av,L,BMT,Bk,Harrison Pl,Bogart St,,Mez,,Open,H019,,0,40.706072,-73.9337082
-H019,MORGAN AV,Morgan Av,L,BMT,Bk,Harrison Pl,Morgan Ave,,Mez,,Open,,,1,40.706332,-73.9319926
-H020,JEFFERSON ST,Jefferson St,L,BMT,Bk,Wyckoff Ave,Jefferson St,,N/B,,Open,H022,,0,40.7071558,-73.9235836
-H021,JEFFERSON ST,Jefferson St,L,BMT,Bk,Wyckoff Ave,Jefferson St,,S/B,,Open,H022,,0,40.7070002,-73.9237445
-H022,JEFFERSON ST,Jefferson St,L,BMT,Bk,Wyckoff Ave,Starr St,,Mez,,Open,,,1,40.7061319,-73.9221522
-H023,DEKALB AV,DeKalb Av,L,BMT,Bk,Wyckoff Ave,DeKalb Ave,,Mez,,Open,,,1,40.704311,-73.9192373
-H024,DEKALB AV,DeKalb Av,L,BMT,Bk,Wyckoff Ave,Stanhope St,,N/B,,Open,H023,,0,40.7034673,-73.9177303
-H025,DEKALB AV,DeKalb Av,L,BMT,Bk,Wyckoff Ave,Stanhope St,,S/B,,Open,H023,,0,40.7033575,-73.9178403
-H026,MYRTLE-WYCKOFF,Myrtle-Wyckoff Avs,LM,BMT,Bk,Wyckoff Ave,Myrtle Ave,,Mez,,Open,,,1,40.6996412,-73.9116237
-H027,MYRTLE-WYCKOFF,Myrtle-Wyckoff Avs,LM,BMT,Bk,Wyckoff Ave,Palmetto St,,Mez,,Open,,,0,40.6995741,-73.9110336
-H028,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,George St,,N/B,,Open,,,1,40.696058,-73.9045701
-H029,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,Norman St,,N/B,,Open,H028,,0,40.695193,-73.9031686
-H030,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,Halsey St,,S/B,,Open,,,0,40.6960174,-73.9051226
-H031,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,Covert St,,S/B,,Open,H030,,0,40.6952174,-73.9035816
-H032,WILSON AV,Wilson Av,L,BMT,Bk,Canarsie Line (Moffat St),Wilson St,,Mez,,Open,,,1,40.6887843,-73.9047099
-H033,BUSHWICK AV,Bushwick Av-Aberdeen St,L,BMT,Bk,Canarsie Line (Bushwick Ave),"Bushwick Ave, Aberdeen St",,Mez,,Open,,,1,40.6824166,-73.9051064
-H035,ATLANTIC AV,Atlantic Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),E New York Ave,,Mez,,Open,,,1,40.6755982,-73.9027513
-H036,SUTTER AV,Sutter Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),Belmont Ave,,Mez,,Closed,,,0,40.6696632,-73.9020409
-H037,SUTTER AV,Sutter Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),Sutter Ave,,Mez,,Open,,,1,40.6686656,-73.9018539
-H038,LIVONIA AV,Livonia Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),Livonia Ave,,Mez,,Open,,,1,40.6639262,-73.9005654
-H039,NEW LOTS,New Lots Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),New Lots Ave,,Mez,,Open,,,1,40.6589477,-73.899339
-H040,EAST 105 ST,East 105 St,L,BMT,Bk,Canarsie Line (Foster Ave-Farragut Rd),E 105th St,,Mez,,Open,,,1,40.6513897,-73.8990001
-H041,CANARSIE-ROCKAW,Canarsie-Rockaway Pkwy,L,BMT,Bk,Canarsie Line (Farragut-Glenwood Rds),Rockaway Pkwy,,Mez,,Open,,,1,40.6456115,-73.9025105
-J001,MARCY AV,Marcy Av,JMZ,BMT,Bk,Broadway,Marcy Ave,,S/B,,Open,,,1,40.7085479,-73.9578733
-J002,MARCY AV,Marcy Av,JMZ,BMT,Bk,Broadway,Marcy Ave,,N/B,,Open,,,0,40.7082958,-73.9580289
-J003,HEWES ST,Hewes St,JM,BMT,Bk,Broadway,Hooper St,,Mez,,Open,,,1,40.7071421,-73.9541887
-J004,HEWES ST,Hewes St,JM,BMT,Bk,Broadway,Hewes St,,Mez,,Open,J003,,0,40.7065803,-73.952548
-J005,LORIMER ST,Lorimer St,JM,BMT,Bk,Broadway,Lorimer St,,Mez,,Open,,,1,40.7042624,-73.9481126
-J007,FLUSHING AV,Flushing Av,JM,BMT,Bk,Broadway,Flushing Ave,,Mez,,Open,,,1,40.7007412,-73.9419265
-J008,FLUSHING AV,Flushing Av,JM,BMT,Bk,Broadway,Ellery St,,Mez,,Open,J007,,0,40.6998729,-73.9404191
-J009,MYRTLE AV,Myrtle Av,JMZ,BMT,Bk,Broadway,Myrtle Ave,,Mez,,Open,,,1,40.6969523,-73.9355555
-J010,MYRTLE AV,Myrtle Av,JMZ,BMT,Bk,Broadway,Jefferson St,,Mez,,Closed,,,0,40.6970621,-73.935212
-J011,KOSCIUSZKO ST,Kosciuszko St,J,BMT,Bk,Broadway,DeKalb Ave,,Mez,,Closed,,,0,40.6937285,-73.9294999
-J012,KOSCIUSZKO ST,Kosciuszko St,J,BMT,Bk,Broadway,Lafayette Ave,,Mez,,Open,,,1,40.6930956,-73.9283917
-J013,GATES AV,Gates Av,JZ,BMT,Bk,Broadway,Quincy St,,Mez,,Open,,,1,40.689956,-73.9228538
-J014,GATES AV,Gates Av,JZ,BMT,Bk,Broadway,Gates Ave,,Mez,,Closed,,,0,40.6893072,-73.9217161
-J015,HALSEY ST,Halsey St,J,BMT,Bk,Broadway,Hancock St,,Mez,,Closed,,,0,40.6867283,-73.9171778
-J016,HALSEY ST,Halsey St,J,BMT,Bk,Broadway,Halsey St,,Mez,,Open,,,1,40.6859948,-73.9158989
-J017,CHAUNCEY ST,Chauncey St,JZ,BMT,Bk,Broadway,Rockaway Ave,,Mez,,Open,,,1,40.6833355,-73.9112283
-J018,CHAUNCEY ST,Chauncey St,JZ,BMT,Bk,Broadway,Chauncey St,,Mez,,Closed,,,0,40.6825493,-73.9098375
-J019,BROADWAY JCT,Broadway Junction,ACJLZ,BMT,Bk,Broadway,Eastern Pkwy,,Mez,,Closed,,,0,40.6798414,-73.9051068
-J020,ALABAMA AV,Alabama Av,J,BMT,Bk,Fulton St,Alabama Ave,,Mez,,Open,,,1,40.6768549,-73.899638
-J021,VAN SICLEN AV,Van Siclen Av,JZ,BMT,Bk,Fulton St,Van Siclen Ave,,Mez,,Open,,,1,40.6779524,-73.891663
-J022,CLEVELAND ST,Cleveland St,J,BMT,Bk,Fulton St,Cleveland St,,Mez,,Open,,,1,40.6796134,-73.8857088
-J023,NORWOOD AV,Norwood Av,JZ,BMT,Bk,Fulton St,Norwood Ave,,Mez,,Open,,,1,40.6817088,-73.8791274
-J024,CRESCENT ST,Crescent St,JZ,BMT,Bk,Fulton St,Crescent St,,Mez,,Open,,,1,40.6834903,-73.8727542
-J025,CYPRESS HILLS,Cypress Hills,J,BMT,Bk,Jamaica Ave,Hemlock St,,Mez,,Open,,,1,40.6896847,-73.8731571
-J026,CYPRESS HILLS,Cypress Hills,J,BMT,Bk,Jamaica Ave,Autumn Ave,,Mez,,Exit-only,J025,"Q/B only, M/B closed",0,40.6902694,-73.8717535
-J027,75 ST-ELDERTS,75 St-Elderts Ln,JZ,BMT,Q,Jamaica Ave,Elderts Ln,,Mez,,Closed,,Mez demolished,0,40.6911924,-73.8680586
-J028,75 ST-ELDERTS,75 St-Elderts Ln,JZ,BMT,Q,Jamaica Ave,75th St,,Mez,,Open,,,1,40.6914324,-73.8664653
-J029,85 ST-FOREST PK,85 St-Forest Pkwy,J,BMT,Q,Jamaica Ave,Forest Pkwy,,Mez,,Closed,,,0,40.6923109,-73.8608863
-J030,85 ST-FOREST PK,85 St-Forest Pkwy,J,BMT,Q,Jamaica Ave,85th St,,Mez,,Open,,,1,40.6925227,-73.8590868
-J031,WOODHAVEN BLVD,Woodhaven Blvd,JZ,BMT,Q,Jamaica Ave,Woodhaven Blvd,,Mez,,Open,,,1,40.6935747,-73.8524308
-J032,WOODHAVEN BLVD,Woodhaven Blvd,JZ,BMT,Q,Jamaica Ave,85th St,,Mez,,Open,,,0,40.6941918,-73.8506697
-J033,104 ST,104 St,JZ,BMT,Q,Jamaica Ave,102nd St,,Mez,,Closed,,Mez demolished,0,40.6951784,-73.8451686
-J034,104 ST,104 St,JZ,BMT,Q,Jamaica Ave,104th St,,Mez,,Open,,,1,40.6951984,-73.8434248
-J035,111 ST,111 St,J,BMT,Q,Jamaica Ave,111th St,,Mez,,Open,,,1,40.6969542,-73.8370493
-J036,111 ST,111 St,J,BMT,Q,Jamaica Ave,113th St,,Mez,,Closed,,,0,40.6978561,-73.8356295
-J037,121 ST,121 St,JZ,BMT,Q,Jamaica Ave,121st St,,Mez,,Open,,,1,40.7003721,-73.8291066
-J038,121 ST,121 St,JZ,BMT,Q,Jamaica Ave,123rd St,,Mez,,Open,J037,,0,40.7006542,-73.8274648
-K017,CENTRAL AV,Central Av,M,BMT,Bk,Myrtle Ave,Cedar St,,Mez,,Open,,,1,40.6979509,-73.9264861
-K019,KNICKERBOCKER,Knickerbocker Av,M,BMT,Bk,Myrtle Ave,Greene Ave,,Mez,,Open,,,1,40.6987631,-73.9188671
-K022,SENECA AVE,Seneca Av,M,BMT,Q,Palmetto St,Seneca Ave,,Mez,,Open,,,1,40.7028245,-73.9077073
-K023,FOREST AVE,Forest Av,M,BMT,Q,Myrtle Ave Line (Madison St),Woodward Ave,,Mez,,Closed,,,0,40.7041979,-73.9039177
-K024,FOREST AVE,Forest Av,M,BMT,Q,Myrtle Ave Line (Putnam Ave),Putnam Ave,,Mez,,Open,,,1,40.7045989,-73.9023303
-K025,FRESH POND RD,Fresh Pond Rd,M,BMT,Q,Myrtle Ave Line (Putnam-67th Aves),Fresh Pond Rd,,Mez,,Open,,,1,40.7061578,-73.8962125
-K026,METROPOLITAN AV,Middle Village-Metropolitan Av,M,BMT,Q,Myrtle Ave Line,Metropolitan Ave,,Mez,,Open,,,1,40.7121428,-73.8892572
-N001,INWOOD-207 ST,Inwood-207 St,A,IND,M,Broadway,W 211th St,,Mez,,Open,,,0,40.8681523,-73.9196049
-N002,INWOOD-207 ST,Inwood-207 St,A,IND,M,Broadway,W 207th-W 211th Sts,,Mez,,Closed,,"Mez closed, no stairs closed",0,40.8679311,-73.9204747
-N002A,INWOOD-207 ST,Inwood-207 St,A,IND,M,Broadway,W 207th St,,Mez,,Open,,,1,40.8676553,-73.9213162
-N003,DYCKMAN ST,Dyckman St,A,IND,M,Broadway,Dyckman St,,S/B,,Open,,,1,40.8655602,-73.9273536
-N004,DYCKMAN ST,Dyckman St,A,IND,M,Broadway,Dyckman St,,N/B,,Exit-only,N003,,0,40.8654135,-73.9272076
-N005,190 ST,190 St,A,IND,M,Fort Washington Ave,Bennett Ave,,Mez,,Closed,,Paid area changed to free,0,40.8589184,-73.9327152
-N006,190 ST,190 St,A,IND,M,Fort Washington Ave,Cabrini Blvd,,Mez,,Closed,,Paid area changed to free,0,40.8590268,-73.9339726
-N006A,190 ST,190 St,A,IND,M,Fort Washington Ave,W 193rd St,,Mez,,Open,,,1,40.8592144,-73.9340538
-N007,181 ST,181 St,A,IND,M,Fort Washington Ave,Overlook Terrace,,Mez,,Closed,,Paid area changed to free,0,40.8527731,-73.9366667
-N007A,181 ST,181 St,A,IND,M,Fort Washington Ave,W 184th St,,Mez,,Open,,,1,40.8529035,-73.9373844
-N008,181 ST,181 St,A,IND,M,Fort Washington Ave,Fort Washington Ave,,Mez,,Closed,,Paid area changed to free,0,40.8528666,-73.9373339
-N009,181 ST,181 St,A,IND,M,Fort Washington Ave,W 181st St,,Mez,,Open,,,0,40.85083,-73.9383286
-N010,175 ST,175 St,A,IND,M,Fort Washington Ave,W 177th St,,Mez,,Open,,,1,40.8478331,-73.9395329
-N011,175 ST,175 St,A,IND,M,Fort Washington Ave,W 175th St,,Mez,,Open,,,0,40.8464574,-73.940064
-N012,168 ST,168 St,AC1,IND,M,St Nicholas Ave,W 169th St,,Mez,,Open,,,0,40.8416746,-73.9393051
-N013,168 ST,168 St,AC1,IND,M,St Nicholas Ave,W 168th St,,Mez,,Open,,,1,40.8408501,-73.939447
-N014,168 ST,168 St,AC1,IND,M,St Nicholas Ave,W 167th St,,Mez,,Closed,,,0,40.8403455,-73.9396752
-N015,163 ST-AMSTERDM,163 St-Amsterdam Av,C,IND,M,St Nicholas Ave,Amsterdam Ave,,Mez,,Closed,,,0,40.8361023,-73.9399622
-N016A,163 ST-AMSTERDM,163 St-Amsterdam Av,C,IND,M,St Nicholas Ave,W 161st St,,Mez,,Open,,,1,40.8353849,-73.9398013
-N017,155 ST,155 St,C,IND,M,St Nicholas Ave,W 155th St,,Mez,,Open,,,1,40.8308893,-73.94138
-N018,155 ST,155 St,C,IND,M,St Nicholas Ave,W 153rd St,,Mez,,Closed,,,0,40.8294529,-73.9419517
-N019,145 ST,145 St,ABCD,IND,M,St Nicholas Ave,W 147th St,,Mez,,Open,,,0,40.8255785,-73.9436571
-N020,145 ST,145 St,ABCD,IND,M,St Nicholas Ave,W 145th St,,Mez,,Open,,,1,40.8240197,-73.9447729
-N021,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 137th St,,N/B,,Open,N023,HEET,0,40.8184237,-73.9472714
-N022,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 137th St,,S/B,,Open,,,0,40.8183628,-73.9476281
-N023,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 135th St,,N/B,,Open,,,0,40.8170779,-73.9478937
-N024,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 135th St,,S/B,,Open,,,1,40.8172931,-73.9481673
-N025,125 ST,125 St,ACBD,IND,M,St Nicholas Ave,W 127th St,,Mez,,Open,,,0,40.811912,-73.9516459
-N026,125 ST,125 St,ACBD,IND,M,St Nicholas Ave,W 125th St,,Mez,,Open,,,1,40.8107305,-73.952641
-N027,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 118th St,,N/B,,Closed,,,0,40.8056947,-73.9543161
-N028,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 118th St,,S/B,,Closed,,,0,40.8057841,-73.9545254
-N029,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 116th St,,N/B,,Open,,,0,40.804359,-73.9551766
-N030,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 116th St,,S/B,,Open,,,1,40.804497,-73.9555279
-N031,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 111th St,,N/B,,Closed,,,0,40.801197,-73.9575927
-N032,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 111th St,,S/B,,Closed,,,0,40.8012924,-73.9577965
-N033,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 110th St,,N/B,,Closed,,,0,40.8007665,-73.9578877
-N034,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 110th St,,S/B,,Open,,,0,40.8008721,-73.958113
-N035,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Central Park West,W 109th St,,Mez,,Open,,,1,40.7999316,-73.9586603
-N036,103 ST,103 St,BC,IND,M,Central Park West,W 104th St,,Mez,,Closed,,,0,40.7968086,-73.961126
-N037,103 ST,103 St,BC,IND,M,Central Park West,W 103rd St,,Mez,,Open,,,1,40.7961681,-73.9615621
-N038,103 ST,103 St,BC,IND,M,Central Park West,W 102nd St,,Mez,,Closed,,,0,40.7955375,-73.9620004
-N039,96 ST,96 St,BC,IND,M,Central Park West,W 97th St,,Mez,,Open,,,0,40.7924387,-73.9643207
-N040,96 ST,96 St,BC,IND,M,Central Park West,W 96th St,,Mez,,Open,,,1,40.7917118,-73.9648625
-N041,96 ST,96 St,BC,IND,M,Central Park West,W 95th St,,Mez,,Closed,,,0,40.7910505,-73.9653019
-N042,86 ST,86 St,BC,IND,M,Central Park West,W 88th St,,Mez,,Open,N043,HEET,0,40.7865858,-73.9685217
-N043,86 ST,86 St,BC,IND,M,Central Park West,W 86th St,,Mez,,Open,,,1,40.78537,-73.9694615
-N044,81 ST-MUSEUM,81 St-Museum of Natural History,BC,IND,M,Central Park West,W 81st St,,Mez,,Open,,,1,40.7820978,-73.971823
-N045,81 ST-MUSEUM,81 St-Museum of Natural History,BC,IND,M,Central Park West,W 78th St,,Mez,,Open,,,,40.7808398,-73.9727691
-N046,72 ST,72 St,BC,IND,M,Central Park West,W 72nd St,,Mez,,Open,,,1,40.7762645,-73.9760658
-N046A,72 ST,72 St,BC,IND,M,Central Park West,W 71st St,,Mez,,Closed,,,0,40.7755998,-73.9765729
-N047,72 ST,72 St,BC,IND,M,Central Park West,W 70th St,,Mez,,Open,N046,HEET,0,40.7751066,-73.9768955
-N048,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,Central Park West,W 61st St,,Mez,,Closed,,,0,40.7693094,-73.9810637
-N049,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,Central Park West,W 60th St,,Mez,,Open,,,1,40.7686544,-73.9816265
-N049A,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,Central Park West,W 60th St,N/S,Mez,,Open,N049,HEET,0,40.7687438,-73.9813985
-N051,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,8th Ave,W 58th St,,Mez,,Open,,,1,40.7676297,-73.9821961
-N052,50 ST,50 St,CE,IND,M,8th Ave,W 52nd St,,N/B,,Closed,,,0,40.7634385,-73.9851138
-N053,50 ST,50 St,CE,IND,M,8th Ave,W 52nd St,,S/B,,Closed,,,0,40.7635441,-73.9853874
-N054,50 ST,50 St,CE,IND,M,8th Ave,W 51st St,,N/B,,Open,N056,HEET,0,40.7628656,-73.9855322
-N055,50 ST,50 St,CE,IND,M,8th Ave,W 51st St,,S/B,,Closed,,,0,40.7629875,-73.9857951
-N056,50 ST,50 St,CE,IND,M,8th Ave,W 50th St,,N/B,,Open,,,0,40.7622253,-73.9859964
-N057,50 ST,50 St,CE,IND,M,8th Ave,W 50th St,,S/B,,Open,,,1,40.7620303,-73.9864846
-N060,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENGRS1237W,IND,M,8th Ave,W 44th St,,Mez,,Open,,,0,40.7584274,-73.9889252
-N062,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 41st St,,Mez,Port Authority Bus Terminal,Open,,,0,40.7578839,-73.9894335
-N062A,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 42nd St,,Mez,,Open,,,1,40.7573678,-73.9895958
-N063,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 40th St,,Mez,,Open,,,0,40.7561315,-73.9905882
-N063A,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 40th St,N/S,Mez,,Open,,,1,40.7561935,-73.9904501
-N064,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 35th St,,Mez,,Closed,,,0,40.7528014,-73.9930318
-N065,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 34th St,,Mez,,Closed,,Free area changed to paid,0,40.7521975,-73.9934653
-N067,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 33rd St,,Mez,Penn Station,Open,,,0,40.7515737,-73.9939132
+B029,BRIGHTON BEACH,Brighton Beach,BQ,BMT,Bk,Brighton Beach Ave,Brighton 7th St,,Mez,,Open,,,1,40.577842,-73.960322
+B031,BRIGHTON BEACH,Brighton Beach,BQ,BMT,Bk,Brighton Beach Ave,Brighton 5th St,,Mez,,Open,,,0,40.577471,-73.962049
+B032,OCEAN PKWY,Ocean Pkwy,Q,BMT,Bk,Brighton Beach Ave,Ocean Pkwy,,Mez,,Open,,,1,40.576347,-73.967648
+B034,OCEAN PKWY,Ocean Pkwy,Q,BMT,Bk,Brighton Beach Ave,W 1st St,,Mez,,Open,,,0,40.576412,-73.969514
+C001,BOROUGH HALL,Court St,R2345,BMT,Bk,Montague St,Clinton St,,Mez,,Closed,,Temporary closure,0,40.694341,-73.992617
+C003,JAY ST-METROTEC,Jay St-MetroTech,R,BMT,Bk,Willoughby St,Lawrence St,,Mez,,Open,,,1,40.692191,-73.986167
+C004,JAY ST-METROTEC,Jay St-MetroTech,R,BMT,Bk,Willoughby St,Bridge St,,Mez,,Open,,,0,40.692102,-73.985284
+C006,DEKALB AV,DeKalb Av,BDNQR,BMT,Bk,Flatbush Ave Ext,Fleet St,,Mez,,Open,C008,,0,40.691264,-73.982160
+C007,DEKALB AV,DeKalb Av,BDNQR,BMT,Bk,Flatbush Ave Ext,Fleet St-DeKalb Ave,W/S,Mez,,Closed,,"Open as cross-over, exit demolished",0,40.690455,-73.981904
+C008,DEKALB AV,DeKalb Av,BDNQR,BMT,Bk,Flatbush Ave Ext,DeKalb Ave,,Mez,,Open,,,1,40.689734,-73.981374
+C009,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,BMT,Bk,4th Ave,Pacific St,,Mez,,Open,,,1,40.683910,-73.978658
+C010,UNION ST,Union St,R,BMT,Bk,4th Ave,Union St,,N/B,,Open,,,1,40.677136,-73.983039
+C011,UNION ST,Union St,R,BMT,Bk,4th Ave,Union St,,S/B,,Open,,,0,40.677242,-73.983351
+C012,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,N/B,,Open,,,0,40.670404,-73.988505
+C013,4AV-9 ST,4 Av-9 St,DFGMNR,BMT,Bk,4th Ave,9th St,,S/B,,Open,C012,,0,40.670550,-73.988714
+C014,PROSPECT AV,Prospect Av,R,BMT,Bk,4th Ave,Prospect Ave,,N/B,,Open,,,1,40.665179,-73.992900
+C015,PROSPECT AV,Prospect Av,R,BMT,Bk,4th Ave,Prospect Ave,,S/B,,Open,,,0,40.665360,-73.993147
+C016,25 ST,25 St,R,BMT,Bk,4th Ave,25th St,,N/B,,Open,,,1,40.660216,-73.998057
+C017,25 ST,25 St,R,BMT,Bk,4th Ave,25th St,,S/B,,Open,,,0,40.660377,-73.998328
+C018,36 ST,36 St,DNR,BMT,Bk,4th Ave,36th St,,Mez,,Open,,,1,40.654501,-74.004278
+C019,45 ST,45 St,R,BMT,Bk,4th Ave,45th St,,Mez,,Open,,,1,40.649359,-74.009589
+C020,53 ST,53 St,R,BMT,Bk,4th Ave,53rd St,,Mez,,Open,,,1,40.644704,-74.014433
+C021,59 ST,59 St,NRW,BMT,Bk,4th Ave,59th St,,Mez,,Open,,,1,40.641565,-74.017661
+C022,59 ST,59 St,NRW,BMT,Bk,4th Ave,60th St,,Mez,,Open,,,0,40.640723,-74.018589
+C023,BAY RIDGE AV,Bay Ridge Av,R,BMT,Bk,4th Ave,Bay Ridge Ave,,Mez,,Open,,,1,40.634831,-74.023432
+C024,77 ST,77 St,R,BMT,Bk,4th Ave,77th St,,Mez,,Open,,,1,40.629605,-74.025570
+C025,86 ST,86 St,R,BMT,Bk,4th Ave,86th St,,Mez,,Open,,,1,40.622529,-74.028464
+C026,86 ST,86 St,R,BMT,Bk,4th Ave,85th St,,Mez,,Open,,,0,40.623387,-74.028124
+C027,BAY RIDGE-95 ST,Bay Ridge-95 St,R,BMT,Bk,4th Ave,95th St,,Mez,,Open,,,,40.616136,-74.031072
+C028,BAY RIDGE-95 ST,Bay Ridge-95 St,R,BMT,Bk,4th Ave,93rd St,,Mez,,Open,,,,40.617410,-74.030552
+D001,8 AV,8 Av,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),7th Ave,,Mez,,Open,,,0,40.635374,-74.012540
+D002,8 AV,8 Av,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),8th Ave,,Mez,,Open,,,1,40.634661,-74.010829
+D003,FT HAMILTON PKY,Fort Hamilton Pkwy,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),Fort Hamilton Pkwy,,Mez,,Open,,,1,40.632122,-74.006562
+D004,FT HAMILTON PKY,Fort Hamilton Pkwy,N,BMT,Bk,Sea Beach Line (61st-62nd Sts),11th Ave,,Mez,,Open,,,0,40.630678,-74.004156
+D005,NEW UTRECHT AV,New Utrecht Av,ND,BMT,Bk,Sea Beach Line (62nd St),New Utrecht Ave,,Mez,,Open,,,1,40.625554,-73.996786
+D006,NEW UTRECHT AV,New Utrecht Av,ND,BMT,Bk,Sea Beach Line (63rd-64th Sts),15th Ave,,Mez,,Open,,,0,40.624198,-73.995952
+D007,18 AV,18 Av,N,BMT,Bk,Sea Beach Line (63rd-64th Sts),17th Ave,,Mez,,Open,D008,,0,40.621244,-73.991411
+D008,18 AV,18 Av,N,BMT,Bk,Sea Beach Line (63rd-64th Sts),18th Ave,,Mez,,Open,,,1,40.620118,-73.989487
+D009,20 AV,20 Av,N,BMT,Bk,Sea Beach Line (63rd-64th Sts),20th Ave,,Mez,,Open,,,1,40.617279,-73.984803
+D010,BAY PKWY,Bay Pkwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Bay Pkwy,,Mez,,Open,,,1,40.612882,-73.982075
+D011,BAY PKWY,Bay Pkwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Avenue O,,Mez,,Open,,,0,40.610642,-73.981632
+D012,KINGS HWY,Kings Hwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Kings Highway,,Mez,,Open,,,1,40.605043,-73.980571
+D013,KINGS HWY,Kings Hwy,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Highlawn Ave,,Mez,,Open,D012,,0,40.603143,-73.980200
+D014,AVENUE U,Avenue U,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Avenue T,,Mez,,Open,D015,,0,40.598439,-73.979316
+D015,AVENUE U,Avenue U,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),Avenue U,,Mez,,Open,,,1,40.596525,-73.978960
+D016,86 ST,86 St,N,BMT,Bk,Sea Beach Line (W 7th-W 8th Sts),86th St,,Mez,,Open,,,1,40.592826,-73.978254
+E001,9 AV,9 Av,D,BMT,Bk,38th St,9th Ave,,Mez,,Open,,,1,40.646334,-73.994380
+E003,FT HAMILTON PKY,Fort Hamilton Pkwy,D,BMT,Bk,New Utrecht Ave,"45th St, Fort Hamilton Pkwy",,Mez,,Open,,,1,40.640334,-73.994317
+E004,50 ST,50 St,D,BMT,Bk,New Utrecht Ave,50th St,,Mez,,Open,,,1,40.635808,-73.994863
+E005,55 ST,55 St,D,BMT,Bk,New Utrecht Ave,55th St,,Mez,,Open,,,1,40.631572,-73.995442
+E006,62 ST,62 St,ND,BMT,Bk,New Utrecht Ave,60th St,,Mez,,Open,D005,,0,40.627197,-73.996690
+E008,71 ST,71 St,D,BMT,Bk,New Utrecht Ave,69th St,,Mez,,Open,E009,,0,40.620299,-73.998673
+E009,71 ST,71 St,D,BMT,Bk,New Utrecht Ave,71st St,,Mez,,Open,,,1,40.618962,-73.999053
+E010,79 ST,79 St,D,BMT,Bk,New Utrecht Ave,77th St,,Mez,,Open,E011,,0,40.614182,-74.000419
+E011,79 ST,79 St,D,BMT,Bk,New Utrecht Ave,79th St,,Mez,,Open,,,1,40.612971,-74.000777
+E012,18 AV,18 Av,D,BMT,Bk,New Utrecht Ave,18th Ave,,Mez,,Open,,,1,40.607758,-74.001712
+E013,20 AV,20 Av,D,BMT,Bk,86th St,20th Ave,,Mez,,Open,,,1,40.604554,-73.998159
+E014,BAY PKWY,Bay Pkwy,D,BMT,Bk,86th St,Bay Pkwy,,Mez,,Open,,,1,40.601988,-73.993888
+E015,25 AV,25 Av,D,BMT,Bk,86th St,25th Ave,,Mez,,Open,,,1,40.597889,-73.987126
+E016,BAY 50 ST,Bay 50 St,D,BMT,Bk,Stillwell Ave,Bay 50th St,,Mez,,Open,,,1,40.588228,-73.983651
+G001,CONEY IS-STILLW,Coney Island-Stillwell Av,DFNQ,BMT,Bk,Stillwell Ave,Surf Ave,,Mez,,Open,,,1,40.576587,-73.980969
+G009,CONEY IS-STILLW,Coney Island-Stillwell Av,DFNQ,BMT,Bk,Stillwell Ave,Mermaid Ave,,Mez,,Open,,,1,40.577003,-73.980885
+G011,W 8 ST-AQUARIUM,W 8 St-NY Aquarium,FQ,BMT,Bk,W Brighton Ave,W 8th St,,Mez,,Open,,,1,40.575939,-73.976552
+G015,W 8 ST-AQUARIUM,W 8 St-NY Aquarium,FQ,BMT,Bk,W Brighton Ave,W 6th St,,Mez,,Open,,,0,40.576453,-73.974926
+H001,8 AV,8 Av,ACEL,BMT,M,W 14th St,8th Ave,,Mez,,Open,,,1,40.739764,-74.002521
+H002,6 AV,6 Av,FLM123,BMT,M,W 14th St,6th Ave,W/S,Mez,,Closed,,Platform access removed but mez still open,0,40.737526,-73.997224
+H003,6 AV,6 Av,FLM123,BMT,M,W 14th St,6th Ave,E/S,Mez,,Open,,,0,40.737288,-73.996657
+H005,3 AV,3 Av,L,BMT,M,E 14th St,3rd Ave,,N/B,,Open,,,0,40.733200,-73.986713
+H006,3 AV,3 Av,L,BMT,M,E 14th St,3rd Ave,,S/B,,Open,,,1,40.733046,-73.986836
+H007,1 AV,1 Av,L,BMT,M,E 14th St,1st Ave,,N/B,,Open,,,0,40.731396,-73.982321
+H007A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,N/B,,Open,,,0,40.730559,-73.980373
+H008,1 AV,1 Av,L,BMT,M,E 14th St,1st Ave,,S/B,,Open,,,0,40.731177,-73.982476
+H008A,1 AV,1 Av,L,BMT,M,E 14th St,Avenue A,,S/B,,Open,H007A,,0,40.730436,-73.980646
+H009,BEDFORD AV,Bedford Av,L,BMT,Bk,N 7th St,Bedford Ave,,Mez,,Open,,,1,40.717836,-73.957719
+H010,BEDFORD AV,Bedford Av,L,BMT,Bk,N 7th St,Driggs Ave,,Mez,,Open,,,0,40.717026,-73.956443
+H011,LORIMER ST,Lorimer St,LG,BMT,Bk,Metropolitan Ave,Union Ave,,N/B,,Open,N409,,0,40.714127,-73.951124
+H012,LORIMER ST,Lorimer St,LG,BMT,Bk,Metropolitan Ave,Lorimer St,,Mez,,Open,,,0,40.714067,-73.949365
+H013,GRAHAM AV,Graham Av,L,BMT,Bk,Metropolitan Ave,Graham Ave,,N/B,,Open,,,1,40.714616,-73.944403
+H014,GRAHAM AV,Graham Av,L,BMT,Bk,Metropolitan Ave,Graham Ave,,S/B,,Open,,,0,40.714441,-73.944376
+H015,GRAND ST,Grand St,L,BMT,Bk,Bushwick Ave,Grand St,,N/B,,Open,,,1,40.711983,-73.940573
+H016,GRAND ST,Grand St,L,BMT,Bk,Bushwick Ave,Grand St,,S/B,,Open,,,0,40.711947,-73.940796
+H017,MONTROSE AV,Montrose Av,L,BMT,Bk,Bushwick Ave,Montrose Ave,,Mez,,Open,,,1,40.707737,-73.939853
+H018,MORGAN AV,Morgan Av,L,BMT,Bk,Harrison Pl,Bogart St,,Mez,,Open,H019,,0,40.706072,-73.933708
+H019,MORGAN AV,Morgan Av,L,BMT,Bk,Harrison Pl,Morgan Ave,,Mez,,Open,,,1,40.706332,-73.931993
+H020,JEFFERSON ST,Jefferson St,L,BMT,Bk,Wyckoff Ave,Jefferson St,,N/B,,Open,H022,,0,40.707156,-73.923584
+H021,JEFFERSON ST,Jefferson St,L,BMT,Bk,Wyckoff Ave,Jefferson St,,S/B,,Open,H022,,0,40.707000,-73.923745
+H022,JEFFERSON ST,Jefferson St,L,BMT,Bk,Wyckoff Ave,Starr St,,Mez,,Open,,,1,40.706132,-73.922152
+H023,DEKALB AV,DeKalb Av,L,BMT,Bk,Wyckoff Ave,DeKalb Ave,,Mez,,Open,,,1,40.704311,-73.919237
+H024,DEKALB AV,DeKalb Av,L,BMT,Bk,Wyckoff Ave,Stanhope St,,N/B,,Open,H023,,0,40.703467,-73.917730
+H025,DEKALB AV,DeKalb Av,L,BMT,Bk,Wyckoff Ave,Stanhope St,,S/B,,Open,H023,,0,40.703358,-73.917840
+H026,MYRTLE-WYCKOFF,Myrtle-Wyckoff Avs,LM,BMT,Bk,Wyckoff Ave,Myrtle Ave,,Mez,,Open,,,1,40.699641,-73.911624
+H027,MYRTLE-WYCKOFF,Myrtle-Wyckoff Avs,LM,BMT,Bk,Wyckoff Ave,Palmetto St,,Mez,,Open,,,0,40.699574,-73.911034
+H028,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,George St,,N/B,,Open,,,1,40.696058,-73.904570
+H029,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,Norman St,,N/B,,Open,H028,,0,40.695193,-73.903169
+H030,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,Halsey St,,S/B,,Open,,,0,40.696017,-73.905123
+H031,HALSEY ST,Halsey St,L,BMT,Q,Wyckoff Ave,Covert St,,S/B,,Open,H030,,0,40.695217,-73.903582
+H032,WILSON AV,Wilson Av,L,BMT,Bk,Canarsie Line (Moffat St),Wilson St,,Mez,,Open,,,1,40.688784,-73.904710
+H033,BUSHWICK AV,Bushwick Av-Aberdeen St,L,BMT,Bk,Canarsie Line (Bushwick Ave),"Bushwick Ave, Aberdeen St",,Mez,,Open,,,1,40.682417,-73.905106
+H035,ATLANTIC AV,Atlantic Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),E New York Ave,,Mez,,Open,,,1,40.675598,-73.902751
+H036,SUTTER AV,Sutter Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),Belmont Ave,,Mez,,Closed,,,0,40.669663,-73.902041
+H037,SUTTER AV,Sutter Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),Sutter Ave,,Mez,,Open,,,1,40.668666,-73.901854
+H038,LIVONIA AV,Livonia Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),Livonia Ave,,Mez,,Open,,,1,40.663926,-73.900565
+H039,NEW LOTS,New Lots Av,L,BMT,Bk,Canarsie Line (Van Sinderen Ave),New Lots Ave,,Mez,,Open,,,1,40.658948,-73.899339
+H040,EAST 105 ST,East 105 St,L,BMT,Bk,Canarsie Line (Foster Ave-Farragut Rd),E 105th St,,Mez,,Open,,,1,40.651390,-73.899000
+H041,CANARSIE-ROCKAW,Canarsie-Rockaway Pkwy,L,BMT,Bk,Canarsie Line (Farragut-Glenwood Rds),Rockaway Pkwy,,Mez,,Open,,,1,40.645612,-73.902511
+J001,MARCY AV,Marcy Av,JMZ,BMT,Bk,Broadway,Marcy Ave,,S/B,,Open,,,1,40.708548,-73.957873
+J001A,MARCY AV,Marcy Av,JMZ,BMT,Bk,Broadway,Havemeyer St,,S/B,,Open,J001,,0,40.708807,-73.958843
+J002,MARCY AV,Marcy Av,JMZ,BMT,Bk,Broadway,Marcy Ave,,N/B,,Open,,,0,40.708296,-73.958029
+J002A,MARCY AV,Marcy Av,JMZ,BMT,Bk,Broadway,Havemeyer St,,N/B,,Open,J002,,0,40.708689,-73.958924
+J003,HEWES ST,Hewes St,JM,BMT,Bk,Broadway,Hooper St,,Mez,,Open,,,1,40.707142,-73.954189
+J004,HEWES ST,Hewes St,JM,BMT,Bk,Broadway,Hewes St,,Mez,,Open,J003,,0,40.706580,-73.952548
+J005,LORIMER ST,Lorimer St,JM,BMT,Bk,Broadway,Lorimer St,,Mez,,Open,,,1,40.704262,-73.948113
+J007,FLUSHING AV,Flushing Av,JM,BMT,Bk,Broadway,Flushing Ave,,Mez,,Open,,,1,40.700741,-73.941927
+J008,FLUSHING AV,Flushing Av,JM,BMT,Bk,Broadway,Ellery St,,Mez,,Open,J007,,0,40.699873,-73.940419
+J009,MYRTLE AV,Myrtle Av,JMZ,BMT,Bk,Broadway,Myrtle Ave,,Mez,,Open,,,1,40.696952,-73.935556
+J010,MYRTLE AV,Myrtle Av,JMZ,BMT,Bk,Broadway,Jefferson St,,Mez,,Closed,,,0,40.697062,-73.935212
+J011,KOSCIUSZKO ST,Kosciuszko St,J,BMT,Bk,Broadway,DeKalb Ave,,Mez,,Closed,,,0,40.693729,-73.929500
+J012,KOSCIUSZKO ST,Kosciuszko St,J,BMT,Bk,Broadway,Lafayette Ave,,Mez,,Open,,,1,40.693096,-73.928392
+J013,GATES AV,Gates Av,JZ,BMT,Bk,Broadway,Quincy St,,Mez,,Open,,,1,40.689956,-73.922854
+J014,GATES AV,Gates Av,JZ,BMT,Bk,Broadway,Gates Ave,,Mez,,Closed,,,0,40.689307,-73.921716
+J015,HALSEY ST,Halsey St,J,BMT,Bk,Broadway,Hancock St,,Mez,,Closed,,,0,40.686728,-73.917178
+J016,HALSEY ST,Halsey St,J,BMT,Bk,Broadway,Halsey St,,Mez,,Open,,,1,40.685995,-73.915899
+J017,CHAUNCEY ST,Chauncey St,JZ,BMT,Bk,Broadway,Rockaway Ave,,Mez,,Open,,,1,40.683336,-73.911228
+J018,CHAUNCEY ST,Chauncey St,JZ,BMT,Bk,Broadway,Chauncey St,,Mez,,Closed,,,0,40.682549,-73.909838
+J019,BROADWAY JCT,Broadway Junction,ACJLZ,BMT,Bk,Broadway,Eastern Pkwy,,Mez,,Closed,,,0,40.679841,-73.905107
+J020,ALABAMA AV,Alabama Av,J,BMT,Bk,Fulton St,Alabama Ave,,Mez,,Open,,,1,40.676855,-73.899638
+J021,VAN SICLEN AV,Van Siclen Av,JZ,BMT,Bk,Fulton St,Van Siclen Ave,,Mez,,Open,,,1,40.677952,-73.891663
+J022,CLEVELAND ST,Cleveland St,J,BMT,Bk,Fulton St,Cleveland St,,Mez,,Open,,,1,40.679613,-73.885709
+J023,NORWOOD AV,Norwood Av,JZ,BMT,Bk,Fulton St,Norwood Ave,,Mez,,Open,,,1,40.681709,-73.879127
+J024,CRESCENT ST,Crescent St,JZ,BMT,Bk,Fulton St,Crescent St,,Mez,,Open,,,1,40.683490,-73.872754
+J025,CYPRESS HILLS,Cypress Hills,J,BMT,Bk,Jamaica Ave,Hemlock St,,Mez,,Open,,,1,40.689685,-73.873157
+J026,CYPRESS HILLS,Cypress Hills,J,BMT,Bk,Jamaica Ave,Autumn Ave,,Mez,,Exit-only,J025,"Q/B only, M/B closed",0,40.690269,-73.871754
+J027,75 ST-ELDERTS,75 St-Elderts Ln,JZ,BMT,Q,Jamaica Ave,Elderts Ln,,Mez,,Closed,,Mez demolished,0,40.691192,-73.868059
+J028,75 ST-ELDERTS,75 St-Elderts Ln,JZ,BMT,Q,Jamaica Ave,75th St,,Mez,,Open,,,1,40.691432,-73.866465
+J029,85 ST-FOREST PK,85 St-Forest Pkwy,J,BMT,Q,Jamaica Ave,Forest Pkwy,,Mez,,Closed,,,0,40.692311,-73.860886
+J030,85 ST-FOREST PK,85 St-Forest Pkwy,J,BMT,Q,Jamaica Ave,85th St,,Mez,,Open,,,1,40.692523,-73.859087
+J031,WOODHAVEN BLVD,Woodhaven Blvd,JZ,BMT,Q,Jamaica Ave,Woodhaven Blvd,,Mez,,Open,,,1,40.693575,-73.852431
+J032,WOODHAVEN BLVD,Woodhaven Blvd,JZ,BMT,Q,Jamaica Ave,85th St,,Mez,,Open,,,0,40.694192,-73.850670
+J033,104 ST,104 St,JZ,BMT,Q,Jamaica Ave,102nd St,,Mez,,Closed,,Mez demolished,0,40.695178,-73.845169
+J034,104 ST,104 St,JZ,BMT,Q,Jamaica Ave,104th St,,Mez,,Open,,,1,40.695198,-73.843425
+J035,111 ST,111 St,J,BMT,Q,Jamaica Ave,111th St,,Mez,,Open,,,1,40.696954,-73.837049
+J036,111 ST,111 St,J,BMT,Q,Jamaica Ave,113th St,,Mez,,Closed,,,0,40.697856,-73.835630
+J037,121 ST,121 St,JZ,BMT,Q,Jamaica Ave,121st St,,Mez,,Open,,,1,40.700372,-73.829107
+J038,121 ST,121 St,JZ,BMT,Q,Jamaica Ave,123rd St,,Mez,,Open,J037,,0,40.700654,-73.827465
+K017,CENTRAL AV,Central Av,M,BMT,Bk,Myrtle Ave,Cedar St,,Mez,,Open,,,1,40.697951,-73.926486
+K019,KNICKERBOCKER,Knickerbocker Av,M,BMT,Bk,Myrtle Ave,Greene Ave,,Mez,,Open,,,1,40.698763,-73.918867
+K022,SENECA AVE,Seneca Av,M,BMT,Q,Palmetto St,Seneca Ave,,Mez,,Open,,,1,40.702825,-73.907707
+K023,FOREST AVE,Forest Av,M,BMT,Q,Myrtle Ave Line (Madison St),Woodward Ave,,Mez,,Closed,,,0,40.704198,-73.903918
+K024,FOREST AVE,Forest Av,M,BMT,Q,Myrtle Ave Line (Putnam Ave),Putnam Ave,,Mez,,Open,,,1,40.704599,-73.902330
+K025,FRESH POND RD,Fresh Pond Rd,M,BMT,Q,Myrtle Ave Line (Putnam-67th Aves),Fresh Pond Rd,,Mez,,Open,,,1,40.706158,-73.896213
+K026,METROPOLITAN AV,Middle Village-Metropolitan Av,M,BMT,Q,Myrtle Ave Line,Metropolitan Ave,,Mez,,Open,,,1,40.712143,-73.889257
+N001,INWOOD-207 ST,Inwood-207 St,A,IND,M,Broadway,W 211th St,,Mez,,Open,,,0,40.868152,-73.919605
+N002,INWOOD-207 ST,Inwood-207 St,A,IND,M,Broadway,W 207th-W 211th Sts,,Mez,,Closed,,"Mez closed, no stairs closed",0,40.867931,-73.920475
+N002A,INWOOD-207 ST,Inwood-207 St,A,IND,M,Broadway,W 207th St,,Mez,,Open,,,1,40.867655,-73.921316
+N003,DYCKMAN ST,Dyckman St,A,IND,M,Broadway,Dyckman St,,S/B,,Open,,,1,40.865560,-73.927354
+N004,DYCKMAN ST,Dyckman St,A,IND,M,Broadway,Dyckman St,,N/B,,Exit-only,N003,,0,40.865414,-73.927208
+N005,190 ST,190 St,A,IND,M,Fort Washington Ave,Bennett Ave,,Mez,,Closed,,Paid area changed to free,0,40.858918,-73.932715
+N006,190 ST,190 St,A,IND,M,Fort Washington Ave,Cabrini Blvd,,Mez,,Closed,,Paid area changed to free,0,40.859027,-73.933973
+N006A,190 ST,190 St,A,IND,M,Fort Washington Ave,W 193rd St,,Mez,,Open,,,1,40.859214,-73.934054
+N007,181 ST,181 St,A,IND,M,Fort Washington Ave,Overlook Terrace,,Mez,,Closed,,Paid area changed to free,0,40.852773,-73.936667
+N007A,181 ST,181 St,A,IND,M,Fort Washington Ave,W 184th St,,Mez,,Open,,,1,40.852904,-73.937384
+N008,181 ST,181 St,A,IND,M,Fort Washington Ave,Fort Washington Ave,,Mez,,Closed,,Paid area changed to free,0,40.852867,-73.937334
+N009,181 ST,181 St,A,IND,M,Fort Washington Ave,W 181st St,,Mez,,Open,,,0,40.850830,-73.938329
+N010,175 ST,175 St,A,IND,M,Fort Washington Ave,W 177th St,,Mez,,Open,,,1,40.847833,-73.939533
+N011,175 ST,175 St,A,IND,M,Fort Washington Ave,W 175th St,,Mez,,Open,,,0,40.846457,-73.940064
+N012,168 ST,168 St,AC1,IND,M,St Nicholas Ave,W 169th St,,Mez,,Open,,,0,40.841675,-73.939305
+N013,168 ST,168 St,AC1,IND,M,St Nicholas Ave,W 168th St,,Mez,,Open,,,1,40.840850,-73.939447
+N014,168 ST,168 St,AC1,IND,M,St Nicholas Ave,W 167th St,,Mez,,Closed,,,0,40.840346,-73.939675
+N015,163 ST-AMSTERDM,163 St-Amsterdam Av,C,IND,M,St Nicholas Ave,Amsterdam Ave,,Mez,,Closed,,,0,40.836102,-73.939962
+N016A,163 ST-AMSTERDM,163 St-Amsterdam Av,C,IND,M,St Nicholas Ave,W 161st St,,Mez,,Open,,,1,40.835385,-73.939801
+N017,155 ST,155 St,C,IND,M,St Nicholas Ave,W 155th St,,Mez,,Open,,,1,40.830889,-73.941380
+N018,155 ST,155 St,C,IND,M,St Nicholas Ave,W 153rd St,,Mez,,Closed,,,0,40.829453,-73.941952
+N019,145 ST,145 St,ABCD,IND,M,St Nicholas Ave,W 147th St,,Mez,,Open,,,0,40.825579,-73.943657
+N020,145 ST,145 St,ABCD,IND,M,St Nicholas Ave,W 145th St,,Mez,,Open,,,1,40.824020,-73.944773
+N021,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 137th St,,N/B,,Open,N023,HEET,0,40.818424,-73.947271
+N022,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 137th St,,S/B,,Open,,,0,40.818363,-73.947628
+N023,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 135th St,,N/B,,Open,,,0,40.817078,-73.947894
+N024,135 ST,135 St,BC,IND,M,St Nicholas Ave,W 135th St,,S/B,,Open,,,1,40.817293,-73.948167
+N025,125 ST,125 St,ACBD,IND,M,St Nicholas Ave,W 127th St,,Mez,,Open,,,0,40.811912,-73.951646
+N026,125 ST,125 St,ACBD,IND,M,St Nicholas Ave,W 125th St,,Mez,,Open,,,1,40.810731,-73.952641
+N027,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 118th St,,N/B,,Closed,,,0,40.805695,-73.954316
+N028,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 118th St,,S/B,,Closed,,,0,40.805784,-73.954525
+N029,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 116th St,,N/B,,Open,,,0,40.804359,-73.955177
+N030,116 ST,116 St,BC,IND,M,Frederick Douglass Blvd,W 116th St,,S/B,,Open,,,1,40.804497,-73.955528
+N031,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 111th St,,N/B,,Closed,,,0,40.801197,-73.957593
+N032,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 111th St,,S/B,,Closed,,,0,40.801292,-73.957797
+N033,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 110th St,,N/B,,Closed,,,0,40.800767,-73.957888
+N034,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Frederick Douglass Blvd,W 110th St,,S/B,,Open,,,0,40.800872,-73.958113
+N035,CATHEDRAL PKWY,Cathedral Pkwy (110 St),BC,IND,M,Central Park West,W 109th St,,Mez,,Open,,,1,40.799932,-73.958660
+N036,103 ST,103 St,BC,IND,M,Central Park West,W 104th St,,Mez,,Closed,,,0,40.796809,-73.961126
+N037,103 ST,103 St,BC,IND,M,Central Park West,W 103rd St,,Mez,,Open,,,1,40.796168,-73.961562
+N038,103 ST,103 St,BC,IND,M,Central Park West,W 102nd St,,Mez,,Closed,,,0,40.795538,-73.962000
+N039,96 ST,96 St,BC,IND,M,Central Park West,W 97th St,,Mez,,Open,,,0,40.792439,-73.964321
+N040,96 ST,96 St,BC,IND,M,Central Park West,W 96th St,,Mez,,Open,,,1,40.791712,-73.964863
+N041,96 ST,96 St,BC,IND,M,Central Park West,W 95th St,,Mez,,Closed,,,0,40.791051,-73.965302
+N042,86 ST,86 St,BC,IND,M,Central Park West,W 88th St,,Mez,,Open,N043,HEET,0,40.786586,-73.968522
+N043,86 ST,86 St,BC,IND,M,Central Park West,W 86th St,,Mez,,Open,,,1,40.785370,-73.969462
+N044,81 ST-MUSEUM,81 St-Museum of Natural History,BC,IND,M,Central Park West,W 81st St,,Mez,,Open,,,1,40.782098,-73.971823
+N045,81 ST-MUSEUM,81 St-Museum of Natural History,BC,IND,M,Central Park West,W 78th St,,Mez,,Open,,,,40.780840,-73.972769
+N046,72 ST,72 St,BC,IND,M,Central Park West,W 72nd St,,Mez,,Open,,,1,40.776265,-73.976066
+N046A,72 ST,72 St,BC,IND,M,Central Park West,W 71st St,,Mez,,Closed,,,0,40.775600,-73.976573
+N047,72 ST,72 St,BC,IND,M,Central Park West,W 70th St,,Mez,,Open,N046,HEET,0,40.775107,-73.976896
+N048,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,Central Park West,W 61st St,,Mez,,Closed,,,0,40.769309,-73.981064
+N049,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,Central Park West,W 60th St,,Mez,,Open,,,1,40.768654,-73.981627
+N049A,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,Central Park West,W 60th St,N/S,Mez,,Open,N049,HEET,0,40.768744,-73.981399
+N051,59 ST COLUMBUS,59 St-Columbus Circle,ABCD1,IND,M,8th Ave,W 58th St,,Mez,,Open,,,1,40.767630,-73.982196
+N052,50 ST,50 St,CE,IND,M,8th Ave,W 52nd St,,N/B,,Closed,,,0,40.763439,-73.985114
+N053,50 ST,50 St,CE,IND,M,8th Ave,W 52nd St,,S/B,,Closed,,,0,40.763544,-73.985387
+N054,50 ST,50 St,CE,IND,M,8th Ave,W 51st St,,N/B,,Open,N056,HEET,0,40.762866,-73.985532
+N055,50 ST,50 St,CE,IND,M,8th Ave,W 51st St,,S/B,,Closed,,,0,40.762988,-73.985795
+N056,50 ST,50 St,CE,IND,M,8th Ave,W 50th St,,N/B,,Open,,,0,40.762225,-73.985996
+N057,50 ST,50 St,CE,IND,M,8th Ave,W 50th St,,S/B,,Open,,,1,40.762030,-73.986485
+N060,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENGRS1237W,IND,M,8th Ave,W 44th St,,Mez,,Open,,,0,40.758427,-73.988925
+N062,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 41st St,,Mez,Port Authority Bus Terminal,Open,,,0,40.757884,-73.989434
+N062A,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 42nd St,,Mez,,Open,,,1,40.757368,-73.989596
+N063,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 40th St,,Mez,,Open,,,0,40.756132,-73.990588
+N063A,42 ST-PORT AUTH,42 St-Port Authority Bus Terminal,ACENQRS1237W,IND,M,8th Ave,W 40th St,N/S,Mez,,Open,,,1,40.756194,-73.990450
+N064,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 35th St,,Mez,,Closed,,,0,40.752801,-73.993032
+N065,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 34th St,,Mez,,Closed,,Free area changed to paid,0,40.752198,-73.993465
+N067,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 33rd St,,Mez,Penn Station,Open,,,0,40.751574,-73.993913
 N067A,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,,,,,,Closed,,,0,,
 N068,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 35th St,,N/B,,Open,,,,40.752795,-73.992771
-N069,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 35th St,,S/B,,Open,,,0,40.7529597,-73.9931653
-N070,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 34th St,,N/B,,Open,,,1,40.7521124,-73.9932512
-N071,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 34th St,,S/B,,Open,,,0,40.752277,-73.9936481
-N072,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 33rd St,,N/B,,Open,,,1,40.7514274,-73.9938005
-N073,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 33rd St,,S/B,,Open,,,1,40.751553,-73.9941262
-N074,23 ST,23 St,CE,IND,M,8th Ave,W 25th St,,N/B,,Open,N076,HEET,0,40.7465024,-73.9973657
-N075,23 ST,23 St,CE,IND,M,8th Ave,W 25th St,,S/B,,Open,,,0,40.7466729,-73.9977546
-N076,23 ST,23 St,CE,IND,M,8th Ave,W 23rd St,,N/B,,Open,,,1,40.7452417,-73.9983178
-N077,23 ST,23 St,CE,IND,M,8th Ave,W 23rd St,,S/B,,Open,,,0,40.7453738,-73.9986531
-N078,14 ST,14 St,ACEL,IND,M,8th Ave,W 16th St,,Mez,,Open,,,1,40.7411248,-74.0015251
-N079,14 ST,14 St,ACEL,IND,M,8th Ave,W 15th St,,Mez,,Open,H001,,0,40.7404465,-74.0020116
-N080,W 4 ST-WASH SQ,W 4 St-Wash Sq,ABCDEFM,IND,M,6th Ave,Waverly Pl,,N/B,,Open,,,0,40.7330446,-73.9998339
-N081,W 4 ST-WASH SQ,W 4 St-Wash Sq,ABCDEFM,IND,M,6th Ave,Waverly Pl,,S/B,,Open,N080,,0,40.7331336,-74.0000722
-N083,W 4 ST-WASH SQ,W 4 St-Wash Sq,ABCDEFM,IND,M,6th Ave,W 3rd St,,Mez,,Open,,,1,40.7311287,-74.0013579
-N084,SPRING ST,Spring St,CE,IND,M,6th Ave,Prince St,,N/B,,Closed,,,0,40.7269303,-74.0033062
-N085,SPRING ST,Spring St,CE,IND,M,6th Ave,Charlton St,,S/B,,Closed,,,0,40.726979,-74.0036066
-N086,SPRING ST,Spring St,CE,IND,M,6th Ave,Spring St,,N/B,,Open,,,1,40.7256143,-74.0038767
-N087,SPRING ST,Spring St,CE,IND,M,6th Ave,Spring St,,S/B,,Open,,,0,40.7256346,-74.004102
-N087A,SPRING ST,Spring St,CE,IND,M,6th Ave,Vandam St,,S/B,,Open,N087,HEET,0,40.7262748,-74.0038646
-N088,CANAL ST,Canal St,ACE,IND,M,6th Ave,Canal St,,Mez,,Open,N089,Adjacent C/A,0,40.7215763,-74.0052956
-N089,CANAL ST,Canal St,ACE,IND,M,6th Ave,W Broadway,,Mez,,Open,,,1,40.7208365,-74.0052206
-N090,CANAL ST,Canal St,ACE,IND,M,6th Ave,Walker St,,Mez,,Open,,,0,40.7199542,-74.0051776
-N091,CHAMBERS ST,Chambers St,ACE23,IND,M,Church St,Chambers St,,Mez,,Open,,,,40.7148881,-74.0079652
-N092,CHAMBERS ST,Chambers St,ACE23,IND,M,Church St,Park Pl,,Mez,,Open,,,1,40.7133562,-74.0091425
-N094,WORLD TRADE CTR,World Trade Center,ACE23,IND,M,Church St,Vesey St,,Mez,,Open,,,1,40.7116798,-74.0103362
-N095,FULTON ST,Fulton St,ACJZ2345,IND,M,Fulton St,Broadway,,Mez,Fulton Center,Open,,,1,40.7106358,-74.0089665
-N095A,FULTON ST,Fulton St,2345ACJZ,IND,M,Fulton St,Broadway,,Mez,Dey St Passageway,Open,,,0,40.7104247,-74.0091351
-N098,FULTON ST,Fulton St,2345ACJZ,IND,M,Fulton St,William St,,Mez,,Open,,,1,40.7095461,-74.0066438
-N100,HIGH ST,High St,AC,IND,Bk,High St,Cadman Plaza W,,Mez,,Open,,,1,40.699437,-73.9912627
-N101,HIGH ST,High St,AC,IND,Bk,High St,Brooklyn Bridge Blvd,,Mez,,Open,,,0,40.6993151,-73.9890579
-N102,JAY ST-METROTEC,Jay St-MetroTech,ACF,IND,Bk,Jay St,Myrtle Ave,,Mez,,Open,,,0,40.6934011,-73.9872286
-N103,JAY ST-METROTEC,Jay St-MetroTech,ACF,IND,Bk,Jay St,Willoughby St,,Mez,,Open,,,1,40.6922419,-73.9874137
-N108,HOYT-SCHER,Hoyt-Schermerhorn Sts,ACG,IND,Bk,Schermerhorn St,Hoyt-Bond Sts,,Mez,,Open,,,1,40.6885427,-73.9848847
-N110,LAFAYETTE AV,Lafayette Av,C,IND,Bk,Fulton St,S Oxford St,,Mez,,Open,,,1,40.6860576,-73.9737887
-N111,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Clinton Ave,,N/B,,Open,,,1,40.6836251,-73.9669275
+N069,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 35th St,,S/B,,Open,,,0,40.752960,-73.993165
+N070,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 34th St,,N/B,,Open,,,1,40.752112,-73.993251
+N071,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 34th St,,S/B,,Open,,,0,40.752277,-73.993648
+N072,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 33rd St,,N/B,,Open,,,1,40.751427,-73.993801
+N073,34 ST-PENN STA,34 St-Penn Station,ACE,IND,M,8th Ave,W 33rd St,,S/B,,Open,,,1,40.751553,-73.994126
+N074,23 ST,23 St,CE,IND,M,8th Ave,W 25th St,,N/B,,Open,N076,HEET,0,40.746502,-73.997366
+N075,23 ST,23 St,CE,IND,M,8th Ave,W 25th St,,S/B,,Open,,,0,40.746673,-73.997755
+N076,23 ST,23 St,CE,IND,M,8th Ave,W 23rd St,,N/B,,Open,,,1,40.745242,-73.998318
+N077,23 ST,23 St,CE,IND,M,8th Ave,W 23rd St,,S/B,,Open,,,0,40.745374,-73.998653
+N078,14 ST,14 St,ACEL,IND,M,8th Ave,W 16th St,,Mez,,Open,,,1,40.741125,-74.001525
+N079,14 ST,14 St,ACEL,IND,M,8th Ave,W 15th St,,Mez,,Open,H001,,0,40.740447,-74.002012
+N080,W 4 ST-WASH SQ,W 4 St-Wash Sq,ABCDEFM,IND,M,6th Ave,Waverly Pl,,N/B,,Open,,,0,40.733045,-73.999834
+N081,W 4 ST-WASH SQ,W 4 St-Wash Sq,ABCDEFM,IND,M,6th Ave,Waverly Pl,,S/B,,Open,N080,,0,40.733134,-74.000072
+N083,W 4 ST-WASH SQ,W 4 St-Wash Sq,ABCDEFM,IND,M,6th Ave,W 3rd St,,Mez,,Open,,,1,40.731129,-74.001358
+N084,SPRING ST,Spring St,CE,IND,M,6th Ave,Prince St,,N/B,,Closed,,,0,40.726930,-74.003306
+N085,SPRING ST,Spring St,CE,IND,M,6th Ave,Charlton St,,S/B,,Closed,,,0,40.726979,-74.003607
+N086,SPRING ST,Spring St,CE,IND,M,6th Ave,Spring St,,N/B,,Open,,,1,40.725614,-74.003877
+N087,SPRING ST,Spring St,CE,IND,M,6th Ave,Spring St,,S/B,,Open,,,0,40.725635,-74.004102
+N087A,SPRING ST,Spring St,CE,IND,M,6th Ave,Vandam St,,S/B,,Open,N087,HEET,0,40.726275,-74.003865
+N088,CANAL ST,Canal St,ACE,IND,M,6th Ave,Canal St,,Mez,,Open,N089,Adjacent C/A,0,40.721576,-74.005296
+N089,CANAL ST,Canal St,ACE,IND,M,6th Ave,W Broadway,,Mez,,Open,,,1,40.720837,-74.005221
+N090,CANAL ST,Canal St,ACE,IND,M,6th Ave,Walker St,,Mez,,Open,,,0,40.719954,-74.005178
+N091,CHAMBERS ST,Chambers St,ACE23,IND,M,Church St,Chambers St,,Mez,,Open,,,,40.714888,-74.007965
+N092,CHAMBERS ST,Chambers St,ACE23,IND,M,Church St,Park Pl,,Mez,,Open,,,1,40.713356,-74.009143
+N094,WORLD TRADE CTR,World Trade Center,ACE23,IND,M,Church St,Vesey St,,Mez,,Open,,,1,40.711680,-74.010336
+N095,FULTON ST,Fulton St,ACJZ2345,IND,M,Fulton St,Broadway,,Mez,Fulton Center,Open,,,1,40.710636,-74.008967
+N095A,FULTON ST,Fulton St,2345ACJZ,IND,M,Fulton St,Broadway,,Mez,Dey St Passageway,Open,,,0,40.710425,-74.009135
+N098,FULTON ST,Fulton St,2345ACJZ,IND,M,Fulton St,William St,,Mez,,Open,,,1,40.709546,-74.006644
+N100,HIGH ST,High St,AC,IND,Bk,High St,Cadman Plaza W,,Mez,,Open,,,1,40.699437,-73.991263
+N101,HIGH ST,High St,AC,IND,Bk,High St,Brooklyn Bridge Blvd,,Mez,,Open,,,0,40.699315,-73.989058
+N102,JAY ST-METROTEC,Jay St-MetroTech,ACF,IND,Bk,Jay St,Myrtle Ave,,Mez,,Open,,,0,40.693401,-73.987229
+N103,JAY ST-METROTEC,Jay St-MetroTech,ACF,IND,Bk,Jay St,Willoughby St,,Mez,,Open,,,1,40.692242,-73.987414
+N103A,JAY ST-METROTEC,Jay St-MetroTech,ACF,IND,Bk,Jay St,Fulton St,,Mez,,Open,N103,,0,40.691725,-73.987348
+N108,HOYT-SCHER,Hoyt-Schermerhorn Sts,ACG,IND,Bk,Schermerhorn St,Hoyt-Bond Sts,,Mez,,Open,,,1,40.688543,-73.984885
+N110,LAFAYETTE AV,Lafayette Av,C,IND,Bk,Fulton St,S Oxford St,,Mez,,Open,,,1,40.686058,-73.973789
+N111,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Clinton Ave,,N/B,,Open,,,1,40.683625,-73.966928
 N111A,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Washington Ave,,N/B,,Open,N111,HEET,0,40.683145,-73.964814
-N112,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Clinton Ave,,S/B,,Open,N112A,HEET,0,40.6833117,-73.9668471
-N112A,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Washington Ave,,S/B,,Open,,,0,40.6829131,-73.9647604
-N113,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Franklin Ave,,N/B,,Open,,,0,40.6812763,-73.9556828
-N113A,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Classon Ave,,N/B,,Closed,,,0,40.6817427,-73.9581905
-N114,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Franklin Ave,,S/B,,Open,,,1,40.6810058,-73.9558947
-N114A,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Classon Ave,,S/B,,Closed,,,0,40.6815967,-73.9581191
-N115,NOSTRAND AV,Nostrand Av,AC,IND,Bk,Fulton St,Bedford Ave,,Mez,,Open,N116,,0,40.6805615,-73.9525588
-N116,NOSTRAND AV,Nostrand Av,AC,IND,Bk,Fulton St,Nostrand Ave,,N/B,,Open,,,1,40.6805295,-73.9496021
-N117,NOSTRAND AV,Nostrand Av,AC,IND,Bk,Fulton St,Nostrand Ave,,S/B,,Open,,,0,40.6802488,-73.9495324
-N118,KINGSTON-THROOP,Kingston-Throop Avs,C,IND,Bk,Fulton St,Kingston Ave,,S/B,,Open,,,0,40.6797999,-73.9412192
-N119,KINGSTON-THROOP,Kingston-Throop Avs,C,IND,Bk,Fulton St,Throop Ave,,N/B,,Open,,,1,40.6800236,-73.9403555
-N120,UTICA AV,Utica Av,AC,IND,Bk,Fulton St,Utica Ave,,Mez,,Open,,,1,40.6793168,-73.9298234
-N120A,UTICA AV,Utica Av,AC,IND,Bk,Fulton St,Stuyvesant Ave,,Mez,,Open,,,0,40.6794226,-73.9319745
-N121B,RALPH AV,Ralph Av,C,IND,Bk,Fulton St,Ralph Ave,,Mez,,Open,,,1,40.6788414,-73.9210886
-N121C,RALPH AV,Ralph Av,C,IND,Bk,Fulton St,Howard Ave,,Mez,,Closed,,,0,40.6787818,-73.9199182
-N122,ROCKAWAY AV,Rockaway Av,C,IND,Bk,Fulton St,Thomad S Boyland St,,Mez,,Open,,,1,40.6784323,-73.9135676
-N123A,ROCKAWAY AV,Rockaway Av,C,IND,Bk,Fulton St,Rockaway Ave,,S/B,,Exit-only,N123B,,0,40.6781821,-73.9107593
-N123B,ROCKAWAY AV,Rockaway Av,C,IND,Bk,Fulton St,Rockaway Ave,,N/B,,Open,,,0,40.6783713,-73.9108371
-N124,BROADWAY JCT,Broadway Junction,ACJLZ,IND,Bk,Fulton St,Van Sinderen Ave,,Mez,,Open,,,1,40.6782162,-73.9039697
-N125,LIBERTY AV,Liberty Av,C,IND,Bk,Pennsylvania Ave,Liberty Ave,,Mez,,Open,,,1,40.6744075,-73.8965127
-N126,VAN SICLEN AVE,Van Siclen Av,C,IND,Bk,Pitkin Ave,Van Siclen Ave,,Mez,,Open,,,1,40.6727137,-73.8903262
-N127,SHEPHERD AV,Shepherd Av,C,IND,Bk,Pitkin Ave,Shepherd Ave,,Mez,,Open,,,1,40.6741285,-73.8808046
-N128,EUCLID AV,Euclid Av,AC,IND,Bk,Pitkin Ave,Euclid Ave,,Mez,,Open,,,1,40.6754114,-73.8719167
-N129,GRANT AV,Grant Av,A,IND,Bk,Fulton St Line (Pitkin-Glenmore Aves),Grant Ave,,Mez,,Open,,,1,40.6768695,-73.8653435
-N130,80 ST,80 St,A,IND,Q,Liberty Ave,77th St,,Mez,,Open,,,0,40.6793132,-73.8601003
-N131,80 ST,80 St,A,IND,Q,Liberty Ave,80th St,,Mez,,Open,,,1,40.6794434,-73.8579706
-N132,88 ST,88 St,A,IND,Q,Liberty Ave,86th St,,Mez,,Closed,,,0,40.6797902,-73.8525044
-N133,88 ST,88 St,A,IND,Q,Liberty Ave,88th St,,Mez,,Open,,,1,40.6799009,-73.8507307
-N134,ROCKAWAY BLVD,Rockaway Blvd,A,IND,Q,Liberty Ave,94th St,,Mez,,Open,,,1,40.6802696,-73.8449221
-N135,ROCKAWAY BLVD,Rockaway Blvd,A,IND,Q,Liberty Ave,96th St,,Mez,,Open,,,0,40.6806358,-73.8429748
-N136,104 ST,104 St,A,IND,Q,Liberty Ave,102nd St,,Mez,,Open,N137,,0,40.6814582,-73.8386535
-N137,104 ST,104 St,A,IND,Q,Liberty Ave,104th St,,Mez,,Open,,,1,40.6819968,-73.836982
-N138,111 ST,111 St,A,IND,Q,Liberty Ave,109th St,,Mez,,Open,,,0,40.6840965,-73.8327921
-N139,111 ST,111 St,A,IND,Q,Liberty Ave,111th St,,Mez,,Open,,,1,40.6847473,-73.8311211
-N141,OZONE PK LEFFRT,Ozone Park-Lefferts Blvd,A,IND,Q,Liberty Ave,Lefferts Blvd,,Mez,,Open,,,1,40.6861337,-73.8244669
-N181,AQUEDUCT N.COND,Aqueduct-N Conduit Av,A,IND,Q,Rockaway Beach Branch (Aqueduct Rd),N Conduit Ave,,Mez,,Closed,,Temporary closure,1,40.6670252,-73.8334711
-N181A,AQUEDUCT RACETR,Aqueduct Racetrack,A,IND,Q,Rockaway Beach Branch (Aqueduct Rd),Pitkin Ave,,N/B,,Open,,,0,40.6722333,-73.8357242
+N112,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Clinton Ave,,S/B,,Open,N112A,HEET,0,40.683312,-73.966847
+N112A,CLINTON-WASH AV,Clinton-Washington Avs,C,IND,Bk,Fulton St,Washington Ave,,S/B,,Open,,,0,40.682913,-73.964760
+N113,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Franklin Ave,,N/B,,Open,,,0,40.681276,-73.955683
+N113A,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Classon Ave,,N/B,,Closed,,,0,40.681743,-73.958191
+N114,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Franklin Ave,,S/B,,Open,,,1,40.681006,-73.955895
+N114A,FRANKLIN AV,Franklin Av,ACS,IND,Bk,Fulton St,Classon Ave,,S/B,,Closed,,,0,40.681597,-73.958119
+N115,NOSTRAND AV,Nostrand Av,AC,IND,Bk,Fulton St,Bedford Ave,,Mez,,Open,N116,,0,40.680562,-73.952559
+N116,NOSTRAND AV,Nostrand Av,AC,IND,Bk,Fulton St,Nostrand Ave,,N/B,,Open,,,1,40.680530,-73.949602
+N117,NOSTRAND AV,Nostrand Av,AC,IND,Bk,Fulton St,Nostrand Ave,,S/B,,Open,,,0,40.680249,-73.949532
+N118,KINGSTON-THROOP,Kingston-Throop Avs,C,IND,Bk,Fulton St,Kingston Ave,,S/B,,Open,,,0,40.679800,-73.941219
+N119,KINGSTON-THROOP,Kingston-Throop Avs,C,IND,Bk,Fulton St,Throop Ave,,N/B,,Open,,,1,40.680024,-73.940356
+N120,UTICA AV,Utica Av,AC,IND,Bk,Fulton St,Utica Ave,,Mez,,Open,,,1,40.679317,-73.929823
+N120A,UTICA AV,Utica Av,AC,IND,Bk,Fulton St,Stuyvesant Ave,,Mez,,Open,,,0,40.679423,-73.931975
+N121B,RALPH AV,Ralph Av,C,IND,Bk,Fulton St,Ralph Ave,,Mez,,Open,,,1,40.678841,-73.921089
+N121C,RALPH AV,Ralph Av,C,IND,Bk,Fulton St,Howard Ave,,Mez,,Closed,,,0,40.678782,-73.919918
+N122,ROCKAWAY AV,Rockaway Av,C,IND,Bk,Fulton St,Thomad S Boyland St,,Mez,,Open,,,1,40.678432,-73.913568
+N123A,ROCKAWAY AV,Rockaway Av,C,IND,Bk,Fulton St,Rockaway Ave,,S/B,,Exit-only,N123B,,0,40.678182,-73.910759
+N123B,ROCKAWAY AV,Rockaway Av,C,IND,Bk,Fulton St,Rockaway Ave,,N/B,,Open,,,0,40.678371,-73.910837
+N124,BROADWAY JCT,Broadway Junction,ACJLZ,IND,Bk,Fulton St,Van Sinderen Ave,,Mez,,Open,,,1,40.678216,-73.903970
+N125,LIBERTY AV,Liberty Av,C,IND,Bk,Pennsylvania Ave,Liberty Ave,,Mez,,Open,,,1,40.674408,-73.896513
+N126,VAN SICLEN AVE,Van Siclen Av,C,IND,Bk,Pitkin Ave,Van Siclen Ave,,Mez,,Open,,,1,40.672714,-73.890326
+N127,SHEPHERD AV,Shepherd Av,C,IND,Bk,Pitkin Ave,Shepherd Ave,,Mez,,Open,,,1,40.674129,-73.880805
+N128,EUCLID AV,Euclid Av,AC,IND,Bk,Pitkin Ave,Euclid Ave,,Mez,,Open,,,1,40.675411,-73.871917
+N129,GRANT AV,Grant Av,A,IND,Bk,Fulton St Line (Pitkin-Glenmore Aves),Grant Ave,,Mez,,Open,,,1,40.676870,-73.865344
+N130,80 ST,80 St,A,IND,Q,Liberty Ave,77th St,,Mez,,Open,,,0,40.679313,-73.860100
+N131,80 ST,80 St,A,IND,Q,Liberty Ave,80th St,,Mez,,Open,,,1,40.679443,-73.857971
+N132,88 ST,88 St,A,IND,Q,Liberty Ave,86th St,,Mez,,Closed,,,0,40.679790,-73.852504
+N133,88 ST,88 St,A,IND,Q,Liberty Ave,88th St,,Mez,,Open,,,1,40.679901,-73.850731
+N134,ROCKAWAY BLVD,Rockaway Blvd,A,IND,Q,Liberty Ave,94th St,,Mez,,Open,,,1,40.680270,-73.844922
+N135,ROCKAWAY BLVD,Rockaway Blvd,A,IND,Q,Liberty Ave,96th St,,Mez,,Open,,,0,40.680636,-73.842975
+N136,104 ST,104 St,A,IND,Q,Liberty Ave,102nd St,,Mez,,Open,N137,,0,40.681458,-73.838654
+N137,104 ST,104 St,A,IND,Q,Liberty Ave,104th St,,Mez,,Open,,,1,40.681997,-73.836982
+N138,111 ST,111 St,A,IND,Q,Liberty Ave,109th St,,Mez,,Open,,,0,40.684097,-73.832792
+N139,111 ST,111 St,A,IND,Q,Liberty Ave,111th St,,Mez,,Open,,,1,40.684747,-73.831121
+N141,OZONE PK LEFFRT,Ozone Park-Lefferts Blvd,A,IND,Q,Liberty Ave,Lefferts Blvd,,Mez,,Open,,,1,40.686134,-73.824467
+N181,AQUEDUCT N.COND,Aqueduct-N Conduit Av,A,IND,Q,Rockaway Beach Branch (Aqueduct Rd),N Conduit Ave,,Mez,,Closed,,Temporary closure,1,40.667025,-73.833471
+N181A,AQUEDUCT RACETR,Aqueduct Racetrack,A,IND,Q,Rockaway Beach Branch (Aqueduct Rd),Pitkin Ave,,N/B,,Open,,,0,40.672233,-73.835724
 N182,HOWARD BCH JFK,Howard Beach-JFK Airport,A,IND,Q,,,,,,Open,,,,,
 N182A,HOWARD BCH JFK,Howard Beach-JFK Airport,A,IND,Q,,,,,,Closed,,Pre-2010 closure,0,,
-N183,BROAD CHANNEL,Broad Channel,AS,IND,Q,Rockaway Beach Branch (West Rd),Noel Rd,,Mez,,Closed,,Temporary closure,1,40.6080099,-73.8158742
-N184,BEACH 90 ST,Beach 90 St,AS,IND,Q,Rockaway Fwy,Beach 90th St,,Mez,,Open,,,1,40.5879302,-73.8140211
-N185,BEACH 98 ST,Beach 98 St,AS,IND,Q,Rockaway Fwy,Beach 98th St,,Mez,,Open,,,1,40.5854664,-73.8203413
-N186,BEACH 105 ST,Beach 105 St,AS,IND,Q,Rockaway Fwy,Beach 105th St,,Mez,,Open,,,1,40.5833089,-73.8273241
-N187,ROCKAWAY PARK B,Rockaway Park-Beach 116 St,AS,IND,Q,Rockaway Fwy,Beach 116th St,,Mez,,Open,,,1,40.5805835,-73.83728
-N191,BEACH 67 ST,Beach 67 St,A,IND,Q,Rockaway Fwy,Beach 67th St,,Mez,,Open,,,1,40.5909639,-73.7963224
-N192,BEACH 60 ST,Beach 60 St,A,IND,Q,Rockaway Fwy,Beach 59th St,,Mez,,Open,,,1,40.5924318,-73.7892964
-N193,BEACH 44 ST,Beach 44 St,A,IND,Q,Rockaway Fwy,Beach 44th St,,Mez,,Open,,,1,40.5929575,-73.775943
-N194,BEACH 36 ST,Beach 36 St,A,IND,Q,Rockaway Fwy,Beach 36th St,,Mez,,Open,,,1,40.5955055,-73.7681586
-N195,BEACH 25 ST,Beach 25 St,A,IND,Q,Rockaway Fwy,Beach 25th St,,Mez,,Open,,,1,40.5996663,-73.7616726
-N196,FAR ROCKAWAY,Far Rockaway-Mott Av,A,IND,Q,Rockaway Fwy,Mott Ave,,Mez,,Open,,,1,40.6046495,-73.7542407
-N201,155 ST,155 St,BD,IND,M,Concourse Line (W 155th St),Edgecomb Ave,,Mez,,Closed,,,0,40.8299494,-73.9393087
-N202,155 ST,155 St,BD,IND,M,Concourse Line (W 155th St),Frederick Douglass Blvd,,Mez,,Open,,,1,40.8303235,-73.9371244
-N203,161/YANKEE STAD,161 St-Yankee Stadium,BD4,IND,Bx,E 161st St,River Ave,,Mez,,Open,,,1,40.8279073,-73.9256085
+N183,BROAD CHANNEL,Broad Channel,AS,IND,Q,Rockaway Beach Branch (West Rd),Noel Rd,,Mez,,Closed,,Temporary closure,1,40.608010,-73.815874
+N184,BEACH 90 ST,Beach 90 St,AS,IND,Q,Rockaway Fwy,Beach 90th St,,Mez,,Open,,,1,40.587930,-73.814021
+N185,BEACH 98 ST,Beach 98 St,AS,IND,Q,Rockaway Fwy,Beach 98th St,,Mez,,Open,,,1,40.585466,-73.820341
+N186,BEACH 105 ST,Beach 105 St,AS,IND,Q,Rockaway Fwy,Beach 105th St,,Mez,,Open,,,1,40.583309,-73.827324
+N187,ROCKAWAY PARK B,Rockaway Park-Beach 116 St,AS,IND,Q,Rockaway Fwy,Beach 116th St,,Mez,,Open,,,1,40.580584,-73.837280
+N191,BEACH 67 ST,Beach 67 St,A,IND,Q,Rockaway Fwy,Beach 67th St,,Mez,,Open,,,1,40.590964,-73.796322
+N192,BEACH 60 ST,Beach 60 St,A,IND,Q,Rockaway Fwy,Beach 59th St,,Mez,,Open,,,1,40.592432,-73.789296
+N193,BEACH 44 ST,Beach 44 St,A,IND,Q,Rockaway Fwy,Beach 44th St,,Mez,,Open,,,1,40.592958,-73.775943
+N194,BEACH 36 ST,Beach 36 St,A,IND,Q,Rockaway Fwy,Beach 36th St,,Mez,,Open,,,1,40.595506,-73.768159
+N195,BEACH 25 ST,Beach 25 St,A,IND,Q,Rockaway Fwy,Beach 25th St,,Mez,,Open,,,1,40.599666,-73.761673
+N196,FAR ROCKAWAY,Far Rockaway-Mott Av,A,IND,Q,Rockaway Fwy,Mott Ave,,Mez,,Open,,,1,40.604650,-73.754241
+N201,155 ST,155 St,BD,IND,M,Concourse Line (W 155th St),Edgecomb Ave,,Mez,,Closed,,,0,40.829949,-73.939309
+N202,155 ST,155 St,BD,IND,M,Concourse Line (W 155th St),Frederick Douglass Blvd,,Mez,,Open,,,1,40.830324,-73.937124
+N203,161/YANKEE STAD,161 St-Yankee Stadium,BD4,IND,Bx,E 161st St,River Ave,,Mez,,Open,,,1,40.827907,-73.925609
 N204,161/YANKEE STAD,161 St-Yankee Stadium,BD4,IND,Bx,,,,,,Closed,,Pre-2010 closure,0,,
-N205,161/YANKEE STAD,161 St-Yankee Stadium,BD4,IND,Bx,E 161st St,Walton Ave,,Mez,,Open,,,0,40.8274724,-73.9242274
-N206,167 ST,167 St,BD,IND,Bx,Grand Concourse,McClellan St,,S/B,,Open,,,0,40.8332786,-73.9190738
-N206A,167 ST,167 St,BD,IND,Bx,Grand Concourse,McClellan St,,N/B,,Exit-only,N206,,0,40.8331899,-73.9187667
-N207,167 ST,167 St,BD,IND,Bx,Grand Concourse,E 167th St,,Mez,,Open,,,1,40.8345571,-73.917663
-N208,170 ST,170 St,BD,IND,Bx,Grand Concourse,E 170th St,,S/B,,Open,,,0,40.8387922,-73.9139001
-N208A,170 ST,170 St,BD,IND,Bx,Grand Concourse,E 170th St,,N/B,,Exit-only,N208,,0,40.8386659,-73.9135987
-N209,170 ST,170 St,BD,IND,Bx,Grand Concourse,E 171st St,,Mez,,Open,,,1,40.8398556,-73.9131277
-N210,174-175 STS,174-175 Sts,BD,IND,Bx,Grand Concourse,E 174th St,,Mez,,Open,,,1,40.8449702,-73.9110694
-N211,174-175 STS,174-175 Sts,BD,IND,Bx,Grand Concourse,E 175th St,LL,Mez,,Closed,,,0,40.8462595,-73.9096367
-N212,174-175 STS,174-175 Sts,BD,IND,Bx,Grand Concourse,E 175th St,,Mez,,Open,,,0,40.8463116,-73.9095547
-N213,TREMONT AV,Tremont Av,BD,IND,Bx,Grand Concourse,Echo Pl,,Mez,,Open,,,1,40.849889,-73.9056586
-N214,TREMONT AV,Tremont Av,BD,IND,Bx,Grand Concourse,E 179th St,,Mez,,Open,N213,,0,40.8511049,-73.9046935
-N215,182-183 STS,182-183 Sts,BD,IND,Bx,Grand Concourse,E 182nd St,,Mez,,Open,,,1,40.8560335,-73.9008028
-N215A,182-183 STS,182-183 Sts,BD,IND,Bx,Grand Concourse,Anthony Ave,,Mez,,Closed,,,0,40.8554685,-73.9011797
-N216,182-183 STS,182-183 Sts,BD,IND,Bx,Grand Concourse,E 183rd St,,Mez,,Closed,,,0,40.8574282,-73.8999673
-N217,FORDHAM RD,Fordham Rd,BD,IND,Bx,Grand Concourse,E 188th St,,Mez,,Open,,,1,40.8613675,-73.8977213
-N218,FORDHAM RD,Fordham Rd,BD,IND,Bx,Grand Concourse,E Fordham Rd,E/S,Mez,,Open,,,0,40.8620937,-73.8971097
-N219,FORDHAM RD,Fordham Rd,BD,IND,Bx,Grand Concourse,E Fordham Rd,W/S,Mez,,Closed,,,0,40.8622406,-73.8975152
-N220,KINGSBRIDGE RD,Kingsbridge Rd,BD,IND,Bx,Grand Concourse,E Kingsbridge Rd,,Mez,,Open,,,0,40.8663291,-73.8942665
-N221,KINGSBRIDGE RD,Kingsbridge Rd,BD,IND,Bx,Grand Concourse,E 196th St,,Mez,,Open,,,1,40.867895,-73.8930004
-N222,BEDFORD PK BLVD,Bedford Park Blvd,BD,IND,Bx,Grand Concourse,Bedford Park Blvd,,Mez,,Open,,,1,40.8722953,-73.8876972
-N223,BEDFORD PK BLVD,Bedford Park Blvd,BD,IND,Bx,Grand Concourse,E 203rd St,,Mez,,Open,,,0,40.8739056,-73.8868604
-N224,NORWOOD 205 ST,Norwood-205 St,D,IND,Bx,E 205th St,Bainbridge Ave,,Mez,,Open,,,1,40.8748955,-73.879491
-N225,NORWOOD 205 ST,Norwood-205 St,D,IND,Bx,E 205th St,Perry Ave,,Mez,,Open,,,0,40.874133,-73.8775224
-N300,7 AV,7 Av,BDE,IND,M,W 53rd St,Broadway,,Mez,,Open,,,0,40.7632476,-73.9825452
-N301,7 AV,7 Av,BDE,IND,M,W 53rd St,7th Ave,,Mez,,Open,,,1,40.7628504,-73.9816125
-N302,7 AV,7 Av,BDE,IND,M,W 53rd St,6th 1/2 Ave,,Mez,,Closed,,,0,40.7625234,-73.9808187
-N303,5 AV/53 ST,5 Av/53 St,EM,IND,M,E 53rd St,5th Ave,,Mez,,Open,,,1,40.7605126,-73.9760824
-N304,5 AV/53 ST,5 Av/53 St,EM,IND,M,E 53rd St,Madison Ave,,Mez,,Open,,,0,40.7596837,-73.9740707
-N304A,5 AV/53 ST,5 Av/53 St,EM,IND,M,E 53rd St,Madison Ave,NE cnr,Mez,,Open,N304,Adjacent C/A,0,40.7596796,-73.9739379
-N305,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,Lexington Ave,,Mez,,Open,,,1,40.7582303,-73.9706523
-N305A,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,E 52nd St,,Mez,,Open,,,0,40.7577573,-73.971299
-N305B,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,E 52nd St,N/S,Mez,,Open,N305A,Adjacent C/A,0,40.7579283,-73.9710049
-N306,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,3rd Ave,E/S,Mez,,Open,,,1,40.7576307,-73.9691982
-N306A,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,3rd Ave,W/S,Mez,,Open,N306,HEET,0,40.7578206,-73.969681
-N307,COURT SQ-23 ST,Court Sq-23 St,EMG,IND,Q,44th Dr,21st St,,Mez,,Open,,,1,40.7481436,-73.9470168
-N308,COURT SQ-23 ST,Court Sq-23 St,EMG,IND,Q,44th Dr,23rd St,,Mez,,Open,N307,,0,40.7476884,-73.9448393
-N309A,QUEENS PLAZA,Queens Plaza,EMR,IND,Q,Jackson Ave,Queens Blvd,,Mez,,Open,,,1,40.7487758,-73.93772
-N310,QUEENS PLAZA,Queens Plaza,EMR,IND,Q,Northern Blvd,41st Ave,,Mez,,Open,,,0,40.7496231,-73.9362528
-N311,36 ST,36 St,MR,IND,Q,Northern Blvd,34th St,,N/B,,Open,,,0,40.7519284,-73.9301001
-N312,36 ST,36 St,MR,IND,Q,Northern Blvd,35th St,,S/B,,Open,,,1,40.7521113,-73.9289709
-N312A,36 ST,36 St,MR,IND,Q,Northern Blvd,36th St,,S/B,,Open,N312,HEET,0,40.7521523,-73.9278713
-N313,36 ST,36 St,MR,IND,Q,Northern Blvd,36th St,,N/B,,Open,N311,HEET,0,40.7519531,-73.9276621
-N314,STEINWAY ST,Steinway St,MR,IND,Q,Steinway St,34th Ave,,Mez,,Open,,,0,40.7566635,-73.9209398
-N315,STEINWAY ST,Steinway St,MR,IND,Q,Steinway St,Broadway,,Mez,,Open,,,1,40.7578257,-73.9198964
-N316,46 ST,46 St,MR,IND,Q,Broadway,46th St,,S/B,,Open,,,1,40.7568043,-73.9141528
-N316A,46 ST,46 St,MR,IND,Q,Broadway,48th St,,S/B,,Open,,,0,40.7560668,-73.9126134
-N317,46 ST,46 St,MR,IND,Q,Broadway,46th St,,N/B,,Open,,,0,40.7566498,-73.9142815
-N318,NORTHERN BLVD,Northern Blvd,MR,IND,Q,Broadway,Northern Blvd,,S/B,,Open,,,1,40.7533764,-73.9067704
-N319,NORTHERN BLVD,Northern Blvd,MR,IND,Q,Broadway,Northern Blvd,,N/B,,Open,,,0,40.7531488,-73.9069662
-N322,65 ST,65 St,MR,IND,Q,Broadway,65th St,,Mez,,Open,,,1,40.7492998,-73.8975736
-N323,JKSN HT-ROOSVLT,Jackson Hts-Roosevelt Av,EFMR7,IND,Q,Broadway,37th Rd,,Mez,,Open,,,0,40.7470939,-73.89239
-N324,JKSN HT-ROOSVLT,Jackson Hts-Roosevelt Av,EFMR7,IND,Q,Broadway,Roosevelt Ave,,Mez,,Open,,,1,40.7467399,-73.8909974
-N325A,ELMHURST AV,Elmhurst Av,MR,IND,Q,Broadway,Britton-Elmhurst Aves,,Mez,,Open,,,1,40.7423834,-73.8818672
-N327,GRAND-NEWTOWN,Grand Av-Newtown,MR,IND,Q,Queens Blvd,Broadway,,Mez,,Open,,,1,40.7367663,-73.8776714
-N329,WOODHAVEN BLVD,Woodhaven Blvd,MR,IND,Q,Queens Blvd,Woodhaven Blvd,,Mez,,Open,,,1,40.7333111,-73.8697418
-N329A,WOODHAVEN BLVD,Woodhaven Blvd,MR,IND,Q,Queens Blvd,Horace Harding Blvd,,Mez,,Open,,,0,40.7331465,-73.8687601
-N330,63 DR-REGO PARK,63 Dr-Rego Park,MR,IND,Q,Queens Blvd,63rd Dr,,Mez,,Open,,,1,40.7298109,-73.8614782
-N330B,63 DR-REGO PARK,63 Dr-Rego Park,MR,IND,Q,Queens Blvd,64th Ave,,Mez,,Closed,,Moved to N330,0,40.7295832,-73.8608506
-N330C,63 DR-REGO PARK,63 Dr-Rego Park,MR,IND,Q,Queens Blvd,63rd Rd,,Mez,,Open,,,0,40.7301869,-73.862484
-N331,67 AV,67 Av,MR,IND,Q,Queens Blvd,67th Ave,,Mez,,Open,,,1,40.7267947,-73.8532244
-N332,67 AV,67 Av,MR,IND,Q,Queens Blvd,67th Dr,,Mez,,Open,,,0,40.7262743,-73.8519691
-N333,FOREST HILLS 71,Forest Hills-71 Av,EFMR,IND,Q,Queens Blvd,70th Rd,,Mez,,Open,,,0,40.7220092,-73.8452403
-N333A,FOREST HILLS 71,Forest Hills-71 Av,EFMR,IND,Q,Queens Blvd,71st Ave,W/S,Mez,,Open,,,1,40.7214318,-73.844205
-N333B,FOREST HILLS 71,Forest Hills-71 Av,EFMR,IND,Q,Queens Blvd,71st Ave,E/S,Mez,,Open,,,0,40.7217653,-73.8444303
-N334B,75 AV,75 Av,EF,IND,Q,Queens Blvd,75th Ave-75th Rd,,Mez,,Open,,,1,40.7184194,-73.8371382
-N335,KEW GARDENS,Kew Gardens-Union Tpke,EF,IND,Q,Queens Blvd,78th Ave,,Mez,,Open,,,0,40.7147525,-73.8317545
-N336,KEW GARDENS,Kew Gardens-Union Tpke,EF,IND,Q,Queens Blvd,80th Rd,,Mez,,Open,,,1,40.7139596,-73.8304777
-N337,BRIARWOOD,Briarwood,EF,IND,Q,Van Wyck Expy,Main St,,Mez,,Open,,,1,40.7082546,-73.82006
-N338,SUTPHIN BLVD,Sutphin Blvd,F,IND,Q,Hillside Ave,Sutphin Blvd,,Mez,,Open,,,1,40.7057555,-73.8096982
-N338B,SUTPHIN BLVD,Sutphin Blvd,F,IND,Q,Hillside Ave,144th St,,Mez,,Open,,,0,40.7051638,-73.8117447
-N339,PARSONS BLVD,Parsons Blvd,F,IND,Q,Hillside Ave,Parsons Blvd,,Mez,,Open,,,1,40.7077058,-73.8028023
-N339A,PARSONS BLVD,Parsons Blvd,F,IND,Q,Hillside Ave,153rd St,,Mez,,Open,,,0,40.7072955,-73.8043178
-N340,169 ST,169 St,F,IND,Q,Hillside Ave,168th St,,Mez,,Open,,,0,40.7100071,-73.794704
-N340A,169 ST,169 St,F,IND,Q,Hillside Ave,169th St,,Mez,,Open,,,1,40.7107431,-73.7930436
-N342,JAMAICA 179 ST,Jamaica-179 St,F,IND,Q,Hillside Ave,168th St,,Mez,,Open,,,0,40.7124908,-73.7844542
-N343,JAMAICA 179 ST,Jamaica-179 St,F,IND,Q,Hillside Ave,169th St,,Mez,,Open,,,1,40.7127591,-73.7832043
-N400,COURT SQ,Court Sq,EMG,IND,Q,Jackson Ave,Pearson St,,Mez,,Open,N400A,,0,40.7461481,-73.9448608
-N400A,COURT SQ,Court Sq,EMG,IND,Q,Jackson Ave,23rd St,,Mez,,Open,,,1,40.7472576,-73.9447905
-N401,21 ST,21 St,G,IND,Q,Jackson Ave,21st St,,Mez,,Open,,,1,40.7445471,-73.9488185
-N402,21 ST,21 St,G,IND,Q,Jackson Ave,11th St,,Mez,,Closed,,,0,40.7435981,-73.9506264
-N403,GREENPOINT AV,Greenpoint Av,G,IND,Bk,Manhattan Ave,India St,,S/B,,Open,N405,,0,40.7322146,-73.9547002
-N404,GREENPOINT AV,Greenpoint Av,G,IND,Bk,Manhattan Ave,India St,,N/B,,Open,N405,,0,40.7322268,-73.9545071
-N405,GREENPOINT AV,Greenpoint Av,G,IND,Bk,Manhattan Ave,Greenpoint Ave,,Mez,,Open,,,1,40.7302024,-73.9542657
-N406,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Norman Ave,,S/B,,Open,N408A,HEET,0,40.725357,-73.9518238
-N407,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Norman Ave,,N/B,,Open,N408A,HEET,0,40.7254261,-73.9515985
-N408,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Nassau Ave,W/S,Mez,,Open,N408A,Adjacent C/A,0,40.7237308,-73.9509226
-N408A,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Nassau Ave,E/S,Mez,,Open,,,1,40.7238211,-73.95063
-N409,METROPOLITAN AV,Metropolitan Av,GL,IND,Bk,Union Ave,Metropolitan Ave,,Mez,,Open,,,1,40.7139242,-73.9516614
-N410,METROPOLITAN AV,Metropolitan Av,GL,IND,Bk,Union Ave,Powers St,,Mez,,Open,N409,,0,40.7120089,-73.9512908
-N411,BROADWAY,Broadway,G,IND,Bk,Union Ave,Montrose Ave,,Mez,,Closed,,,0,40.7065198,-73.9503842
-N412,BROADWAY,Broadway,G,IND,Bk,Union Ave,Broadway,,Mez,,Open,,,1,40.7055644,-73.9502337
-N414,FLUSHING AV,Flushing Av,G,IND,Bk,Marcy Ave,Flushing Ave,,S/B,,Open,,,1,40.6997788,-73.9501948
-N414A,FLUSHING AV,Flushing Av,G,IND,Bk,Marcy Ave,Gerry St,,N/B,,Open,,,0,40.6998012,-73.9500205
-N415,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Myrtle Ave,,S/B,,Open,,,1,40.6953735,-73.9492927
-N415A,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Willoughby Ave,,S/B,,Closed,,,0,40.6940592,-73.9490512
-N416,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Myrtle Ave,,N/B,,Open,,,0,40.6953938,-73.9491344
-N416A,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Willoughby Ave,,N/B,,Closed,,,0,40.694051,-73.9488554
-N417,BEDFORD-NOSTRAN,Bedford-Nostrand Avs,G,IND,Bk,Lafayette Ave,Nostrand Ave,,Mez,,Open,,,1,40.6897862,-73.952136
-N418,BEDFORD-NOSTRAN,Bedford-Nostrand Avs,G,IND,Bk,Lafayette Ave,Bedford Ave,,Mez,,Open,,,0,40.6894809,-73.9547922
-N419,CLASSON AV,Classon Av,G,IND,Bk,Lafayette Ave,Classon Ave,,Mez,,Open,,,1,40.6888722,-73.9600099
-N420B,CLINTON-WASH AV,Clinton-Washington Avs,G,IND,Bk,Lafayette Ave,Washington Ave,,Mez,,Open,,,1,40.6882227,-73.9658306
-N421,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,S Portland Ave,,Mez,,Closed,,,0,40.6871937,-73.9747243
-N422,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,Fulton St,,Mez,,Open,,,1,40.6870976,-73.9763762
-N422A,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,S Portland Ave,,N/B,,Open,N422,,0,40.6871395,-73.9747294
-N422B,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,S Portland Ave,,S/B,,Open,N422,,0,40.6872452,-73.9747455
-N500,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 49th St,,Mez,,Open,,,1,40.7593139,-73.9808568
-N500A,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 48th-49th Sts,,Mez,,Open,N500,Adjacent HEET,0,40.7590132,-73.9809398
-N500B,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 48th-49th Sts,S/S,Mez,,Closed,,Accessible via N500A,0,40.7588132,-73.9810956
-N501,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 47th St,,Mez,,Open,,,0,40.7580624,-73.9817419
-N501A,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 48th St,,Mez,,Open,,,0,40.7586496,-73.9813395
-N502,42 ST-BRYANT PK,42 St-Bryant Pk,BDFM7,IND,M,6th Ave,W 42nd St,N/S,Mez,,Open,,,0,40.7550431,-73.9839596
-N503,42 ST-BRYANT PK,42 St-Bryant Pk,BDFM7,IND,M,6th Ave,W 42nd St,S/S,Mez,,Open,,,1,40.7546612,-73.9842224
-N504,42 ST-BRYANT PK,42 St-Bryant Pk,BDFM7,IND,M,6th Ave,W 40th St,,Mez,,Open,,,0,40.7535884,-73.9850029
-N505,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 35th St,,Mez,,Open,,,0,40.7504601,-73.987288
-N505A,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 34th-35th St,,Mez,,Open,N505,Adjacent HEET,0,40.7502073,-73.987362
-N506,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 34th St,W/S,Mez,,Open,,,1,40.7499146,-73.9880164
-N507,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 33rd St,,Mez,,Open,,,1,40.7487653,-73.9885796
-N508,23 ST,23 St,FM,IND,M,6th Ave,W 23rd St,,S/B,,Open,,,0,40.7429742,-73.9929857
-N509,23 ST,23 St,FM,IND,M,6th Ave,W 23rd St,,N/B,,Open,,,1,40.7428197,-73.9926028
-N510,14 ST,14 St,FLM123,IND,M,6th Ave,W 16th St,,N/B,,Open,,,0,40.738609,-73.9956865
-N511,14 ST,14 St,FLM123,IND,M,6th Ave,W 16th St,,S/B,,Open,,,0,40.7387718,-73.9960781
-N512,14 ST,14 St,FLM123,IND,M,6th Ave,W 14th St,,S/B,,Open,,,1,40.7375401,-73.9968451
-N513,14 ST,14 St,FLM123,IND,M,6th Ave,W 14th St,,N/B,,Open,,,0,40.7374628,-73.9966359
-N519,B'WAY-LAFAYETTE,Broadway-Lafayette St,BDFQ6,IND,M,Houston St,Broadway,,Mez,,Open,,,1,40.7253759,-73.9965196
-N519A,B'WAY-LAFAYETTE,Broadway-Lafayette St,BDFQ6,IND,M,Houston St,Lafayette St,,Mez,,Open,,,0,40.7252274,-73.9955433
-N520,GRAND ST,Grand St,BD,IND,M,Chrystie St,Grand St,,Mez,,Open,,,1,40.7182442,-73.9937843
-N521,2 AV,2 Av,F,IND,M,Houston St,2nd Ave,,Mez,,Open,,,0,40.7237303,-73.9914382
-N522,2 AV,2 Av,F,IND,M,Houston St,Forsyth St,,Mez,,Closed,,,0,40.7233729,-73.9900293
-N523,2 AV,2 Av,F,IND,M,Houston St,1st Ave,,Mez,,Open,,,1,40.7230005,-73.988831
-N524,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Rivington St,,Mez,,Closed,,,0,40.7197604,-73.9875915
-N525,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Delancey St,N/S,Mez,,Open,,,1,40.7188561,-73.9880444
-N526,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Delancey St,S/S,Mez,,Open,,,0,40.7182503,-73.9883501
-N526A,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Delancey St,S/S,Mez,,Exit-only,N526,Escalator to street,0,40.7182849,-73.9881698
-N527,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Broome St,,Mez,,Closed,,,0,40.7177113,-73.9886483
-N528,EAST BROADWAY,East Broadway,F,IND,M,Rutgers St,E Broadway,,Mez,,Open,,,0,40.7140162,-73.9901807
-N529,EAST BROADWAY,East Broadway,F,IND,M,Rutgers St,Madison St,,Mez,,Open,,,1,40.7127303,-73.989997
-N530,YORK ST,York St,F,IND,Bk,Jay St,York St,,Mez,,Open,,,1,40.7013914,-73.9866591
-N531,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Bergen St,,S/B,,Open,,,0,40.6867961,-73.9906163
-N531A,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Warren St,,S/B,,Open,N531,HEET,0,40.685544,-73.9914434
-N532,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Bergen St,,N/B,,Open,,,1,40.6866939,-73.990335
-N533,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Warren St,,N/B,,Open,,,0,40.6854029,-73.9911903
-N534,CARROLL ST,Carroll St,FG,IND,Bk,Smith St,President St,,N/B,,Open,,,0,40.680869,-73.9943031
-N534A,CARROLL ST,Carroll St,FG,IND,Bk,Smith St,President St,,S/B,,Open,N534,HEET,0,40.6809505,-73.9945256
-N535,CARROLL ST,Carroll St,FG,IND,Bk,Smith St,2nd Pl,,Mez,,Open,,,1,40.6793231,-73.9954832
-N536,SMITH-9 ST,Smith-9 Sts,FG,IND,Bk,Culver Line (9th-10th Sts),9th St,,Mez,,Open,,,1,40.6747259,-73.9972023
-N537,4 AV-9 ST,4 Av-9 St,DFGMNR,IND,Bk,Culver Line (9th-10th Sts),4th Ave,,Mez,,Open,,,1,40.6701207,-73.9892991
-N539,7 AV,7 Av,FG,IND,Bk,9th St,7th Ave,,Mez,,Open,,,1,40.6667347,-73.9812597
-N539A,7 AV,7 Av,FG,IND,Bk,9th St,7th-8th Aves,,Mez,,Closed,,Moved to N539,0,40.6662526,-73.9802458
-N541,15 ST-PROSPECT,15 St-Prospect Park,FG,IND,Bk,Culver Line (9th Ave),Prospect Park SW,,Mez,,Open,,,0,40.6610315,-73.9789738
-N542,15 ST-PROSPECT,15 St-Prospect Park,FG,IND,Bk,Culver Line (9th Ave),Windsor Pl,,Mez,,Open,,,1,40.6597944,-73.979993
-N543,FT HAMILTON PKY,Fort Hamilton Pkwy,FG,IND,Bk,Prospect Ave,Greenwood Ave,,Mez,,Open,,,1,40.6516957,-73.9758909
-N544,FT HAMILTON PKY,Fort Hamilton Pkwy,FG,IND,Bk,Prospect Ave,Fort Hamilton Pkwy,,Mez,,Open,,,0,40.6500026,-73.9758856
-N545,CHURCH AV,Church Av,FG,IND,Bk,McDonald Ave,Albemarle Rd,,Mez,,Open,,,0,40.6449524,-73.9798462
-N546,CHURCH AV,Church Av,FG,IND,Bk,McDonald Ave,Church Ave,,Mez,,Open,,,1,40.642909,-73.9794707
-N547,DITMAS AV,Ditmas Av,F,IND,Bk,McDonald Ave,Cortelyou Rd,,Mez,,Open,,,0,40.6369519,-73.9783394
-N548,DITMAS AV,Ditmas Av,F,IND,Bk,McDonald Ave,Ditmas Ave,,Mez,,Open,,,1,40.6355515,-73.9780765
-N549,18 AV,18 Av,F,IND,Bk,McDonald Ave,18th Ave,,Mez,,Open,,,1,40.6303612,-73.977085
-N550,18 AV,18 Av,F,IND,Bk,McDonald Ave,Lawrence Ave,,Mez,,Open,,,0,40.6291073,-73.9768543
-N551,AVENUE I,Avenue I,F,IND,Bk,McDonald Ave,Avenue I,,Mez,,Open,,,1,40.6259964,-73.9762459
-N552,AVENUE I,Avenue I,F,IND,Bk,McDonald Ave,Avenue J,,Mez,,Open,N551,S/B exit-only,0,40.6244639,-73.9759786
-N553,BAY PKWY,Bay Pkwy,F,IND,Bk,McDonald Ave,Bay Pkwy,,Mez,,Open,,,1,40.6208969,-73.9752902
-N554,AVENUE N,Avenue N,F,IND,Bk,McDonald Ave,Avenue M,,Mez,,Open,,,0,40.6159347,-73.9743597
-N555,AVENUE N,Avenue N,F,IND,Bk,McDonald Ave,Avenue N,,Mez,,Open,,,1,40.6145257,-73.9740807
-N556,AVENUE P,Avenue P,F,IND,Bk,McDonald Ave,Avenue P,,Mez,,Open,,,1,40.6088283,-73.9729892
-N557,KINGS HWY,Kings Hwy,F,IND,Bk,McDonald Ave,Kings Hwy,,Mez,,Open,,,1,40.6038759,-73.9722811
-N558,KINGS HWY,Kings Hwy,F,IND,Bk,McDonald Ave,Avenue S,,Mez,,Open,,,0,40.6022875,-73.9724903
-N559,AVENUE U,Avenue U,F,IND,Bk,McDonald Ave,Avenue U,,Mez,,Open,,,1,40.5968049,-73.9732626
-N560,AVENUE U,Avenue U,F,IND,Bk,McDonald Ave,Gravesend Neck Rd,,Mez,,Open,N559,S/B exit-only,0,40.5952685,-73.9734627
-N561,AVENUE X,Avenue X,F,IND,Bk,McDonald Ave,Avenue X,,Mez,,Open,,,1,40.5902446,-73.9741614
-N562,NEPTUNE AV,Neptune Av,F,IND,Bk,W 6th St,Neptune Ave,,Mez,,Open,,,1,40.5809805,-73.9745905
-N600,57 ST,57 St,F,IND,M,6th Ave,W 57th St,,Mez,,Open,,,1,40.7639822,-73.977444
-N601,LEXINGTON AV/63,Lexington Av/63 St,F,IND,M,E 63rd St,Lexington Ave,,Mez,,Open,,,1,40.7647382,-73.966362
-N601A,LEXINGTON AV/63,Lexington Av/63 St,F,IND,M,E 63rd St,3rd Ave,,Mez,,Open,,,0,40.7641207,-73.9648975
-N602,ROOSEVELT ISLND,Roosevelt Island,F,IND,M,63rd St Tunnel,West Rd,,Mez,,Open,,,1,40.7591314,-73.9533195
-N603,21 ST-QNSBRIDGE,21 St-Queensbridge,F,IND,Q,41st Ave,21st St,,Mez,,Open,,,1,40.7541412,-73.9422409
-N604,JAMAICA VAN WK,Jamaica-Van Wyck,E,IND,Q,Van Wyck Expy,Jamaica Ave,,Mez,,Open,,,1,40.7021471,-73.8165593
-N605,SUTPHIN-ARCHER,Sutphin Blvd-Archer Av-JFK Airport,EJZ,IND,Q,Archer Ave,Sutphin Blvd,,Mez,,Open,,,1,40.7005125,-73.8076868
-N606,JAMAICA CENTER,Jamaica Center-Parsons/Archer,EJZ,IND,Q,Archer Ave,Parsons Blvd,,Mez,,Open,,,1,40.7025248,-73.7999858
-N607,JAMAICA CENTER,Jamaica Center-Parsons/Archer,EJZ,IND,Q,Archer Ave,158th St,,Mez,,Open,,,0,40.7019026,-73.8020645
-N700,72 ST-2 AVE,72 St,Q,IND,M,2nd Ave,E 72nd St,,Mez,,Open,,,1,40.7685873,-73.9585824
-N700A,72 ST-2 AVE,72 St,Q,IND,M,2nd Ave,E 69th St,,Mez,,Open,,,0,40.7671503,-73.9595865
-N701,86 ST-2 AVE,86 St,Q,IND,M,2nd Ave,E 86th St,,Mez,,Open,,,1,40.7777983,-73.9518165
-N701A,86 ST-2 AVE,86 St,Q,IND,M,2nd Ave,E 83rd St,,Mez,,Open,,,0,40.7761988,-73.9529994
-N702,96 ST-2 AVE,96 St,Q,IND,M,2nd Ave,E 96th St,,Mez,,Open,,,1,40.7838655,-73.9474378
-N702A,96 ST-2 AVE,96 St,Q,IND,M,2nd Ave,E 94th St,,Mez,,Open,,,0,40.783045,-73.9480118
-R101,SOUTH FERRY,South Ferry,1RW,IRT,M,State St,South St,,Mez,,Open,,,1,40.7018711,-74.0130561
-R101N,SOUTH FERRY,South Ferry,RW1,IRT,M,State St,Pearl St,,Mez,,Open,R101,,0,40.7027536,-74.0143408
-R101S,SOUTH FERRY,South Ferry,RW1,IRT,M,State St,Water St,,Mez,,Open,R101,,0,40.701989,-74.0135146
-R102,RECTOR ST,Rector St,1,IRT,M,Greenwich St,Rector St,,N/B,,Open,,,1,40.7079873,-74.0135307
-R103,RECTOR ST,Rector St,1,IRT,M,Greenwich St,Rector St,,S/B,,Open,,,0,40.7080686,-74.0136434
-R106,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Vesey St,,S/B,,Closed,,Temporary closure,0,40.7122407,-74.0119697
-R107,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Fulton St,,N/B,Oculus WTC Upper Level,Open,,,1,40.7118741,-74.0119783
-R107D,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Fulton St,,Mez,Oculus WTC Lower Level,Open,,,0,40.7120089,-74.0119992
-R108,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Cortlandt St,,S/B,,Open,,,0,40.7111235,-74.0124055
-R108A,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Dey St,,S/B,,Open,,,0,40.7115748,-74.0120891
-R109,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Cortlandt St,,N/B,Westfield 4 WTC,Open,,,0,40.7111784,-74.0121346
-R110,WALL ST,Wall St,23,IRT,M,William St,Wall St,S/S,Mez,,Open,,,0,40.7063035,-74.0095659
-R111,WALL ST,Wall St,23,IRT,M,William St,Wall St,N/S,Mez,,Open,,,1,40.706433,-74.0094656
-R112,WALL ST,Wall St,23,IRT,M,William St,Pine St,,Mez,,Open,,,0,40.7068621,-74.0089505
-R112A,WALL ST,Wall St,23,IRT,M,William St,Cedar St,,Mez,1 Chase Manhattan Plaza,Open,,,1,40.7073622,-74.0088191
-R113,FULTON ST,Fulton St,2345ACJZ,IRT,M,William St,John St,,Mez,,Open,,,0,40.7090771,-74.0068601
-R113A,FULTON ST,Fulton St,2345ACJZ,IRT,M,William St,Fulton St,,Mez,,Open,N098,,0,40.7095068,-74.0064282
-R114,FULTON ST,Fulton St,2345ACJZ,IRT,M,William St,Ann St,,Mez,,Open,,,0,40.7096932,-74.0062137
-R115,PARK PLACE,Park Place,23ACE,IRT,M,Park Pl,Broadway,,Mez,,Open,,,1,40.7127614,-74.0081367
-R116,CHAMBERS ST,Chambers St,123,IRT,M,W Broadway,Chambers St,,Mez,,Open,,,1,40.7155326,-74.0092512
-R117,FRANKLIN ST,Franklin St,1,IRT,M,Varick St,Franklin St,,N/B,,Open,,,1,40.7190434,-74.0067762
-R118,FRANKLIN ST,Franklin St,1,IRT,M,Varick St,Franklin St,,S/B,,Open,,,0,40.7191003,-74.007141
-R119,CANAL ST,Canal St,1,IRT,M,Varick St,Canal St,,N/B,,Open,,,1,40.7223814,-74.0061539
-R120,CANAL ST,Canal St,1,IRT,M,Varick St,Canal St,,S/B,,Open,,,0,40.7226903,-74.0064651
-R121,HOUSTON ST,Houston St,1,IRT,M,Varick St,King St,,N/B,,Open,,,0,40.7278807,-74.0053203
-R122,HOUSTON ST,Houston St,1,IRT,M,Varick St,King St,,S/B,,Open,,,0,40.727901,-74.0055724
-R123,HOUSTON ST,Houston St,1,IRT,M,Varick St,W Houston St,,N/B,,Open,,,1,40.7285893,-74.0051662
-R124,HOUSTON ST,Houston St,1,IRT,M,Varick St,W Houston St,,S/B,,Open,,,0,40.7286186,-74.0055027
-R125,CHRISTOPHER ST,Christopher St-Sheridan Sq,1,IRT,M,7th Ave S,Grove St,,N/B,,Open,,,1,40.7334809,-74.0027782
-R126,CHRISTOPHER ST,Christopher St-Sheridan Sq,1,IRT,M,7th Ave S,Christopher St,,S/B,,Open,,,0,40.7335907,-74.0029524
-R127,14 ST,14 St,123FLM,IRT,M,7th Ave,W 14th St,,Mez,,Open,,,1,40.7384422,-73.999755
-R128,14 ST,14 St,123FLM,IRT,M,7th Ave,W 12th St,,Mez,,Open,,,0,40.737317,-74.0005949
-R129,18 ST,18 St,1,IRT,M,7th Ave,W 18th St,,N/B,,Open,,,1,40.7409806,-73.9976832
-R130,18 ST,18 St,1,IRT,M,7th Ave,W 18th St,,S/B,,Open,,,0,40.741133,-73.9980292
-R131,23 ST,23 St,1,IRT,M,7th Ave,W 23rd St,,N/B,,Open,,,1,40.7440485,-73.9955046
-R132,23 ST,23 St,1,IRT,M,7th Ave,W 23rd St,,S/B,,Open,,,0,40.7441784,-73.9958103
-R133,28 ST,28 St,1,IRT,M,7th Ave,W 28th St,,N/B,,Open,,,1,40.7471548,-73.9931692
-R134,28 ST,28 St,1,IRT,M,7th Ave,W 28th St,,S/B,,Open,,,0,40.7473377,-73.9935528
-R135,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 32nd St,,Mez,Penn Station NJ Transit,Open,,,1,40.7497748,-73.9916272
-R137,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 32nd St,,N/B,,Closed,,Temporary closure,,40.7497299,-73.9914369
-R138,34 ST-PENN STA,34 St-Penn Station,123ACE,IRT,M,7th Ave,W 33rd St,,Mez,Penn Station LIRR,Open,,,1,40.7503311,-73.9911029
-R139,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 33rd St,,N/B,,Open,,,0,40.75025,-73.9909149
-R140,34 ST-PENN STA,34 St-Penn Station,123ACE,IRT,M,7th Ave,W 33rd St,,S/B,,Closed,R138,HEET,0,40.7504602,-73.9912632
-R141,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 34th St,,N/B,,Open,,,1,40.750913,-73.99039
-R142,34 ST-PENN STA,34 St-Penn Station,123ACE,IRT,M,7th Ave,W 34th St,,S/B,,Open,,,,40.7511157,-73.9908737
-R143,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 40th St,,Mez,,Open,,,0,40.754715,-73.9879103
-R144,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,Broadway,W 41st St,,Mez,,Open,R145,HEET,0,40.7551001,-73.9867817
-R145,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 41st St,E/S,Mez,,Open,,,1,40.7552936,-73.9872812
-R146,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 41st St,W/S,Mez,,Open,R145,Reconfigured,0,40.7555105,-73.9877661
-R147,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 42nd St,E/S,Mez,,Open,,,1,40.7558132,-73.986842
-R148,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,Broadway,W 42nd St,SE cnr,Mez,,Open,,,0,40.7556881,-73.986317
-R150,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 42nd St,NE cnr,Mez,,Closed,,,0,40.7560619,-73.9866952
-R151,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 42nd St,W/S,Mez,,Open,,,1,40.7561127,-73.9870975
-R153,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,Broadway,W 43rd St,,Mez,,Open,,,0,40.756001,-73.9864591
-R154,50 ST,50 St,1,IRT,M,Broadway,W 50th St,,S/B,,Open,,,0,40.761479,-73.9841803
-R155,50 ST,50 St,1,IRT,M,Broadway,W 50th St,,N/B,,Open,,,1,40.7613517,-73.9838936
-R158,59 ST COLUMBUS,59 St-Columbus Circle,1ABCD,IRT,M,Broadway,W 59th-60th Sts,,S/B,,Open,,,1,40.7686931,-73.9821264
-R159,66 ST-LINCOLN,66 St-Lincoln Center,1,IRT,M,Broadway,W 66th St,,N/B,,Open,,,0,40.7736818,-73.9820485
-R160,66 ST-LINCOLN,66 St-Lincoln Center,1,IRT,M,Broadway,W 66th St,,S/B,,Open,,,1,40.7738371,-73.9824026
-R160A,66 ST-LINCOLN,66 St-Lincoln Center,1,IRT,M,Broadway,W 65th St,,S/B,,Open,,,0,40.7728045,-73.9824109
-R161,72 ST,72 St,123,IRT,M,Broadway,W 72nd St,S/S,Mez,,Open,R161A,,0,40.7785708,-73.9819323
-R161A,72 ST,72 St,123,IRT,M,Broadway,W 72nd St,S/S,Mez,,Open,,,0,40.7784794,-73.9819475
-R161B,72 ST,72 St,123,IRT,M,Broadway,W 72nd St,N/S,Mez,,Open,,,1,40.7789588,-73.9818644
-R162,79 ST,79 St,1,IRT,M,Broadway,W 79th St,,S/B,,Open,,,1,40.7839805,-73.980107
-R163,79 ST,79 St,1,IRT,M,Broadway,W 79th St,,N/B,,Open,,,0,40.7837245,-73.9798603
-R164,86 ST,86 St,1,IRT,M,Broadway,W 86th St,,S/B,,Open,,,1,40.7884453,-73.9766329
-R165,86 ST,86 St,1,IRT,M,Broadway,W 86th St,,N/B,,Open,,,0,40.7882016,-73.9763808
-R166,86 ST,86 St,1,IRT,M,Broadway,W 87th St,,S/B,,Open,,,1,40.7889672,-73.9761957
-R168,96 ST,96 St,123,IRT,M,Broadway,W 96th St,,S/B,,Closed,,Moved to R169,1,40.7945668,-73.9720751
-R168A,96 ST,96 St,123,IRT,M,Broadway,W 94th St,,Mez,,Open,,,,40.7930763,-73.9729602
-R169,96 ST,96 St,123,IRT,M,Broadway,W 96th St,,N/B,,Open,,,,40.7941922,-73.9721381
-R170,103 ST,103 St,1,IRT,M,Broadway,W 103rd St,,Mez,,Open,,,1,40.799263,-73.9684789
-R171,CATHEDRAL PKWY,Cathedral Pkwy (110 St),1,IRT,M,Broadway,W 110th St,,N/B,,Open,,,0,40.8040537,-73.9665566
-R172,CATHEDRAL PKWY,Cathedral Pkwy (110 St),1,IRT,M,Broadway,W 110th St,,S/B,,Open,,,1,40.8043095,-73.9668355
-R173,116 ST-COLUMBIA,116 St-Columbia University,1,IRT,M,Broadway,W 116th St,,Mez,,Open,,,1,40.808284,-73.9637483
-R174,125 ST,125 St,1,IRT,M,Broadway,W 125th St,,Mez,,Open,,,1,40.8154337,-73.9584945
-R175,137 ST CITY COL,137 St-City College,1,IRT,M,Broadway,W 137th St,,N/B,,Open,,,0,40.8214521,-73.9539205
-R176,137 ST CITY COL,137 St-City College,1,IRT,M,Broadway,W 137th St,,S/B,,Open,,,1,40.8215028,-73.9542665
-R177,145 ST,145 St,1,IRT,M,Broadway,W 145th St,,N/B,,Open,,,0,40.8263617,-73.9502814
-R178,145 ST,145 St,1,IRT,M,Broadway,W 145th St,,S/B,,Open,,,1,40.8265139,-73.9506354
-R179,157 ST,157 St,1,IRT,M,Broadway,W 157th St,,N/B,,Open,,,0,40.8339989,-73.9447175
-R180,157 ST,157 St,1,IRT,M,Broadway,W 157th St,,S/B,,Open,,,1,40.834145,-73.9450581
-R182,168 ST,168 St-Washington Hts,1AC,IRT,M,Broadway,W 168th St,,Mez,,Open,,,0,40.8408988,-73.9400478
-R183,181 ST,181 St,1,IRT,M,St Nicholas Ave,W 181st St,,Mez,,Open,,,1,40.8493677,-73.9333658
-R185,191 ST,191 St,1,IRT,M,St Nicholas Ave,W 191st St,,Mez,,Open,,,1,40.8555094,-73.9295952
-R186,DYCKMAN ST,Dyckman St,1,IRT,M,Hillside Ave,Dyckman St,,Mez,,Open,,,1,40.8611364,-73.9251296
-R187,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,N/B,,Open,R188,,0,40.8644423,-73.918801
-R188,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,S/B,,Open,,,1,40.8644625,-73.9190886
-R189,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,N/B,,Open,R190,,0,40.869529,-73.9150644
-R190,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,S/B,,Open,,,1,40.8696126,-73.915304
-R191,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,N/B,,Open,R192,,0,40.8742186,-73.9101828
-R192,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,S/B,,Open,,,1,40.8743216,-73.9104148
-R193,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,N/B,,Open,R194,,0,40.8788994,-73.9046682
-R194,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,S/B,,Open,,,1,40.8790004,-73.9049243
-R195,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,N/B,,Open,R196,,0,40.885048,-73.9005161
-R196,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,S/B,,Open,,,1,40.8850611,-73.9008002
-R197,V.CORTLANDT PK,Van Cortlandt Park-242 St,1,IRT,Bx,Broadway,W 242nd St,,Mez,,Open,,,1,40.8899941,-73.8982958
-R200A,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,Bowling Green,,Mez,,Open,,,1,40.7046624,-74.0138245
-R201,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,Battery Pl,,Mez,,Open,,,0,40.7047154,-74.0141832
-R202,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,State St,,Mez,,Open,,,0,40.7040903,-74.0145325
-R203,WALL ST,Wall St,45,IRT,M,Broadway,Rector St,,N/B,,Open,,,1,40.707395,-74.0118802
-R203A,WALL ST,Wall St,45,IRT,M,Broadway,Pine St,,N/B,,Open,,,0,40.7080556,-74.0107476
-R204,WALL ST,Wall St,45,IRT,M,Broadway,Rector St,,S/B,,Open,,Historic booth (not active),1,40.7074743,-74.0120679
-R204A,WALL ST,Wall St,45,IRT,M,Broadway,Pine St,,S/B,Equitable Building,Open,,,0,40.7083586,-74.0113029
-R205,FULTON ST,Fulton St,ACJZ2345,IRT,M,Broadway,John St,,N/B,,Closed,,,0,40.7102452,-74.0094094
-R205A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,N/B,,Open,,,0,40.7097355,-74.0099577
-R206,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Dey St,,S/B,,Open,,,0,40.7104353,-74.0095933
-R206A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,S/B,,Open,R205A,,0,40.7098026,-74.0101079
-R208,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Fulton St,,S/B,,Open,,,0,40.7109924,-74.0092794
-R210,BROOKLYN BRIDGE,Brooklyn Bridge-City Hall,456JZ,IRT,M,Centre St,Brooklyn Bridge,,Mez,,Open,,,1,40.7126614,-74.0049077
-R210A,BROOKLYN BRIDGE,Brooklyn Bridge-City Hall,456JZ,IRT,M,Centre St,Reade St,,Mez,,Open,,,0,40.7136516,-74.0036858
-R214,CANAL ST,Canal St,JNQRZ6,IRT,M,Lafayette St,Canal St,,S/B,,Open,A046,Adjacent C/A,0,40.7185332,-74.0006661
-R215,SPRING ST,Spring St,6,IRT,M,Lafayette St,Spring St,,N/B,,Open,,,1,40.7222277,-73.9969882
-R216,SPRING ST,Spring St,6,IRT,M,Lafayette St,Spring St,,S/B,,Open,,,0,40.7223721,-73.9972993
-R217,BLEECKER ST,Bleecker St,6BDFM,IRT,M,Lafayette St,Bleecker St,,N/B,,Open,R217A,,0,40.7258332,-73.9944168
-R217A,BLEECKER ST,Bleecker St,6BDFM,IRT,M,Lafayette St,E Houston St,,N/B,,Open,,,,40.7250523,-73.9951743
-R218,BLEECKER ST,Bleecker St,6BDFM,IRT,M,Lafayette St,Bleecker St,,S/B,,Open,N519A,Adjacent C/A,0,40.7260036,-73.9947853
-R219,ASTOR PL,Astor Pl,6,IRT,M,Lafayette St,Astor Pl,,N/B,,Open,,,1,40.730019,-73.9909444
-R220,ASTOR PL,Astor Pl,6,IRT,M,Lafayette St,Astor Pl,,S/B,,Open,,,0,40.7301245,-73.9913628
-R221,14 ST-UNION SQ,14 St-Union Sq,456LNQRW,IRT,M,Union Sq E,E 14th St,,Mez,,Open,,,1,40.7344702,-73.9896712
-R226,23 ST,23 St,6,IRT,M,Park Ave S,E 23rd St,,S/B,,Open,,,,40.740321,-73.9865174
-R226A,23 ST,23 St,6,IRT,M,Park Ave S,E 22nd St,,S/B,,Open,,,,40.7395874,-73.9870217
-R227,23 ST,23 St,6,IRT,M,Park Ave S,E 23rd St,,N/B,,Open,,,,40.7401666,-73.9861821
-R227A,23 ST,23 St,6,IRT,M,Park Ave S,E 22nd St,,N/B,,Open,,,,40.7394594,-73.9866998
-R228,28 ST,28 St,6,IRT,M,Park Ave S,E 28th St,,S/B,,Open,,,0,40.7434156,-73.9842946
-R229,28 ST,28 St,6,IRT,M,Park Ave S,E 28th St,,N/B,,Open,,,1,40.7432449,-73.98386
-R230,28 ST,28 St,6,IRT,M,Park Ave S,E 27th St,,S/B,,Open,,,0,40.742753,-73.9846916
-R231,33 ST,33 St,6,IRT,M,Park Ave S,E 33rd St,,N/B,,Open,,,0,40.7463722,-73.9815892
-R231A,33 ST,33 St,6,IRT,M,Park Ave S,E 32nd St,,N/B,,Open,,,0,40.7457504,-73.9821096
-R232,33 ST,33 St,6,IRT,M,Park Ave S,E 33rd St,,S/B,,Open,,,1,40.7464718,-73.9819755
-R232A,33 ST,33 St,6,IRT,M,Park Ave S,E 32nd St,,S/B,,Open,,,0,40.7458765,-73.9824073
-R233,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Madison Ave,W/S,Mez,,Open,R236,HEET,0,40.7529879,-73.979692
-R234,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Madison Ave,E/S,Mez,,Closed,,,0,40.7526896,-73.9789996
-R235,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Madison-Vanderbilt Aves,,Mez,,Open,,,0,40.752584,-73.9784739
-R236,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Vanderbilt Ave,,Mez,,Open,,,0,40.7524742,-73.9784953
-R237,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Pershing Sq,E 41st-42nd Sts,,Mez,,Open,,,0,40.7517265,-73.9773058
-R237A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Park Ave,E 42nd St,SE cnr,Mez,,Exit-only,R238,,0,40.751598,-73.9768381
-R237B,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Lexington Ave,E 42nd St,SW cnr,Mez,Chanin Building,Open,,,0,40.7515578,-73.9765079
-R238,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Park Ave,E 42nd St,NE cnr,Mez,Grand Central Terminal,Open,,,1,40.7519173,-73.9769781
-R238A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Park Ave,E 42nd St,NW cnr,Mez,Grand Central Terminal,Open,,,0,40.7520149,-73.9772187
-R240,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Lexington Ave,E 42nd St,NW cnr,Mez,,Open,,,1,40.7519133,-73.9761552
-R240A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Lexington Ave,E 42nd St,NE cnr,Mez,,Open,R240,Adjacent C/A,0,40.7519418,-73.9760331
-R241A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,3rd Ave,,Mez,,Open,,,0,40.7508629,-73.9751882
-R242,51 ST,51 St,6,IRT,M,Lexington Ave,E 51st St,,S/B,,Open,,,1,40.7572165,-73.97209
-R242A,51 ST,51 St,6,IRT,M,Lexington Ave,E 50th St,,S/B,,Open,,,0,40.7570242,-73.9716805
-R243,51 ST,51 St,6,IRT,M,Lexington Ave,E 51st St,,N/B,,Open,,,0,40.7566869,-73.9723484
-R244,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 60th St,,S/B,,Open,,,1,40.7627765,-73.9679442
-R244A,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 59th St,,S/B,,Open,,,0,40.7622506,-73.9683423
-R245,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 60th St,,N/B,,Open,,,0,40.7627182,-73.9675087
-R245A,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 59th St,,N/B,,Open,,,0,40.7621013,-73.9680848
-R246,68ST-HUNTER CO,68 St-Hunter College,6,IRT,M,Lexington Ave,E 68th St,,Mez,,Open,,,1,40.7679208,-73.9640877
-R246A,68ST-HUNTER CO,68 St-Hunter College,6,IRT,M,Lexington Ave,E 68th-69th Sts,,N/B,,Open,R246,,0,40.7681282,-73.9637217
-R246B,68ST-HUNTER CO,68 St-Hunter College,6,IRT,M,Lexington Ave,E 69th St,,S/B,,Closed,R246,Under Construction,0,40.7684877,-73.9638156
-R247,77 ST,77 St,6,IRT,M,Lexington Ave,E 77th St,,N/B,,Open,,,0,40.7735634,-73.9596604
-R248,77 ST,77 St,6,IRT,M,Lexington Ave,E 77th St,,S/B,,Open,,,1,40.773734,-73.9600627
-R249,86 ST,86 St,456,IRT,M,Lexington Ave,E 86th St,,N/B,,Open,,,0,40.7794476,-73.9554279
-R250,86 ST,86 St,456,IRT,M,Lexington Ave,E 86th St,,S/B,,Open,,,1,40.7795898,-73.9557846
-R251,96 ST,96 St,6,IRT,M,Lexington Ave,E 96th St,,Mez,,Open,,,1,40.7859472,-73.9508783
-R252,103 ST,103 St,6,IRT,M,Lexington Ave,E 103rd St,,Mez,,Open,,,1,40.7901525,-73.9478101
-R253,110 ST,110 St,6,IRT,M,Lexington Ave,E 110th St,,N/B,,Open,,,0,40.7947351,-73.9442294
-R254,110 ST,110 St,6,IRT,M,Lexington Ave,E 110th St,,S/B,,Open,,,1,40.7948975,-73.9446076
-R255,110 ST,110 St,6,IRT,M,Lexington Ave,E 111th St,,N/B,,Closed,,,0,40.7954092,-73.9438834
-R256,116 ST,116 St,6,IRT,M,Lexington Ave,E 116th St,,S/B,,Open,,,1,40.7987029,-73.9417751
-R257,116 ST,116 St,6,IRT,M,Lexington Ave,E 116th St,,N/B,,Open,,,0,40.7986013,-73.9415337
-R258,125 ST,125 St,456,IRT,M,Lexington Ave,E 125th St,,Mez,,Open,,,1,40.8043355,-73.9373246
-R259,138/GRAND CONC,138 St-Grand Concourse,45,IRT,Bx,Grand Concourse,E 138th St,,Mez,,Open,,,1,40.8132228,-73.9298084
+N205,161/YANKEE STAD,161 St-Yankee Stadium,BD4,IND,Bx,E 161st St,Walton Ave,,Mez,,Open,,,0,40.827472,-73.924227
+N206,167 ST,167 St,BD,IND,Bx,Grand Concourse,McClellan St,,S/B,,Open,,,0,40.833279,-73.919074
+N206A,167 ST,167 St,BD,IND,Bx,Grand Concourse,McClellan St,,N/B,,Exit-only,N206,,0,40.833190,-73.918767
+N207,167 ST,167 St,BD,IND,Bx,Grand Concourse,E 167th St,,Mez,,Open,,,1,40.834557,-73.917663
+N208,170 ST,170 St,BD,IND,Bx,Grand Concourse,E 170th St,,S/B,,Open,,,0,40.838792,-73.913900
+N208A,170 ST,170 St,BD,IND,Bx,Grand Concourse,E 170th St,,N/B,,Exit-only,N208,,0,40.838666,-73.913599
+N209,170 ST,170 St,BD,IND,Bx,Grand Concourse,E 171st St,,Mez,,Open,,,1,40.839856,-73.913128
+N210,174-175 STS,174-175 Sts,BD,IND,Bx,Grand Concourse,E 174th St,,Mez,,Open,,,1,40.844970,-73.911069
+N211,174-175 STS,174-175 Sts,BD,IND,Bx,Grand Concourse,E 175th St,LL,Mez,,Closed,,,0,40.846260,-73.909637
+N212,174-175 STS,174-175 Sts,BD,IND,Bx,Grand Concourse,E 175th St,,Mez,,Open,,,0,40.846312,-73.909555
+N213,TREMONT AV,Tremont Av,BD,IND,Bx,Grand Concourse,Echo Pl,,Mez,,Open,,,1,40.849889,-73.905659
+N214,TREMONT AV,Tremont Av,BD,IND,Bx,Grand Concourse,E 179th St,,Mez,,Open,N213,,0,40.851105,-73.904694
+N215,182-183 STS,182-183 Sts,BD,IND,Bx,Grand Concourse,E 182nd St,,Mez,,Open,,,1,40.856034,-73.900803
+N215A,182-183 STS,182-183 Sts,BD,IND,Bx,Grand Concourse,Anthony Ave,,Mez,,Closed,,,0,40.855469,-73.901180
+N216,182-183 STS,182-183 Sts,BD,IND,Bx,Grand Concourse,E 183rd St,,Mez,,Closed,,,0,40.857428,-73.899967
+N217,FORDHAM RD,Fordham Rd,BD,IND,Bx,Grand Concourse,E 188th St,,Mez,,Open,,,1,40.861368,-73.897721
+N218,FORDHAM RD,Fordham Rd,BD,IND,Bx,Grand Concourse,E Fordham Rd,E/S,Mez,,Open,,,0,40.862094,-73.897110
+N219,FORDHAM RD,Fordham Rd,BD,IND,Bx,Grand Concourse,E Fordham Rd,W/S,Mez,,Closed,,,0,40.862241,-73.897515
+N220,KINGSBRIDGE RD,Kingsbridge Rd,BD,IND,Bx,Grand Concourse,E Kingsbridge Rd,,Mez,,Open,,,0,40.866329,-73.894267
+N221,KINGSBRIDGE RD,Kingsbridge Rd,BD,IND,Bx,Grand Concourse,E 196th St,,Mez,,Open,,,1,40.867895,-73.893000
+N222,BEDFORD PK BLVD,Bedford Park Blvd,BD,IND,Bx,Grand Concourse,Bedford Park Blvd,,Mez,,Open,,,1,40.872295,-73.887697
+N223,BEDFORD PK BLVD,Bedford Park Blvd,BD,IND,Bx,Grand Concourse,E 203rd St,,Mez,,Open,,,0,40.873906,-73.886860
+N224,NORWOOD 205 ST,Norwood-205 St,D,IND,Bx,E 205th St,Bainbridge Ave,,Mez,,Open,,,1,40.874896,-73.879491
+N225,NORWOOD 205 ST,Norwood-205 St,D,IND,Bx,E 205th St,Perry Ave,,Mez,,Open,,,0,40.874133,-73.877522
+N300,7 AV,7 Av,BDE,IND,M,W 53rd St,Broadway,,Mez,,Open,,,0,40.763248,-73.982545
+N301,7 AV,7 Av,BDE,IND,M,W 53rd St,7th Ave,,Mez,,Open,,,1,40.762850,-73.981613
+N302,7 AV,7 Av,BDE,IND,M,W 53rd St,6th 1/2 Ave,,Mez,,Closed,,,0,40.762523,-73.980819
+N303,5 AV/53 ST,5 Av/53 St,EM,IND,M,E 53rd St,5th Ave,,Mez,,Open,,,1,40.760513,-73.976082
+N304,5 AV/53 ST,5 Av/53 St,EM,IND,M,E 53rd St,Madison Ave,,Mez,,Open,,,0,40.759684,-73.974071
+N304A,5 AV/53 ST,5 Av/53 St,EM,IND,M,E 53rd St,Madison Ave,NE cnr,Mez,,Open,N304,Adjacent C/A,0,40.759680,-73.973938
+N305,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,Lexington Ave,,Mez,,Open,,,1,40.758230,-73.970652
+N305A,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,E 52nd St,,Mez,,Open,,,0,40.757757,-73.971299
+N305B,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,E 52nd St,N/S,Mez,,Open,N305A,Adjacent C/A,0,40.757928,-73.971005
+N306,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,3rd Ave,E/S,Mez,,Open,,,1,40.757631,-73.969198
+N306A,LEXINGTON AV/53,Lexington Av/53 St,EM6,IND,M,E 53rd St,3rd Ave,W/S,Mez,,Open,N306,HEET,0,40.757821,-73.969681
+N307,COURT SQ-23 ST,Court Sq-23 St,EMG,IND,Q,44th Dr,21st St,,Mez,,Open,,,1,40.748144,-73.947017
+N308,COURT SQ-23 ST,Court Sq-23 St,EMG,IND,Q,44th Dr,23rd St,,Mez,,Open,N307,,0,40.747688,-73.944839
+N309A,QUEENS PLAZA,Queens Plaza,EMR,IND,Q,Jackson Ave,Queens Blvd,,Mez,,Open,,,1,40.748776,-73.937720
+N310,QUEENS PLAZA,Queens Plaza,EMR,IND,Q,Northern Blvd,41st Ave,,Mez,,Open,,,0,40.749623,-73.936253
+N311,36 ST,36 St,MR,IND,Q,Northern Blvd,34th St,,N/B,,Open,,,0,40.751928,-73.930100
+N312,36 ST,36 St,MR,IND,Q,Northern Blvd,35th St,,S/B,,Open,,,1,40.752111,-73.928971
+N312A,36 ST,36 St,MR,IND,Q,Northern Blvd,36th St,,S/B,,Open,N312,HEET,0,40.752152,-73.927871
+N313,36 ST,36 St,MR,IND,Q,Northern Blvd,36th St,,N/B,,Open,N311,HEET,0,40.751953,-73.927662
+N314,STEINWAY ST,Steinway St,MR,IND,Q,Steinway St,34th Ave,,Mez,,Open,,,0,40.756664,-73.920940
+N315,STEINWAY ST,Steinway St,MR,IND,Q,Steinway St,Broadway,,Mez,,Open,,,1,40.757826,-73.919896
+N316,46 ST,46 St,MR,IND,Q,Broadway,46th St,,S/B,,Open,,,1,40.756804,-73.914153
+N316A,46 ST,46 St,MR,IND,Q,Broadway,48th St,,S/B,,Open,,,0,40.756067,-73.912613
+N317,46 ST,46 St,MR,IND,Q,Broadway,46th St,,N/B,,Open,,,0,40.756650,-73.914282
+N318,NORTHERN BLVD,Northern Blvd,MR,IND,Q,Broadway,Northern Blvd,,S/B,,Open,,,1,40.753376,-73.906770
+N319,NORTHERN BLVD,Northern Blvd,MR,IND,Q,Broadway,Northern Blvd,,N/B,,Open,,,0,40.753149,-73.906966
+N322,65 ST,65 St,MR,IND,Q,Broadway,65th St,,Mez,,Open,,,1,40.749300,-73.897574
+N323,JKSN HT-ROOSVLT,Jackson Hts-Roosevelt Av,EFMR7,IND,Q,Broadway,37th Rd,,Mez,,Open,,,0,40.747094,-73.892390
+N324,JKSN HT-ROOSVLT,Jackson Hts-Roosevelt Av,EFMR7,IND,Q,Broadway,Roosevelt Ave,,Mez,,Open,,,1,40.746740,-73.890997
+N325A,ELMHURST AV,Elmhurst Av,MR,IND,Q,Broadway,Britton-Elmhurst Aves,,Mez,,Open,,,1,40.742383,-73.881867
+N327,GRAND-NEWTOWN,Grand Av-Newtown,MR,IND,Q,Queens Blvd,Broadway,,Mez,,Open,,,1,40.736766,-73.877671
+N329,WOODHAVEN BLVD,Woodhaven Blvd,MR,IND,Q,Queens Blvd,Woodhaven Blvd,,Mez,,Open,,,1,40.733311,-73.869742
+N329A,WOODHAVEN BLVD,Woodhaven Blvd,MR,IND,Q,Queens Blvd,Horace Harding Blvd,,Mez,,Open,,,0,40.733147,-73.868760
+N330,63 DR-REGO PARK,63 Dr-Rego Park,MR,IND,Q,Queens Blvd,63rd Dr,,Mez,,Open,,,1,40.729811,-73.861478
+N330B,63 DR-REGO PARK,63 Dr-Rego Park,MR,IND,Q,Queens Blvd,64th Ave,,Mez,,Closed,,Moved to N330,0,40.729583,-73.860851
+N330C,63 DR-REGO PARK,63 Dr-Rego Park,MR,IND,Q,Queens Blvd,63rd Rd,,Mez,,Open,,,0,40.730187,-73.862484
+N331,67 AV,67 Av,MR,IND,Q,Queens Blvd,67th Ave,,Mez,,Open,,,1,40.726795,-73.853224
+N332,67 AV,67 Av,MR,IND,Q,Queens Blvd,67th Dr,,Mez,,Open,,,0,40.726274,-73.851969
+N333,FOREST HILLS 71,Forest Hills-71 Av,EFMR,IND,Q,Queens Blvd,70th Rd,,Mez,,Open,,,0,40.722009,-73.845240
+N333A,FOREST HILLS 71,Forest Hills-71 Av,EFMR,IND,Q,Queens Blvd,71st Ave,W/S,Mez,,Open,,,1,40.721432,-73.844205
+N333B,FOREST HILLS 71,Forest Hills-71 Av,EFMR,IND,Q,Queens Blvd,71st Ave,E/S,Mez,,Open,,,0,40.721765,-73.844430
+N334B,75 AV,75 Av,EF,IND,Q,Queens Blvd,75th Ave-75th Rd,,Mez,,Open,,,1,40.718419,-73.837138
+N335,KEW GARDENS,Kew Gardens-Union Tpke,EF,IND,Q,Queens Blvd,78th Ave,,Mez,,Open,,,0,40.714753,-73.831755
+N336,KEW GARDENS,Kew Gardens-Union Tpke,EF,IND,Q,Queens Blvd,80th Rd,,Mez,,Open,,,1,40.713960,-73.830478
+N337,BRIARWOOD,Briarwood,EF,IND,Q,Van Wyck Expy,Main St,,Mez,,Open,,,1,40.708255,-73.820060
+N338,SUTPHIN BLVD,Sutphin Blvd,F,IND,Q,Hillside Ave,Sutphin Blvd,,Mez,,Open,,,1,40.705756,-73.809698
+N338B,SUTPHIN BLVD,Sutphin Blvd,F,IND,Q,Hillside Ave,144th St,,Mez,,Open,,,0,40.705164,-73.811745
+N339,PARSONS BLVD,Parsons Blvd,F,IND,Q,Hillside Ave,153rd St,,Mez,,Open,,,0,40.707283,-73.804251
+N339A,PARSONS BLVD,Parsons Blvd,F,IND,Q,Hillside Ave,Parsons Blvd,,Mez,,Open,,,1,40.707694,-73.802805
+N340,169 ST,169 St,F,IND,Q,Hillside Ave,168th St,,Mez,,Open,,,0,40.710007,-73.794704
+N340A,169 ST,169 St,F,IND,Q,Hillside Ave,169th St,,Mez,,Open,,,1,40.710743,-73.793044
+N342,JAMAICA 179 ST,Jamaica-179 St,F,IND,Q,Hillside Ave,168th St,,Mez,,Open,,,0,40.712491,-73.784454
+N343,JAMAICA 179 ST,Jamaica-179 St,F,IND,Q,Hillside Ave,169th St,,Mez,,Open,,,1,40.712759,-73.783204
+N400,COURT SQ,Court Sq,EMG,IND,Q,Jackson Ave,Pearson St,,Mez,,Open,N400A,,0,40.746148,-73.944861
+N400A,COURT SQ,Court Sq,EMG,IND,Q,Jackson Ave,23rd St,,Mez,,Open,,,1,40.747258,-73.944791
+N401,21 ST,21 St,G,IND,Q,Jackson Ave,21st St,,Mez,,Open,,,1,40.744547,-73.948819
+N402,21 ST,21 St,G,IND,Q,Jackson Ave,11th St,,Mez,,Closed,,,0,40.743598,-73.950626
+N403,GREENPOINT AV,Greenpoint Av,G,IND,Bk,Manhattan Ave,India St,,S/B,,Open,N405,,0,40.732215,-73.954700
+N404,GREENPOINT AV,Greenpoint Av,G,IND,Bk,Manhattan Ave,India St,,N/B,,Open,N405,,0,40.732227,-73.954507
+N405,GREENPOINT AV,Greenpoint Av,G,IND,Bk,Manhattan Ave,Greenpoint Ave,,Mez,,Open,,,1,40.730202,-73.954266
+N406,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Norman Ave,,S/B,,Open,N408A,HEET,0,40.725357,-73.951824
+N407,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Norman Ave,,N/B,,Open,N408A,HEET,0,40.725426,-73.951599
+N408,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Nassau Ave,W/S,Mez,,Open,N408A,Adjacent C/A,0,40.723731,-73.950923
+N408A,NASSAU AV,Nassau Av,G,IND,Bk,Manhattan Ave,Nassau Ave,E/S,Mez,,Open,,,1,40.723821,-73.950630
+N409,METROPOLITAN AV,Metropolitan Av,GL,IND,Bk,Union Ave,Metropolitan Ave,,Mez,,Open,,,1,40.713924,-73.951661
+N410,METROPOLITAN AV,Metropolitan Av,GL,IND,Bk,Union Ave,Powers St,,Mez,,Open,N409,,0,40.712009,-73.951291
+N411,BROADWAY,Broadway,G,IND,Bk,Union Ave,Montrose Ave,,Mez,,Closed,,,0,40.706520,-73.950384
+N412,BROADWAY,Broadway,G,IND,Bk,Union Ave,Broadway,,Mez,,Open,,,1,40.705564,-73.950234
+N414,FLUSHING AV,Flushing Av,G,IND,Bk,Marcy Ave,Flushing Ave,,S/B,,Open,,,1,40.699779,-73.950195
+N414A,FLUSHING AV,Flushing Av,G,IND,Bk,Marcy Ave,Gerry St,,N/B,,Open,,,0,40.699801,-73.950021
+N415,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Myrtle Ave,,S/B,,Open,,,1,40.695374,-73.949293
+N415A,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Willoughby Ave,,S/B,,Closed,,,0,40.694059,-73.949051
+N416,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Myrtle Ave,,N/B,,Open,,,0,40.695394,-73.949134
+N416A,MYRTLE-WILLOUGH,Myrtle-Willoughby Avs,G,IND,Bk,Marcy Ave,Willoughby Ave,,N/B,,Closed,,,0,40.694051,-73.948855
+N417,BEDFORD-NOSTRAN,Bedford-Nostrand Avs,G,IND,Bk,Lafayette Ave,Nostrand Ave,,Mez,,Open,,,1,40.689786,-73.952136
+N418,BEDFORD-NOSTRAN,Bedford-Nostrand Avs,G,IND,Bk,Lafayette Ave,Bedford Ave,,Mez,,Open,,,0,40.689481,-73.954792
+N419,CLASSON AV,Classon Av,G,IND,Bk,Lafayette Ave,Classon Ave,,Mez,,Open,,,1,40.688872,-73.960010
+N420B,CLINTON-WASH AV,Clinton-Washington Avs,G,IND,Bk,Lafayette Ave,Washington Ave,,Mez,,Open,,,1,40.688223,-73.965831
+N421,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,S Portland Ave,,Mez,,Closed,,,0,40.687194,-73.974724
+N422,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,Fulton St,,Mez,,Open,,,1,40.687098,-73.976376
+N422A,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,S Portland Ave,,N/B,,Open,N422,,0,40.687140,-73.974729
+N422B,FULTON ST,Fulton St,G,IND,Bk,Lafayette Ave,S Portland Ave,,S/B,,Open,N422,,0,40.687245,-73.974746
+N500,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 49th St,,Mez,,Open,,,1,40.759314,-73.980857
+N500A,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 48th-49th Sts,,Mez,,Open,N500,Adjacent HEET,0,40.759013,-73.980940
+N500B,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 48th-49th Sts,S/S,Mez,,Closed,,Accessible via N500A,0,40.758813,-73.981096
+N501,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 47th St,,Mez,,Open,,,0,40.758062,-73.981742
+N501A,47-50 STS ROCK,47-50 Sts-Rockefeller Ctr,BDFM,IND,M,6th Ave,W 48th St,,Mez,,Open,,,0,40.758650,-73.981340
+N502,42 ST-BRYANT PK,42 St-Bryant Pk,BDFM7,IND,M,6th Ave,W 42nd St,N/S,Mez,,Open,,,0,40.755043,-73.983960
+N503,42 ST-BRYANT PK,42 St-Bryant Pk,BDFM7,IND,M,6th Ave,W 42nd St,S/S,Mez,,Open,,,1,40.754661,-73.984222
+N504,42 ST-BRYANT PK,42 St-Bryant Pk,BDFM7,IND,M,6th Ave,W 40th St,,Mez,,Open,,,0,40.753588,-73.985003
+N505,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 35th St,,Mez,,Open,,,0,40.750460,-73.987288
+N505A,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 34th-35th St,,Mez,,Open,N505,Adjacent HEET,0,40.750207,-73.987362
+N506,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 34th St,W/S,Mez,,Open,,,1,40.749915,-73.988016
+N507,34 ST-HERALD SQ,34 St-Herald Sq,BDFMNQRW,IND,M,6th Ave,W 33rd St,,Mez,,Open,,,1,40.748765,-73.988580
+N508,23 ST,23 St,FM,IND,M,6th Ave,W 23rd St,,S/B,,Open,,,0,40.742974,-73.992986
+N509,23 ST,23 St,FM,IND,M,6th Ave,W 23rd St,,N/B,,Open,,,1,40.742820,-73.992603
+N510,14 ST,14 St,FLM123,IND,M,6th Ave,W 16th St,,N/B,,Open,,,0,40.738609,-73.995687
+N511,14 ST,14 St,FLM123,IND,M,6th Ave,W 16th St,,S/B,,Open,,,0,40.738772,-73.996078
+N512,14 ST,14 St,FLM123,IND,M,6th Ave,W 14th St,,S/B,,Open,,,1,40.737540,-73.996845
+N513,14 ST,14 St,FLM123,IND,M,6th Ave,W 14th St,,N/B,,Open,,,0,40.737463,-73.996636
+N519,B'WAY-LAFAYETTE,Broadway-Lafayette St,BDFQ6,IND,M,Houston St,Broadway,,Mez,,Open,,,1,40.725376,-73.996520
+N519A,B'WAY-LAFAYETTE,Broadway-Lafayette St,BDFQ6,IND,M,Houston St,Lafayette St,,Mez,,Open,,,0,40.725227,-73.995543
+N520,GRAND ST,Grand St,BD,IND,M,Chrystie St,Grand St,,Mez,,Open,,,1,40.718244,-73.993784
+N521,2 AV,2 Av,F,IND,M,Houston St,2nd Ave,,Mez,,Open,,,0,40.723730,-73.991438
+N522,2 AV,2 Av,F,IND,M,Houston St,Forsyth St,,Mez,,Closed,,,0,40.723373,-73.990029
+N523,2 AV,2 Av,F,IND,M,Houston St,1st Ave,,Mez,,Open,,,1,40.723001,-73.988831
+N524,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Rivington St,,Mez,,Closed,,,0,40.719760,-73.987592
+N525,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Delancey St,N/S,Mez,,Open,,,1,40.718856,-73.988044
+N526,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Delancey St,S/S,Mez,,Open,,,0,40.718250,-73.988350
+N526A,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Delancey St,S/S,Mez,,Exit-only,N526,Escalator to street,0,40.718285,-73.988170
+N527,DELANCEY/ESSEX,Delancey St-Essex St,FJMZ,IND,M,Essex St,Broome St,,Mez,,Closed,,,0,40.717711,-73.988648
+N528,EAST BROADWAY,East Broadway,F,IND,M,Rutgers St,E Broadway,,Mez,,Open,,,0,40.714016,-73.990181
+N529,EAST BROADWAY,East Broadway,F,IND,M,Rutgers St,Madison St,,Mez,,Open,,,1,40.712730,-73.989997
+N530,YORK ST,York St,F,IND,Bk,Jay St,York St,,Mez,,Open,,,1,40.701391,-73.986659
+N531,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Bergen St,,S/B,,Open,,,0,40.686796,-73.990616
+N531A,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Warren St,,S/B,,Open,N531,HEET,0,40.685544,-73.991443
+N532,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Bergen St,,N/B,,Open,,,1,40.686694,-73.990335
+N533,BERGEN ST,Bergen St,FG,IND,Bk,Smith St,Warren St,,N/B,,Open,,,0,40.685403,-73.991190
+N534,CARROLL ST,Carroll St,FG,IND,Bk,Smith St,President St,,N/B,,Open,,,0,40.680869,-73.994303
+N534A,CARROLL ST,Carroll St,FG,IND,Bk,Smith St,President St,,S/B,,Open,N534,HEET,0,40.680951,-73.994526
+N535,CARROLL ST,Carroll St,FG,IND,Bk,Smith St,2nd Pl,,Mez,,Open,,,1,40.679323,-73.995483
+N536,SMITH-9 ST,Smith-9 Sts,FG,IND,Bk,Culver Line (9th-10th Sts),9th St,,Mez,,Open,,,1,40.674726,-73.997202
+N537,4 AV-9 ST,4 Av-9 St,DFGMNR,IND,Bk,Culver Line (9th-10th Sts),4th Ave,,Mez,,Open,,,1,40.670121,-73.989299
+N539,7 AV,7 Av,FG,IND,Bk,9th St,7th Ave,,Mez,,Open,,,1,40.666735,-73.981260
+N539A,7 AV,7 Av,FG,IND,Bk,9th St,7th-8th Aves,,Mez,,Closed,,Moved to N539,0,40.666253,-73.980246
+N541,15 ST-PROSPECT,15 St-Prospect Park,FG,IND,Bk,Culver Line (9th Ave),Prospect Park SW,,Mez,,Open,,,0,40.661032,-73.978974
+N542,15 ST-PROSPECT,15 St-Prospect Park,FG,IND,Bk,Culver Line (9th Ave),Windsor Pl,,Mez,,Open,,,1,40.659794,-73.979993
+N543,FT HAMILTON PKY,Fort Hamilton Pkwy,FG,IND,Bk,Prospect Ave,Greenwood Ave,,Mez,,Open,,,1,40.651696,-73.975891
+N544,FT HAMILTON PKY,Fort Hamilton Pkwy,FG,IND,Bk,Prospect Ave,Fort Hamilton Pkwy,,Mez,,Open,,,0,40.650003,-73.975886
+N545,CHURCH AV,Church Av,FG,IND,Bk,McDonald Ave,Albemarle Rd,,Mez,,Open,,,0,40.644952,-73.979846
+N546,CHURCH AV,Church Av,FG,IND,Bk,McDonald Ave,Church Ave,,Mez,,Open,,,1,40.642909,-73.979471
+N547,DITMAS AV,Ditmas Av,F,IND,Bk,McDonald Ave,Cortelyou Rd,,Mez,,Open,,,0,40.636952,-73.978339
+N548,DITMAS AV,Ditmas Av,F,IND,Bk,McDonald Ave,Ditmas Ave,,Mez,,Open,,,1,40.635552,-73.978077
+N549,18 AV,18 Av,F,IND,Bk,McDonald Ave,18th Ave,,Mez,,Open,,,1,40.630361,-73.977085
+N550,18 AV,18 Av,F,IND,Bk,McDonald Ave,Lawrence Ave,,Mez,,Open,,,0,40.629107,-73.976854
+N551,AVENUE I,Avenue I,F,IND,Bk,McDonald Ave,Avenue I,,Mez,,Open,,,1,40.625996,-73.976246
+N552,AVENUE I,Avenue I,F,IND,Bk,McDonald Ave,Avenue J,,Mez,,Open,N551,S/B exit-only,0,40.624464,-73.975979
+N553,BAY PKWY,Bay Pkwy,F,IND,Bk,McDonald Ave,Bay Pkwy,,Mez,,Open,,,1,40.620897,-73.975290
+N554,AVENUE N,Avenue N,F,IND,Bk,McDonald Ave,Avenue M,,Mez,,Open,,,0,40.615935,-73.974360
+N555,AVENUE N,Avenue N,F,IND,Bk,McDonald Ave,Avenue N,,Mez,,Open,,,1,40.614526,-73.974081
+N556,AVENUE P,Avenue P,F,IND,Bk,McDonald Ave,Avenue P,,Mez,,Open,,,1,40.608828,-73.972989
+N557,KINGS HWY,Kings Hwy,F,IND,Bk,McDonald Ave,Kings Hwy,,Mez,,Open,,,1,40.603843,-73.972276
+N558,KINGS HWY,Kings Hwy,F,IND,Bk,McDonald Ave,Avenue S,,Mez,,Open,,,0,40.602336,-73.972490
+N559,AVENUE U,Avenue U,F,IND,Bk,McDonald Ave,Avenue U,,Mez,,Open,,,1,40.596805,-73.973263
+N560,AVENUE U,Avenue U,F,IND,Bk,McDonald Ave,Gravesend Neck Rd,,Mez,,Open,N559,S/B exit-only,0,40.595269,-73.973463
+N561,AVENUE X,Avenue X,F,IND,Bk,McDonald Ave,Avenue X,,Mez,,Open,,,1,40.590245,-73.974161
+N562,NEPTUNE AV,Neptune Av,F,IND,Bk,W 6th St,Neptune Ave,,Mez,,Open,,,1,40.580981,-73.974591
+N600,57 ST,57 St,F,IND,M,6th Ave,W 57th St,,Mez,,Open,,,1,40.763982,-73.977444
+N601,LEXINGTON AV/63,Lexington Av/63 St,F,IND,M,E 63rd St,Lexington Ave,,Mez,,Open,,,1,40.764738,-73.966362
+N601A,LEXINGTON AV/63,Lexington Av/63 St,F,IND,M,E 63rd St,3rd Ave,,Mez,,Open,,,0,40.764121,-73.964898
+N602,ROOSEVELT ISLND,Roosevelt Island,F,IND,M,63rd St Tunnel,West Rd,,Mez,,Open,,,1,40.759131,-73.953320
+N603,21 ST-QNSBRIDGE,21 St-Queensbridge,F,IND,Q,41st Ave,21st St,,Mez,,Open,,,1,40.754141,-73.942241
+N604,JAMAICA VAN WK,Jamaica-Van Wyck,E,IND,Q,Van Wyck Expy,Jamaica Ave,,Mez,,Open,,,1,40.702147,-73.816559
+N605,SUTPHIN-ARCHER,Sutphin Blvd-Archer Av-JFK Airport,EJZ,IND,Q,Archer Ave,Sutphin Blvd,,Mez,,Open,,,1,40.700513,-73.807687
+N606,JAMAICA CENTER,Jamaica Center-Parsons/Archer,EJZ,IND,Q,Archer Ave,Parsons Blvd,,Mez,,Open,,,1,40.702525,-73.799986
+N607,JAMAICA CENTER,Jamaica Center-Parsons/Archer,EJZ,IND,Q,Archer Ave,158th St,,Mez,,Open,,,0,40.701903,-73.802065
+N700,72 ST-2 AVE,72 St,Q,IND,M,2nd Ave,E 72nd St,,Mez,,Open,,,1,40.768587,-73.958582
+N700A,72 ST-2 AVE,72 St,Q,IND,M,2nd Ave,E 69th St,,Mez,,Open,,,0,40.767150,-73.959587
+N701,86 ST-2 AVE,86 St,Q,IND,M,2nd Ave,E 86th St,,Mez,,Open,,,1,40.777798,-73.951817
+N701A,86 ST-2 AVE,86 St,Q,IND,M,2nd Ave,E 83rd St,,Mez,,Open,,,0,40.776199,-73.952999
+N702,96 ST-2 AVE,96 St,Q,IND,M,2nd Ave,E 96th St,,Mez,,Open,,,1,40.783866,-73.947438
+N702A,96 ST-2 AVE,96 St,Q,IND,M,2nd Ave,E 94th St,,Mez,,Open,,,0,40.783045,-73.948012
+R101,SOUTH FERRY,South Ferry,1RW,IRT,M,State St,South St,,Mez,,Open,,,1,40.701871,-74.013056
+R101N,SOUTH FERRY,South Ferry,RW1,IRT,M,State St,Pearl St,,Mez,,Open,R101,,0,40.702754,-74.014341
+R101S,SOUTH FERRY,South Ferry,RW1,IRT,M,State St,Water St,,Mez,,Open,R101,,0,40.701989,-74.013515
+R102,RECTOR ST,Rector St,1,IRT,M,Greenwich St,Rector St,,N/B,,Open,,,1,40.707987,-74.013531
+R103,RECTOR ST,Rector St,1,IRT,M,Greenwich St,Rector St,,S/B,,Open,,,0,40.708069,-74.013643
+R106,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Vesey St,,S/B,,Closed,,Temporary closure,0,40.712241,-74.011970
+R107,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Fulton St,,N/B,Oculus WTC Upper Level,Open,,,1,40.711874,-74.011978
+R107D,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Fulton St,,Mez,Oculus WTC Lower Level,Open,,,0,40.712009,-74.011999
+R108,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Cortlandt St,,S/B,,Open,,,0,40.711124,-74.012406
+R108A,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Dey St,,S/B,,Open,,,0,40.711575,-74.012089
+R109,WTC-CORTLANDT,WTC Cortlandt,1,IRT,M,Greenwich St,Cortlandt St,,N/B,Westfield 4 WTC,Open,,,0,40.711178,-74.012135
+R110,WALL ST,Wall St,23,IRT,M,William St,Wall St,S/S,Mez,,Open,,,0,40.706304,-74.009566
+R111,WALL ST,Wall St,23,IRT,M,William St,Wall St,N/S,Mez,,Open,,,1,40.706433,-74.009466
+R112,WALL ST,Wall St,23,IRT,M,William St,Pine St,,Mez,,Open,,,0,40.706862,-74.008951
+R112A,WALL ST,Wall St,23,IRT,M,William St,Cedar St,,Mez,1 Chase Manhattan Plaza,Open,,,1,40.707362,-74.008819
+R113,FULTON ST,Fulton St,2345ACJZ,IRT,M,William St,John St,,Mez,,Open,,,0,40.709077,-74.006860
+R113A,FULTON ST,Fulton St,2345ACJZ,IRT,M,William St,Fulton St,,Mez,,Open,N098,,0,40.709507,-74.006428
+R114,FULTON ST,Fulton St,2345ACJZ,IRT,M,William St,Ann St,,Mez,,Open,,,0,40.709693,-74.006214
+R115,PARK PLACE,Park Place,23ACE,IRT,M,Park Pl,Broadway,,Mez,,Open,,,1,40.712761,-74.008137
+R116,CHAMBERS ST,Chambers St,123,IRT,M,W Broadway,Chambers St,,Mez,,Open,,,1,40.715533,-74.009251
+R117,FRANKLIN ST,Franklin St,1,IRT,M,Varick St,Franklin St,,N/B,,Open,,,1,40.719043,-74.006776
+R118,FRANKLIN ST,Franklin St,1,IRT,M,Varick St,Franklin St,,S/B,,Open,,,0,40.719100,-74.007141
+R119,CANAL ST,Canal St,1,IRT,M,Varick St,Canal St,,N/B,,Open,,,1,40.722381,-74.006154
+R120,CANAL ST,Canal St,1,IRT,M,Varick St,Canal St,,S/B,,Open,,,0,40.722690,-74.006465
+R121,HOUSTON ST,Houston St,1,IRT,M,Varick St,King St,,N/B,,Open,,,0,40.727881,-74.005320
+R122,HOUSTON ST,Houston St,1,IRT,M,Varick St,King St,,S/B,,Open,,,0,40.727901,-74.005572
+R123,HOUSTON ST,Houston St,1,IRT,M,Varick St,W Houston St,,N/B,,Open,,,1,40.728589,-74.005166
+R124,HOUSTON ST,Houston St,1,IRT,M,Varick St,W Houston St,,S/B,,Open,,,0,40.728619,-74.005503
+R125,CHRISTOPHER ST,Christopher St-Sheridan Sq,1,IRT,M,7th Ave S,Grove St,,N/B,,Open,,,1,40.733481,-74.002778
+R126,CHRISTOPHER ST,Christopher St-Sheridan Sq,1,IRT,M,7th Ave S,Christopher St,,S/B,,Open,,,0,40.733591,-74.002952
+R127,14 ST,14 St,123FLM,IRT,M,7th Ave,W 14th St,,Mez,,Open,,,1,40.738442,-73.999755
+R128,14 ST,14 St,123FLM,IRT,M,7th Ave,W 12th St,,Mez,,Open,,,0,40.737317,-74.000595
+R129,18 ST,18 St,1,IRT,M,7th Ave,W 18th St,,N/B,,Open,,,1,40.740981,-73.997683
+R130,18 ST,18 St,1,IRT,M,7th Ave,W 18th St,,S/B,,Open,,,0,40.741133,-73.998029
+R131,23 ST,23 St,1,IRT,M,7th Ave,W 23rd St,,N/B,,Open,,,1,40.744049,-73.995505
+R132,23 ST,23 St,1,IRT,M,7th Ave,W 23rd St,,S/B,,Open,,,0,40.744178,-73.995810
+R133,28 ST,28 St,1,IRT,M,7th Ave,W 28th St,,N/B,,Open,,,1,40.747155,-73.993169
+R134,28 ST,28 St,1,IRT,M,7th Ave,W 28th St,,S/B,,Open,,,0,40.747338,-73.993553
+R135,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 32nd St,,Mez,Penn Station NJ Transit,Open,,,1,40.749775,-73.991627
+R137,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 32nd St,,N/B,,Closed,,Temporary closure,,40.749730,-73.991437
+R138,34 ST-PENN STA,34 St-Penn Station,123ACE,IRT,M,7th Ave,W 33rd St,,Mez,Penn Station LIRR,Open,,,1,40.750331,-73.991103
+R139,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 33rd St,,N/B,,Open,,,0,40.750250,-73.990915
+R140,34 ST-PENN STA,34 St-Penn Station,123ACE,IRT,M,7th Ave,W 33rd St,,S/B,,Closed,R138,HEET,0,40.750460,-73.991263
+R141,34 ST-PENN STA,34 St-Penn Station,123,IRT,M,7th Ave,W 34th St,,N/B,,Open,,,1,40.750913,-73.990390
+R142,34 ST-PENN STA,34 St-Penn Station,123ACE,IRT,M,7th Ave,W 34th St,,S/B,,Open,,,,40.751116,-73.990874
+R143,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 40th St,,Mez,,Open,,,0,40.754715,-73.987910
+R144,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,Broadway,W 41st St,,Mez,,Open,R145,HEET,0,40.755100,-73.986782
+R145,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 41st St,E/S,Mez,,Open,,,1,40.755294,-73.987281
+R146,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 41st St,W/S,Mez,,Open,R145,Reconfigured,0,40.755511,-73.987766
+R147,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 42nd St,E/S,Mez,,Open,,,1,40.755813,-73.986842
+R148,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,Broadway,W 42nd St,SE cnr,Mez,,Open,,,0,40.755688,-73.986317
+R150,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 42nd St,NE cnr,Mez,,Closed,,,0,40.756062,-73.986695
+R151,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,7th Ave,W 42nd St,W/S,Mez,,Open,,,1,40.756113,-73.987098
+R153,TIMES SQ-42 ST,Times Sq-42 St,1237ACENQRSW,IRT,M,Broadway,W 43rd St,,Mez,,Open,,,0,40.756001,-73.986459
+R154,50 ST,50 St,1,IRT,M,Broadway,W 50th St,,S/B,,Open,,,0,40.761479,-73.984180
+R155,50 ST,50 St,1,IRT,M,Broadway,W 50th St,,N/B,,Open,,,1,40.761352,-73.983894
+R158,59 ST COLUMBUS,59 St-Columbus Circle,1ABCD,IRT,M,Broadway,W 59th-60th Sts,,S/B,,Open,,,1,40.768693,-73.982126
+R159,66 ST-LINCOLN,66 St-Lincoln Center,1,IRT,M,Broadway,W 66th St,,N/B,,Open,,,0,40.773682,-73.982049
+R160,66 ST-LINCOLN,66 St-Lincoln Center,1,IRT,M,Broadway,W 66th St,,S/B,,Open,,,1,40.773837,-73.982403
+R160A,66 ST-LINCOLN,66 St-Lincoln Center,1,IRT,M,Broadway,W 65th St,,S/B,,Open,,,0,40.772805,-73.982411
+R161,72 ST,72 St,123,IRT,M,Broadway,W 72nd St,S/S,Mez,,Open,R161A,,0,40.778571,-73.981932
+R161A,72 ST,72 St,123,IRT,M,Broadway,W 72nd St,S/S,Mez,,Open,,,0,40.778479,-73.981948
+R161B,72 ST,72 St,123,IRT,M,Broadway,W 72nd St,N/S,Mez,,Open,,,1,40.778959,-73.981864
+R162,79 ST,79 St,1,IRT,M,Broadway,W 79th St,,S/B,,Open,,,1,40.783981,-73.980107
+R163,79 ST,79 St,1,IRT,M,Broadway,W 79th St,,N/B,,Open,,,0,40.783725,-73.979860
+R164,86 ST,86 St,1,IRT,M,Broadway,W 86th St,,S/B,,Open,,,1,40.788445,-73.976633
+R165,86 ST,86 St,1,IRT,M,Broadway,W 86th St,,N/B,,Open,,,0,40.788202,-73.976381
+R166,86 ST,86 St,1,IRT,M,Broadway,W 87th St,,S/B,,Open,,,1,40.788967,-73.976196
+R168,96 ST,96 St,123,IRT,M,Broadway,W 96th St,,S/B,,Closed,,Moved to R169,1,40.794567,-73.972075
+R168A,96 ST,96 St,123,IRT,M,Broadway,W 94th St,,Mez,,Open,,,,40.793076,-73.972960
+R169,96 ST,96 St,123,IRT,M,Broadway,W 96th St,,N/B,,Open,,,,40.794192,-73.972138
+R170,103 ST,103 St,1,IRT,M,Broadway,W 103rd St,,Mez,,Open,,,1,40.799263,-73.968479
+R171,CATHEDRAL PKWY,Cathedral Pkwy (110 St),1,IRT,M,Broadway,W 110th St,,N/B,,Open,,,0,40.804054,-73.966557
+R172,CATHEDRAL PKWY,Cathedral Pkwy (110 St),1,IRT,M,Broadway,W 110th St,,S/B,,Open,,,1,40.804310,-73.966836
+R173,116 ST-COLUMBIA,116 St-Columbia University,1,IRT,M,Broadway,W 116th St,,Mez,,Open,,,1,40.808284,-73.963748
+R174,125 ST,125 St,1,IRT,M,Broadway,W 125th St,,Mez,,Open,,,1,40.815434,-73.958495
+R175,137 ST CITY COL,137 St-City College,1,IRT,M,Broadway,W 137th St,,N/B,,Open,,,0,40.821452,-73.953921
+R176,137 ST CITY COL,137 St-City College,1,IRT,M,Broadway,W 137th St,,S/B,,Open,,,1,40.821503,-73.954267
+R177,145 ST,145 St,1,IRT,M,Broadway,W 145th St,,N/B,,Open,,,0,40.826362,-73.950281
+R178,145 ST,145 St,1,IRT,M,Broadway,W 145th St,,S/B,,Open,,,1,40.826514,-73.950635
+R179,157 ST,157 St,1,IRT,M,Broadway,W 157th St,,N/B,,Open,,,0,40.833999,-73.944718
+R180,157 ST,157 St,1,IRT,M,Broadway,W 157th St,,S/B,,Open,,,1,40.834145,-73.945058
+R182,168 ST,168 St-Washington Hts,1AC,IRT,M,Broadway,W 168th St,,Mez,,Open,,,0,40.840899,-73.940048
+R183,181 ST,181 St,1,IRT,M,St Nicholas Ave,W 181st St,,Mez,,Open,,,1,40.849368,-73.933366
+R185,191 ST,191 St,1,IRT,M,St Nicholas Ave,W 191st St,,Mez,,Open,,,1,40.855509,-73.929595
+R186,DYCKMAN ST,Dyckman St,1,IRT,M,Hillside Ave,Dyckman St,,Mez,,Open,,,1,40.861136,-73.925130
+R187,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,N/B,,Open,R188,,0,40.864442,-73.918801
+R188,207 ST,207 St,1,IRT,M,10th Ave,W 207th St,,S/B,,Open,,,1,40.864463,-73.919089
+R189,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,N/B,,Open,R190,,0,40.869529,-73.915064
+R190,215 ST,215 St,1,IRT,M,10th Ave,W 215th St,,S/B,,Open,,,1,40.869613,-73.915304
+R191,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,N/B,,Open,R192,,0,40.874219,-73.910183
+R192,MARBLE HILL-225,Marble Hill-225 St,1,IRT,M,Broadway,W 225th St,,S/B,,Open,,,1,40.874322,-73.910415
+R193,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,N/B,,Open,R194,,0,40.878899,-73.904668
+R194,231 ST,231 St,1,IRT,Bx,Broadway,W 231st St,,S/B,,Open,,,1,40.879000,-73.904924
+R195,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,N/B,,Open,R196,,0,40.885048,-73.900516
+R196,238 ST,238 St,1,IRT,Bx,Broadway,W 238th St,,S/B,,Open,,,1,40.885061,-73.900800
+R197,V.CORTLANDT PK,Van Cortlandt Park-242 St,1,IRT,Bx,Broadway,W 242nd St,,Mez,,Open,,,1,40.889994,-73.898296
+R200A,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,Bowling Green,,Mez,,Open,,,1,40.704662,-74.013825
+R201,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,Battery Pl,,Mez,,Open,,,0,40.704715,-74.014183
+R202,BOWLING GREEN,Bowling Green,45,IRT,M,Broadway,State St,,Mez,,Open,,,0,40.704090,-74.014533
+R203,WALL ST,Wall St,45,IRT,M,Broadway,Rector St,,N/B,,Open,,,1,40.707395,-74.011880
+R203A,WALL ST,Wall St,45,IRT,M,Broadway,Pine St,,N/B,,Open,,,0,40.708056,-74.010748
+R204,WALL ST,Wall St,45,IRT,M,Broadway,Rector St,,S/B,,Open,,Historic booth (not active),1,40.707474,-74.012068
+R204A,WALL ST,Wall St,45,IRT,M,Broadway,Pine St,,S/B,Equitable Building,Open,,,0,40.708359,-74.011303
+R205,FULTON ST,Fulton St,ACJZ2345,IRT,M,Broadway,John St,,N/B,,Closed,,,0,40.710245,-74.009409
+R205A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,N/B,,Open,,,0,40.709736,-74.009958
+R206,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Dey St,,S/B,,Open,,,0,40.710435,-74.009593
+R206A,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Cortlandt St,,S/B,,Open,R205A,,0,40.709803,-74.010108
+R208,FULTON ST,Fulton St,2345ACJZ,IRT,M,Broadway,Fulton St,,S/B,,Open,,,0,40.710992,-74.009279
+R210,BROOKLYN BRIDGE,Brooklyn Bridge-City Hall,456JZ,IRT,M,Centre St,Brooklyn Bridge,,Mez,,Open,,,1,40.712661,-74.004908
+R210A,BROOKLYN BRIDGE,Brooklyn Bridge-City Hall,456JZ,IRT,M,Centre St,Reade St,,Mez,,Open,,,0,40.713652,-74.003686
+R214,CANAL ST,Canal St,JNQRZ6,IRT,M,Lafayette St,Canal St,,S/B,,Open,A046,Adjacent C/A,0,40.718533,-74.000666
+R215,SPRING ST,Spring St,6,IRT,M,Lafayette St,Spring St,,N/B,,Open,,,1,40.722228,-73.996988
+R216,SPRING ST,Spring St,6,IRT,M,Lafayette St,Spring St,,S/B,,Open,,,0,40.722372,-73.997299
+R217,BLEECKER ST,Bleecker St,6BDFM,IRT,M,Lafayette St,Bleecker St,,N/B,,Open,R217A,,0,40.725833,-73.994417
+R217A,BLEECKER ST,Bleecker St,6BDFM,IRT,M,Lafayette St,E Houston St,,N/B,,Open,,,,40.725052,-73.995174
+R218,BLEECKER ST,Bleecker St,6BDFM,IRT,M,Lafayette St,Bleecker St,,S/B,,Open,N519A,Adjacent C/A,0,40.726004,-73.994785
+R219,ASTOR PL,Astor Pl,6,IRT,M,Lafayette St,Astor Pl,,N/B,,Open,,,1,40.730019,-73.990944
+R220,ASTOR PL,Astor Pl,6,IRT,M,Lafayette St,Astor Pl,,S/B,,Open,,,0,40.730125,-73.991363
+R221,14 ST-UNION SQ,14 St-Union Sq,456LNQRW,IRT,M,Union Sq E,E 14th St,,Mez,,Open,,,1,40.734470,-73.989671
+R226,23 ST,23 St,6,IRT,M,Park Ave S,E 23rd St,,S/B,,Open,,,,40.740321,-73.986517
+R226A,23 ST,23 St,6,IRT,M,Park Ave S,E 22nd St,,S/B,,Open,,,,40.739587,-73.987022
+R227,23 ST,23 St,6,IRT,M,Park Ave S,E 23rd St,,N/B,,Open,,,,40.740167,-73.986182
+R227A,23 ST,23 St,6,IRT,M,Park Ave S,E 22nd St,,N/B,,Open,,,,40.739459,-73.986700
+R228,28 ST,28 St,6,IRT,M,Park Ave S,E 28th St,,S/B,,Open,,,0,40.743416,-73.984295
+R229,28 ST,28 St,6,IRT,M,Park Ave S,E 28th St,,N/B,,Open,,,1,40.743245,-73.983860
+R230,28 ST,28 St,6,IRT,M,Park Ave S,E 27th St,,S/B,,Open,,,0,40.742753,-73.984692
+R231,33 ST,33 St,6,IRT,M,Park Ave S,E 33rd St,,N/B,,Open,,,0,40.746372,-73.981589
+R231A,33 ST,33 St,6,IRT,M,Park Ave S,E 32nd St,,N/B,,Open,,,0,40.745750,-73.982110
+R232,33 ST,33 St,6,IRT,M,Park Ave S,E 33rd St,,S/B,,Open,,,1,40.746472,-73.981976
+R232A,33 ST,33 St,6,IRT,M,Park Ave S,E 32nd St,,S/B,,Open,,,0,40.745877,-73.982407
+R233,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Madison Ave,W/S,Mez,,Open,R236,HEET,0,40.752988,-73.979692
+R234,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Madison Ave,E/S,Mez,,Closed,,,0,40.752690,-73.979000
+R235,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Madison-Vanderbilt Aves,,Mez,,Open,,,0,40.752584,-73.978474
+R236,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,Vanderbilt Ave,,Mez,,Open,,,0,40.752474,-73.978495
+R237,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Pershing Sq,E 41st-42nd Sts,,Mez,,Open,,,0,40.751727,-73.977306
+R237A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Park Ave,E 42nd St,SE cnr,Mez,,Exit-only,R238,,0,40.751598,-73.976838
+R237B,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Lexington Ave,E 42nd St,SW cnr,Mez,Chanin Building,Open,,,0,40.751558,-73.976508
+R238,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Park Ave,E 42nd St,NE cnr,Mez,Grand Central Terminal,Open,,,1,40.751917,-73.976978
+R238A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Park Ave,E 42nd St,NW cnr,Mez,Grand Central Terminal,Open,,,0,40.752015,-73.977219
+R240,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Lexington Ave,E 42nd St,NW cnr,Mez,,Open,,,1,40.751913,-73.976155
+R240A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,Lexington Ave,E 42nd St,NE cnr,Mez,,Open,R240,Adjacent C/A,0,40.751942,-73.976033
+R241A,GRD CNTRL-42 ST,Grand Central-42 St,4567S,IRT,M,E 42nd St,3rd Ave,,Mez,,Open,,,0,40.750863,-73.975188
+R242,51 ST,51 St,6,IRT,M,Lexington Ave,E 51st St,,S/B,,Open,,,1,40.757217,-73.972090
+R242A,51 ST,51 St,6,IRT,M,Lexington Ave,E 50th St,,S/B,,Open,,,0,40.757024,-73.971681
+R243,51 ST,51 St,6,IRT,M,Lexington Ave,E 51st St,,N/B,,Open,,,0,40.756687,-73.972348
+R244,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 60th St,,S/B,,Open,,,1,40.762777,-73.967944
+R244A,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 59th St,,S/B,,Open,,,0,40.762251,-73.968342
+R245,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 60th St,,N/B,,Open,,,0,40.762718,-73.967509
+R245A,59 ST,59 St,456NQRW,IRT,M,Lexington Ave,E 59th St,,N/B,,Open,,,0,40.762101,-73.968085
+R246,68ST-HUNTER CO,68 St-Hunter College,6,IRT,M,Lexington Ave,E 68th St,,Mez,,Open,,,1,40.767921,-73.964088
+R246A,68ST-HUNTER CO,68 St-Hunter College,6,IRT,M,Lexington Ave,E 68th-69th Sts,,N/B,,Open,R246,,0,40.768128,-73.963722
+R246B,68ST-HUNTER CO,68 St-Hunter College,6,IRT,M,Lexington Ave,E 69th St,,S/B,,Closed,R246,Under Construction,0,40.768488,-73.963816
+R247,77 ST,77 St,6,IRT,M,Lexington Ave,E 77th St,,N/B,,Open,,,0,40.773563,-73.959660
+R248,77 ST,77 St,6,IRT,M,Lexington Ave,E 77th St,,S/B,,Open,,,1,40.773734,-73.960063
+R249,86 ST,86 St,456,IRT,M,Lexington Ave,E 86th St,,N/B,,Open,,,0,40.779448,-73.955428
+R250,86 ST,86 St,456,IRT,M,Lexington Ave,E 86th St,,S/B,,Open,,,1,40.779590,-73.955785
+R251,96 ST,96 St,6,IRT,M,Lexington Ave,E 96th St,,Mez,,Open,,,1,40.785947,-73.950878
+R252,103 ST,103 St,6,IRT,M,Lexington Ave,E 103rd St,,Mez,,Open,,,1,40.790153,-73.947810
+R253,110 ST,110 St,6,IRT,M,Lexington Ave,E 110th St,,N/B,,Open,,,0,40.794735,-73.944229
+R254,110 ST,110 St,6,IRT,M,Lexington Ave,E 110th St,,S/B,,Open,,,1,40.794898,-73.944608
+R255,110 ST,110 St,6,IRT,M,Lexington Ave,E 111th St,,N/B,,Closed,,,0,40.795409,-73.943883
+R256,116 ST,116 St,6,IRT,M,Lexington Ave,E 116th St,,S/B,,Open,,,1,40.798703,-73.941775
+R257,116 ST,116 St,6,IRT,M,Lexington Ave,E 116th St,,N/B,,Open,,,0,40.798601,-73.941534
+R258,125 ST,125 St,456,IRT,M,Lexington Ave,E 125th St,,Mez,,Open,,,1,40.804336,-73.937325
+R259,138/GRAND CONC,138 St-Grand Concourse,45,IRT,Bx,Grand Concourse,E 138th St,,Mez,,Open,,,1,40.813223,-73.929808
 R260,149/GRAND CONC,149 St-Grand Concourse,245,IRT,Bx,,,,,,Open,,,,,
 R261,149/GRAND CONC,149 St-Grand Concourse,245,IRT,Bx,,,,,,Open,,,,,
-R262,161/YANKEE STAD,161 St-Yankee Stadium,4BD,IRT,Bx,River Ave,E 161st St,,Mez,,Open,,,0,40.8278728,-73.9259143
-R262A,161/YANKEE STAD,161 St-Yankee Stadium,4BD,IRT,Bx,River Ave,E 160th St,N,Mez,,Open,,,1,40.8275068,-73.9263114
-R262B,161/YANKEE STAD,161 St-Yankee Stadium,4BD,IRT,Bx,River Ave,E 160th St,S,Mez,,Open,,,1,40.8274236,-73.9263624
-R283,167 ST,167 St,4,IRT,Bx,River Ave,E 167th St,,Mez,,Open,,,1,40.8357353,-73.9212976
-R284,170 ST,170 St,4,IRT,Bx,Jerome Ave,170th St,,Mez,,Open,,,1,40.8401128,-73.9177888
-R285,MT EDEN AV,Mt Eden Av,4,IRT,Bx,Jerome Ave,E Mount Eden Ave,,Mez,,Open,,,1,40.8445443,-73.9146265
-R286,176 ST,176 St,4,IRT,Bx,Jerome Ave,E 176th St,,Mez,,Open,,,1,40.8485469,-73.9117685
-R287,BURNSIDE AV,Burnside Av,4,IRT,Bx,Jerome Ave,E Burnside Ave,,Mez,,Open,,,1,40.8534712,-73.907684
-R288,183 ST,183 St,4,IRT,Bx,Jerome Ave,E 183rd St,,Mez,,Open,,,1,40.8583619,-73.9039083
-R289,FORDHAM RD,Fordham Rd,4,IRT,Bx,Jerome Ave,E Fordham Rd,,Mez,,Open,,,1,40.8626853,-73.9011413
-R290,KINGSBRIDGE RD,Kingsbridge Rd,4,IRT,Bx,Jerome Ave,E Kingsbridge Rd,,Mez,,Open,,,1,40.8677144,-73.8972176
-R291,BEDFORD PK BLVD,Bedford Park Blvd-Lehman College,4,IRT,Bx,Jerome Ave,Bedford Park Blvd,,Mez,,Open,,,1,40.8734011,-73.8902379
-R293,MOSHOLU PKWY,Mosholu Pkwy,4,IRT,Bx,Jerome Ave,Mosholu Pkwy,,Mez,,Open,,,1,40.8799449,-73.8844546
-R294,WOODLAWN,Woodlawn,4,IRT,Bx,Jerome Ave,Bainbridge Ave,,Mez,,Open,,,1,40.8868734,-73.8781632
-R301,CENTRAL PK N110,Central Park North (110 St),23,IRT,M,Malcolm X Blvd,W 110th St,,Mez,,Open,,,1,40.7985343,-73.9523609
-R302,116 ST,116 St,23,IRT,M,Malcolm X Blvd,W 116th St,,S/B,,Open,,,1,40.8021236,-73.9498877
-R303,116 ST,116 St,23,IRT,M,Malcolm X Blvd,W 116th St,,N/B,,Open,,,0,40.8019936,-73.949598
-R304,125 ST,125 St,23,IRT,M,Malcolm X Blvd,W 125th St,,S/B,,Open,,,1,40.8078547,-73.9456696
-R305,125 ST,125 St,23,IRT,M,Malcolm X Blvd,W 125th St,,N/B,,Open,,,0,40.8077613,-73.9454067
-R306,135 ST,135 St,23,IRT,M,Malcolm X Blvd,W 135th St,,S/B,,Open,,,1,40.8141735,-73.9410107
-R307,135 ST,135 St,23,IRT,M,Malcolm X Blvd,W 135th St,,N/B,,Open,,,0,40.8140862,-73.9407773
-R308,145 ST,145 St,3,IRT,M,Malcolm X Blvd,W 145th St,,S/B,,Open,,,1,40.8205062,-73.9363806
-R309,HARLEM 148 ST,Harlem-148 St,3,IRT,M,W 149th St,Adam Clayton Powell Jr Blvd,,Mez,,Open,,,1,40.8240585,-73.9369438
-R310,3 AV-149 ST,3 Av-149 St,25,IRT,Bx,E 149th St,3rd Ave,,S/B,,Open,,,1,40.8162014,-73.917712
-R311,3 AV-149 ST,3 Av-149 St,25,IRT,Bx,E 149th St,3rd Ave,,N/B,,Open,,,0,40.8159639,-73.9178649
-R312,JACKSON AV,Jackson Av,25,IRT,Bx,Westchester Ave,Jackson Ave,,Mez,,Open,,,1,40.8167371,-73.9076928
-R314,PROSPECT AV,Prospect Av,25,IRT,Bx,Westchester Ave,Prospect Ave,,S/B,,Open,,,1,40.8197488,-73.9017919
-R315,PROSPECT AV,Prospect Av,25,IRT,Bx,Westchester Ave,Prospect Ave,,N/B,,Open,,,0,40.8195844,-73.9015264
-R316,INTERVALE AV,Intervale Av,25,IRT,Bx,Westchester Ave,Intervale Ave,,Mez,,Open,,,1,40.8222195,-73.8967167
-R317,SIMPSON ST,Simpson St,25,IRT,Bx,Westchester Ave,Simpson St,,N/B,,Open,,,0,40.823949,-73.8929451
-R318,SIMPSON ST,Simpson St,25,IRT,Bx,Westchester Ave,Simpson St,,S/B,,Open,,,1,40.8243185,-73.8929532
-R319,FREEMAN ST,Freeman St,25,IRT,Bx,Southern Blvd,Freeman St,,N/B,,Open,,,0,40.8301489,-73.8916522
-R320,FREEMAN ST,Freeman St,25,IRT,Bx,Southern Blvd,Freeman St,,S/B,,Open,,,1,40.8301489,-73.8920357
-R321,174 ST,174 St,25,IRT,Bx,Southern Blvd/Boston Rd,E 174th St,,N/B,,Open,,,0,40.8373045,-73.8875591
-R322,174 ST,174 St,25,IRT,Bx,Southern Blvd/Boston Rd,E 174th St,,S/B,,Open,,,1,40.8374425,-73.8878059
-R323,WEST FARMS SQ,West Farms Sq-E Tremont Av,25,IRT,Bx,Boston Rd,E Tremont Ave,,Mez,,Open,,,1,40.8404564,-73.879881
-R323A,WEST FARMS SQ,West Farms Sq-E Tremont Av,25,IRT,Bx,Boston Rd,E 178th St,,Mez,,Open,R323,HEET,0,40.8409671,-73.8794309
-R325,E 180 ST,E 180 St,25,IRT,Bx,White Plains Rd Line,E 180th St,,Mez,,Open,,,1,40.8415226,-73.8729852
-R326,BRONX PARK EAST,Bronx Park East,25,IRT,Bx,Birchall Ave,Sagamore St,,Mez,,Open,,,1,40.8489816,-73.8683826
-R327,PELHAM PKWY,Pelham Pkwy,25,IRT,Bx,White Plains Rd,Pelham Pkwy S,,Mez,,Open,,,1,40.8565541,-73.8676368
-R328,PELHAM PKWY,Pelham Pkwy,25,IRT,Bx,White Plains Rd,Pelham Pkwy N,,Mez,,Open,,,0,40.8579296,-73.8676046
-R329,ALLERTON AV,Allerton Av,25,IRT,Bx,White Plains Rd,Allerton Ave,,Mez,,Open,,,1,40.8654346,-73.8673596
-R330,BURKE AV,Burke Av,25,IRT,Bx,White Plains Rd,Burke Ave,,Mez,,Open,,,1,40.8714434,-73.8671736
-R331,GUN HILL RD,Gun Hill Rd,25,IRT,Bx,White Plains Rd,Gun Hill Rd,,Mez,,Open,,,1,40.8776241,-73.8665011
-R332,219 ST,219 St,25,IRT,Bx,White Plains Rd,E 219th St,,Mez,,Open,,,1,40.8835921,-73.862813
-R333,225 ST,225 St,25,IRT,Bx,White Plains Rd,E 225th St,,Mez,,Open,,,1,40.8878078,-73.8604817
-R334,233 ST,233 St,25,IRT,Bx,White Plains Rd,E 233rd St,,Mez,,Open,,,1,40.8934028,-73.8573857
-R335,NEREID AV,Nereid Av,25,IRT,Bx,White Plains Rd,Nereid Ave,,Mez,,Open,,,1,40.8984566,-73.8543086
-R336,WAKEFIELD/241,Wakefield-241 St,2,IRT,Bx,White Plains Rd,E 241st St,,Mez,,Open,,,1,40.9034317,-73.8503779
-R400,3 AV 138 ST,3 Av-138 St,6,IRT,Bx,E 138th St,3rd Ave,,Mez,,Open,R401,,0,40.8107703,-73.926789
-R401,3 AV 138 ST,3 Av-138 St,6,IRT,Bx,E 138th St,Alexander Ave,,Mez,,Open,,,1,40.8102128,-73.9254888
-R402,BROOK AV,Brook Av,6,IRT,Bx,E 138th St,Brook Ave,,S/B,,Open,,,1,40.8076965,-73.9191521
-R403,BROOK AV,Brook Av,6,IRT,Bx,E 138th St,Brook Ave,,N/B,,Open,,,0,40.8074184,-73.9193372
-R404,CYPRESS AV,Cypress Av,6,IRT,Bx,E 138th St,Jackson Ave,,S/B,,Open,,,1,40.8052159,-73.9134581
-R405,CYPRESS AV,Cypress Av,6,IRT,Bx,E 138th St,Jackson Ave,,N/B,,Open,,,0,40.805153,-73.9137129
-R406,E 143/ST MARY'S,E 143 St-St Mary's St,6,IRT,Bx,Southern Blvd,E 143rd St,,S/B,,Open,,,1,40.8082065,-73.9079886
-R407,E 143/ST MARY'S,E 143 St-St Mary's St,6,IRT,Bx,Southern Blvd,E 143rd St,,N/B,,Open,,,0,40.8081943,-73.9077257
-R408,E 149 ST,E 149 St,6,IRT,Bx,Southern Blvd,E 149th St,,S/B,,Open,,,1,40.8123012,-73.9039331
-R409,E 149 ST,E 149 St,6,IRT,Bx,Southern Blvd,E 149th St,,N/B,,Open,,,0,40.8120373,-73.9040779
-R410,LONGWOOD AV,Longwood Av,6,IRT,Bx,Southern Blvd,Longwood Ave,,S/B,,Open,,,1,40.816397,-73.8963584
-R411,LONGWOOD AV,Longwood Av,6,IRT,Bx,Southern Blvd,Longwood Ave,,N/B,,Open,,,0,40.8162508,-73.8960982
-R412,HUNTS POINT AV,Hunts Point Av,6,IRT,Bx,Bruckner Blvd,Hunts Point Ave,,Mez,,Open,,,1,40.8207692,-73.8907555
-R413,WHITLOCK AV,Whitlock Av,6,IRT,Bx,Whitlock Ave,Westchester Ave,,Mez,,Open,,,1,40.8271555,-73.8861838
-R414,ELDER AV,Elder Av,6,IRT,Bx,Westchester Ave,Elder Ave,,Mez,,Open,,,1,40.8285921,-73.8791658
-R415,MORISN AV/SNDVW,Morrison Av-Soundview,6,IRT,Bx,Westchester Ave,Morrison Ave,,Mez,,Open,,,1,40.8294918,-73.8746531
-R416,ST LAWRENCE AV,St Lawrence Av,6,IRT,Bx,Westchester Ave,St Lawrence Ave,,Mez,,Open,,,1,40.8316254,-73.8672605
-R417,PARKCHESTER,Parkchester,6,IRT,Bx,Westchester Ave,Hugh J. Grant Circle,,Mez,,Open,,,1,40.8332121,-73.8609637
-R418,CASTLE HILL AV,Castle Hill Av,6,IRT,Bx,Westchester Ave,Castle Hill Ave,,Mez,,Open,,,1,40.8342133,-73.85166
-R419,ZEREGA AV,Zerega Av,6,IRT,Bx,Westchester Ave,Zerega Ave,,Mez,,Open,,,1,40.8368097,-73.8466762
-R420,WESTCHESTER SQ,Westchester Sq-E Tremont Av,6,IRT,Bx,Westchester Ave,Ferris Pl,,Mez,,Open,,,1,40.8401362,-73.8428632
-R421,MIDDLETOWN RD,Middletown Rd,6,IRT,Bx,Westchester Ave,Middletown Rd,,Mez,,Open,,,1,40.8437754,-73.8364675
-R422,BUHRE AV,Buhre Av,6,IRT,Bx,Westchester Ave,Buhre Ave,,Mez,,Open,,,1,40.8469425,-73.8324078
-R423,PELHAM BAY PARK,Pelham Bay Park,6,IRT,Bx,Westchester Ave,Bruckner Blvd,,Mez,,Open,,,1,40.8529719,-73.8270408
-R500,5 AVE,5 Av,7BDFM,IRT,M,W 42nd St,6th Ave,,Mez,,Open,R501,HEET,0,40.7541459,-73.9829964
-R501,5 AVE,5 Av,7BDFM,IRT,M,W 42nd St,5th Ave,,Mez,,Open,,,1,40.7537294,-73.9816232
-R503,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Vernon Blvd,,N/B,,Open,,,0,40.7426611,-73.9541378
-R504,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Vernon Blvd,,S/B,,Open,,,1,40.7428379,-73.9540734
-R505,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Jackson Ave,,N/B,,Exit-only,R503,,0,40.7424294,-73.9528799
-R506,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Jackson Ave,,S/B,,Open,,,0,40.7425432,-73.9526841
-R507,HUNTERS PT AV,Hunters Point Av,7,IRT,Q,Flushing Line,49th Ave,,Mez,,Open,,,1,40.7424014,-73.9481769
-R508,COURT SQ,Court Sq,7,IRT,Q,23rd St,45th Rd,,Mez,,Open,,,1,40.746187,-73.9455561
-R509,QUEENSBORO PLZ,Queensboro Plaza,7NQW,IRT,Q,Queens Plaza S,27th St,,Mez,,Open,,,1,40.7505397,-73.9400928
-R510,39 AV,39 Av-Dutch Kills,NQW,BMT,Q,31st St,39th Ave,,Mez,,Open,,,1,40.7526971,-73.9329053
-R511,36 AV,36 Av,NQW,BMT,Q,31st St,36th Ave,,Mez,,Open,,,1,40.7566141,-73.92974
-R512,BROADWAY,Broadway,NQW,BMT,Q,31st St,Broadway,,Mez,,Open,,,1,40.7619784,-73.9253981
-R513,30 AV,30 Av,NQW,BMT,Q,31st St,30th Ave,,Mez,,Open,,,1,40.766907,-73.9214098
-R514,ASTORIA BLVD,Astoria Blvd,NQW,BMT,Q,31st St,Hoyt St,,Mez,,Open,,,1,40.7703415,-73.9176425
-R515,ASTORIA DITMARS,Astoria-Ditmars Blvd,NQW,BMT,Q,31st St,Ditmars Blvd,,Mez,,Open,,,1,40.7749905,-73.912114
-R516,33 ST-RAWSON ST,33 St-Rawson St,7,IRT,Q,Queens Blvd,33rd St,,Mez,,Open,,,1,40.7446683,-73.9316839
-R517,33 ST-RAWSON ST,33 St-Rawson St,7,IRT,Q,Queens Blvd,34th St,,Mez,,Open,,,0,40.7445707,-73.9307505
-R518,40 ST LOWERY ST,40 St-Lowery St,7,IRT,Q,Queens Blvd,40th St,,Mez,,Open,,,1,40.7438112,-73.9242684
-R519,46 ST BLISS ST,46 St-Bliss St,7,IRT,Q,Queens Blvd,46th St,,Mez,,Open,,,1,40.7431809,-73.918715
-R520,46 ST BLISS ST,46 St-Bliss St,7,IRT,Q,Queens Blvd,47th St,,Mez,,Open,,,0,40.7430712,-73.9177521
-R521,52 ST,52 St,7,IRT,Q,Roosevelt Ave,52nd St,,Mez,,Open,,,1,40.7442742,-73.912167
-R522,52 ST,52 St,7,IRT,Q,Roosevelt Ave,53rd St,,Mez,,Open,R521,,0,40.7444811,-73.9115203
-R523,61 ST WOODSIDE,Woodside-61 St,7,IRT,Q,Roosevelt Ave,61st St,,Mez,,Open,,,1,40.7457144,-73.9029035
-R524,69 ST,69 St,7,IRT,Q,Roosevelt Ave,69th St,,Mez,,Open,,,1,40.7463339,-73.8963363
-R525,74 ST-BROADWAY,74 St-Broadway,7EFMR,IRT,Q,Roosevelt Ave,74th St,,Mez,,Open,,,0,40.7469556,-73.8913868
-R526,82 ST-JACKSON H,82 St-Jackson Hts,7,IRT,Q,Roosevelt Ave,82nd St,,Mez,,Open,,,1,40.7476364,-73.8839381
-R527,90 ST-ELMHURST,90 St-Elmhurst Av,7,IRT,Q,Roosevelt Ave,90th St,,Mez,,Open,,,1,40.7484351,-73.8765265
-R528,JUNCTION BLVD,Junction Blvd,7,IRT,Q,Roosevelt Ave,Junction Blvd,,Mez,,Open,,,1,40.7492007,-73.8693332
-R529,103 ST-CORONA,103 St-Corona Plaza,7,IRT,Q,Roosevelt Ave,103rd St,,Mez,,Open,,,1,40.7498918,-73.8625341
-R530,111 ST,111 St,7,IRT,Q,Roosevelt Ave,111th St,,Mez,,Open,,,1,40.7515715,-73.8559137
-R531,111 ST,111 St,7,IRT,Q,Roosevelt Ave,112th St,,Mez,,Closed,,,0,40.7519669,-73.8545766
-R532,METS-WILLETS PT,Mets-Willets Point,7,IRT,Q,Roosevelt Ave,Mets Plaza,,Mez,,Open,,,1,40.754961,-73.8460169
+R262,161/YANKEE STAD,161 St-Yankee Stadium,4BD,IRT,Bx,River Ave,E 161st St,,Mez,,Open,,,0,40.827873,-73.925914
+R262A,161/YANKEE STAD,161 St-Yankee Stadium,4BD,IRT,Bx,River Ave,E 160th St,N,Mez,,Open,,,1,40.827507,-73.926311
+R262B,161/YANKEE STAD,161 St-Yankee Stadium,4BD,IRT,Bx,River Ave,E 160th St,S,Mez,,Open,,,1,40.827424,-73.926362
+R283,167 ST,167 St,4,IRT,Bx,River Ave,E 167th St,,Mez,,Open,,,1,40.835735,-73.921298
+R284,170 ST,170 St,4,IRT,Bx,Jerome Ave,170th St,,Mez,,Open,,,1,40.840113,-73.917789
+R285,MT EDEN AV,Mt Eden Av,4,IRT,Bx,Jerome Ave,E Mount Eden Ave,,Mez,,Open,,,1,40.844544,-73.914627
+R286,176 ST,176 St,4,IRT,Bx,Jerome Ave,E 176th St,,Mez,,Open,,,1,40.848547,-73.911769
+R287,BURNSIDE AV,Burnside Av,4,IRT,Bx,Jerome Ave,E Burnside Ave,,Mez,,Open,,,1,40.853471,-73.907684
+R288,183 ST,183 St,4,IRT,Bx,Jerome Ave,E 183rd St,,Mez,,Open,,,1,40.858362,-73.903908
+R289,FORDHAM RD,Fordham Rd,4,IRT,Bx,Jerome Ave,E Fordham Rd,,Mez,,Open,,,1,40.862685,-73.901141
+R290,KINGSBRIDGE RD,Kingsbridge Rd,4,IRT,Bx,Jerome Ave,E Kingsbridge Rd,,Mez,,Open,,,1,40.867714,-73.897218
+R291,BEDFORD PK BLVD,Bedford Park Blvd-Lehman College,4,IRT,Bx,Jerome Ave,Bedford Park Blvd,,Mez,,Open,,,1,40.873401,-73.890238
+R293,MOSHOLU PKWY,Mosholu Pkwy,4,IRT,Bx,Jerome Ave,Mosholu Pkwy,,Mez,,Open,,,1,40.879945,-73.884455
+R294,WOODLAWN,Woodlawn,4,IRT,Bx,Jerome Ave,Bainbridge Ave,,Mez,,Open,,,1,40.886873,-73.878163
+R301,CENTRAL PK N110,Central Park North (110 St),23,IRT,M,Malcolm X Blvd,W 110th St,,Mez,,Open,,,1,40.798534,-73.952361
+R302,116 ST,116 St,23,IRT,M,Malcolm X Blvd,W 116th St,,S/B,,Open,,,1,40.802124,-73.949888
+R303,116 ST,116 St,23,IRT,M,Malcolm X Blvd,W 116th St,,N/B,,Open,,,0,40.801994,-73.949598
+R304,125 ST,125 St,23,IRT,M,Malcolm X Blvd,W 125th St,,S/B,,Open,,,1,40.807855,-73.945670
+R305,125 ST,125 St,23,IRT,M,Malcolm X Blvd,W 125th St,,N/B,,Open,,,0,40.807761,-73.945407
+R306,135 ST,135 St,23,IRT,M,Malcolm X Blvd,W 135th St,,S/B,,Open,,,1,40.814174,-73.941011
+R307,135 ST,135 St,23,IRT,M,Malcolm X Blvd,W 135th St,,N/B,,Open,,,0,40.814086,-73.940777
+R308,145 ST,145 St,3,IRT,M,Malcolm X Blvd,W 145th St,,S/B,,Open,,,1,40.820506,-73.936381
+R309,HARLEM 148 ST,Harlem-148 St,3,IRT,M,W 149th St,Adam Clayton Powell Jr Blvd,,Mez,,Open,,,1,40.824059,-73.936944
+R310,3 AV-149 ST,3 Av-149 St,25,IRT,Bx,E 149th St,3rd Ave,,S/B,,Open,,,1,40.816201,-73.917712
+R311,3 AV-149 ST,3 Av-149 St,25,IRT,Bx,E 149th St,3rd Ave,,N/B,,Open,,,0,40.815964,-73.917865
+R312,JACKSON AV,Jackson Av,25,IRT,Bx,Westchester Ave,Jackson Ave,,Mez,,Open,,,1,40.816737,-73.907693
+R314,PROSPECT AV,Prospect Av,25,IRT,Bx,Westchester Ave,Prospect Ave,,S/B,,Open,,,1,40.819749,-73.901792
+R315,PROSPECT AV,Prospect Av,25,IRT,Bx,Westchester Ave,Prospect Ave,,N/B,,Open,,,0,40.819584,-73.901526
+R316,INTERVALE AV,Intervale Av,25,IRT,Bx,Westchester Ave,Intervale Ave,,Mez,,Open,,,1,40.822220,-73.896717
+R317,SIMPSON ST,Simpson St,25,IRT,Bx,Westchester Ave,Simpson St,,N/B,,Open,,,0,40.823949,-73.892945
+R318,SIMPSON ST,Simpson St,25,IRT,Bx,Westchester Ave,Simpson St,,S/B,,Open,,,1,40.824319,-73.892953
+R319,FREEMAN ST,Freeman St,25,IRT,Bx,Southern Blvd,Freeman St,,N/B,,Open,,,0,40.830149,-73.891652
+R320,FREEMAN ST,Freeman St,25,IRT,Bx,Southern Blvd,Freeman St,,S/B,,Open,,,1,40.830149,-73.892036
+R321,174 ST,174 St,25,IRT,Bx,Southern Blvd/Boston Rd,E 174th St,,N/B,,Open,,,0,40.837305,-73.887559
+R322,174 ST,174 St,25,IRT,Bx,Southern Blvd/Boston Rd,E 174th St,,S/B,,Open,,,1,40.837443,-73.887806
+R323,WEST FARMS SQ,West Farms Sq-E Tremont Av,25,IRT,Bx,Boston Rd,E Tremont Ave,,Mez,,Open,,,1,40.840456,-73.879881
+R323A,WEST FARMS SQ,West Farms Sq-E Tremont Av,25,IRT,Bx,Boston Rd,E 178th St,,Mez,,Open,R323,HEET,0,40.840967,-73.879431
+R325,E 180 ST,E 180 St,25,IRT,Bx,White Plains Rd Line,E 180th St,,Mez,,Open,,,1,40.841620,-73.873178
+R326,BRONX PARK EAST,Bronx Park East,25,IRT,Bx,Birchall Ave,Sagamore St,,Mez,,Open,,,1,40.848982,-73.868383
+R327,PELHAM PKWY,Pelham Pkwy,25,IRT,Bx,White Plains Rd,Pelham Pkwy S,,Mez,,Open,,,1,40.856554,-73.867637
+R328,PELHAM PKWY,Pelham Pkwy,25,IRT,Bx,White Plains Rd,Pelham Pkwy N,,Mez,,Open,,,0,40.857930,-73.867605
+R329,ALLERTON AV,Allerton Av,25,IRT,Bx,White Plains Rd,Allerton Ave,,Mez,,Open,,,1,40.865435,-73.867360
+R330,BURKE AV,Burke Av,25,IRT,Bx,White Plains Rd,Burke Ave,,Mez,,Open,,,1,40.871443,-73.867174
+R331,GUN HILL RD,Gun Hill Rd,25,IRT,Bx,White Plains Rd,Gun Hill Rd,,Mez,,Open,,,1,40.877624,-73.866501
+R332,219 ST,219 St,25,IRT,Bx,White Plains Rd,E 219th St,,Mez,,Open,,,1,40.883592,-73.862813
+R333,225 ST,225 St,25,IRT,Bx,White Plains Rd,E 225th St,,Mez,,Open,,,1,40.887808,-73.860482
+R334,233 ST,233 St,25,IRT,Bx,White Plains Rd,E 233rd St,,Mez,,Open,,,1,40.893403,-73.857386
+R335,NEREID AV,Nereid Av,25,IRT,Bx,White Plains Rd,Nereid Ave,,Mez,,Open,,,1,40.898457,-73.854309
+R336,WAKEFIELD/241,Wakefield-241 St,2,IRT,Bx,White Plains Rd,E 241st St,,Mez,,Open,,,1,40.903432,-73.850378
+R400,3 AV 138 ST,3 Av-138 St,6,IRT,Bx,E 138th St,3rd Ave,,Mez,,Open,R401,,0,40.810770,-73.926789
+R401,3 AV 138 ST,3 Av-138 St,6,IRT,Bx,E 138th St,Alexander Ave,,Mez,,Open,,,1,40.810213,-73.925489
+R402,BROOK AV,Brook Av,6,IRT,Bx,E 138th St,Brook Ave,,S/B,,Open,,,1,40.807697,-73.919152
+R403,BROOK AV,Brook Av,6,IRT,Bx,E 138th St,Brook Ave,,N/B,,Open,,,0,40.807418,-73.919337
+R404,CYPRESS AV,Cypress Av,6,IRT,Bx,E 138th St,Jackson Ave,,S/B,,Open,,,1,40.805216,-73.913458
+R405,CYPRESS AV,Cypress Av,6,IRT,Bx,E 138th St,Jackson Ave,,N/B,,Open,,,0,40.805153,-73.913713
+R406,E 143/ST MARY'S,E 143 St-St Mary's St,6,IRT,Bx,Southern Blvd,E 143rd St,,S/B,,Open,,,1,40.808207,-73.907989
+R407,E 143/ST MARY'S,E 143 St-St Mary's St,6,IRT,Bx,Southern Blvd,E 143rd St,,N/B,,Open,,,0,40.808194,-73.907726
+R408,E 149 ST,E 149 St,6,IRT,Bx,Southern Blvd,E 149th St,,S/B,,Open,,,1,40.812301,-73.903933
+R409,E 149 ST,E 149 St,6,IRT,Bx,Southern Blvd,E 149th St,,N/B,,Open,,,0,40.812037,-73.904078
+R410,LONGWOOD AV,Longwood Av,6,IRT,Bx,Southern Blvd,Longwood Ave,,S/B,,Open,,,1,40.816397,-73.896358
+R411,LONGWOOD AV,Longwood Av,6,IRT,Bx,Southern Blvd,Longwood Ave,,N/B,,Open,,,0,40.816251,-73.896098
+R412,HUNTS POINT AV,Hunts Point Av,6,IRT,Bx,Bruckner Blvd,Hunts Point Ave,,Mez,,Open,,,1,40.820769,-73.890756
+R413,WHITLOCK AV,Whitlock Av,6,IRT,Bx,Whitlock Ave,Westchester Ave,,Mez,,Open,,,1,40.827156,-73.886184
+R414,ELDER AV,Elder Av,6,IRT,Bx,Westchester Ave,Elder Ave,,Mez,,Open,,,1,40.828592,-73.879166
+R415,MORISN AV/SNDVW,Morrison Av-Soundview,6,IRT,Bx,Westchester Ave,Morrison Ave,,Mez,,Open,,,1,40.829492,-73.874653
+R416,ST LAWRENCE AV,St Lawrence Av,6,IRT,Bx,Westchester Ave,St Lawrence Ave,,Mez,,Open,,,1,40.831625,-73.867261
+R417,PARKCHESTER,Parkchester,6,IRT,Bx,Westchester Ave,Hugh J. Grant Circle,,Mez,,Open,,,1,40.833212,-73.860964
+R418,CASTLE HILL AV,Castle Hill Av,6,IRT,Bx,Westchester Ave,Castle Hill Ave,,Mez,,Open,,,1,40.834213,-73.851660
+R419,ZEREGA AV,Zerega Av,6,IRT,Bx,Westchester Ave,Zerega Ave,,Mez,,Open,,,1,40.836810,-73.846676
+R420,WESTCHESTER SQ,Westchester Sq-E Tremont Av,6,IRT,Bx,Westchester Ave,Ferris Pl,,Mez,,Open,,,1,40.840136,-73.842863
+R421,MIDDLETOWN RD,Middletown Rd,6,IRT,Bx,Westchester Ave,Middletown Rd,,Mez,,Open,,,1,40.843775,-73.836468
+R422,BUHRE AV,Buhre Av,6,IRT,Bx,Westchester Ave,Buhre Ave,,Mez,,Open,,,1,40.846943,-73.832408
+R423,PELHAM BAY PARK,Pelham Bay Park,6,IRT,Bx,Westchester Ave,Bruckner Blvd,,Mez,,Open,,,1,40.852972,-73.827041
+R500,5 AVE,5 Av,7BDFM,IRT,M,W 42nd St,6th Ave,,Mez,,Open,R501,HEET,0,40.754146,-73.982996
+R501,5 AVE,5 Av,7BDFM,IRT,M,W 42nd St,5th Ave,,Mez,,Open,,,1,40.753729,-73.981623
+R503,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Vernon Blvd,,N/B,,Open,,,0,40.742661,-73.954138
+R504,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Vernon Blvd,,S/B,,Open,,,1,40.742838,-73.954073
+R505,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Jackson Ave,,N/B,,Exit-only,R503,,0,40.742429,-73.952880
+R506,VERNON-JACKSON,Vernon Blvd-Jackson Av,7,IRT,Q,50th Ave,Jackson Ave,,S/B,,Open,,,0,40.742543,-73.952684
+R507,HUNTERS PT AV,Hunters Point Av,7,IRT,Q,Flushing Line,49th Ave,,Mez,,Open,,,1,40.742401,-73.948177
+R508,COURT SQ,Court Sq,7,IRT,Q,23rd St,45th Rd,,Mez,,Open,,,1,40.746187,-73.945556
+R509,QUEENSBORO PLZ,Queensboro Plaza,7NQW,IRT,Q,Queens Plaza S,27th St,,Mez,,Open,,,1,40.750540,-73.940093
+R510,39 AV,39 Av-Dutch Kills,NQW,BMT,Q,31st St,39th Ave,,Mez,,Open,,,1,40.752697,-73.932905
+R511,36 AV,36 Av,NQW,BMT,Q,31st St,36th Ave,,Mez,,Open,,,1,40.756614,-73.929740
+R512,BROADWAY,Broadway,NQW,BMT,Q,31st St,Broadway,,Mez,,Open,,,1,40.761978,-73.925398
+R513,30 AV,30 Av,NQW,BMT,Q,31st St,30th Ave,,Mez,,Open,,,1,40.766907,-73.921410
+R514,ASTORIA BLVD,Astoria Blvd,NQW,BMT,Q,31st St,Hoyt St,,Mez,,Open,,,1,40.770342,-73.917643
+R515,ASTORIA DITMARS,Astoria-Ditmars Blvd,NQW,BMT,Q,31st St,Ditmars Blvd,,Mez,,Open,,,1,40.774991,-73.912114
+R516,33 ST-RAWSON ST,33 St-Rawson St,7,IRT,Q,Queens Blvd,33rd St,,Mez,,Open,,,1,40.744668,-73.931684
+R517,33 ST-RAWSON ST,33 St-Rawson St,7,IRT,Q,Queens Blvd,34th St,,Mez,,Open,,,0,40.744571,-73.930751
+R518,40 ST LOWERY ST,40 St-Lowery St,7,IRT,Q,Queens Blvd,40th St,,Mez,,Open,,,1,40.743811,-73.924268
+R519,46 ST BLISS ST,46 St-Bliss St,7,IRT,Q,Queens Blvd,46th St,,Mez,,Open,,,1,40.743181,-73.918715
+R520,46 ST BLISS ST,46 St-Bliss St,7,IRT,Q,Queens Blvd,47th St,,Mez,,Open,,,0,40.743071,-73.917752
+R521,52 ST,52 St,7,IRT,Q,Roosevelt Ave,52nd St,,Mez,,Open,,,1,40.744274,-73.912167
+R522,52 ST,52 St,7,IRT,Q,Roosevelt Ave,53rd St,,Mez,,Open,R521,,0,40.744481,-73.911520
+R523,61 ST WOODSIDE,Woodside-61 St,7,IRT,Q,Roosevelt Ave,61st St,,Mez,,Open,,,1,40.745714,-73.902904
+R524,69 ST,69 St,7,IRT,Q,Roosevelt Ave,69th St,,Mez,,Open,,,1,40.746334,-73.896336
+R525,74 ST-BROADWAY,74 St-Broadway,7EFMR,IRT,Q,Roosevelt Ave,74th St,,Mez,,Open,,,0,40.746956,-73.891387
+R526,82 ST-JACKSON H,82 St-Jackson Hts,7,IRT,Q,Roosevelt Ave,82nd St,,Mez,,Open,,,1,40.747636,-73.883938
+R527,90 ST-ELMHURST,90 St-Elmhurst Av,7,IRT,Q,Roosevelt Ave,90th St,,Mez,,Open,,,1,40.748435,-73.876527
+R528,JUNCTION BLVD,Junction Blvd,7,IRT,Q,Roosevelt Ave,Junction Blvd,,Mez,,Open,,,1,40.749201,-73.869333
+R529,103 ST-CORONA,103 St-Corona Plaza,7,IRT,Q,Roosevelt Ave,103rd St,,Mez,,Open,,,1,40.749892,-73.862534
+R530,111 ST,111 St,7,IRT,Q,Roosevelt Ave,111th St,,Mez,,Open,,,1,40.751572,-73.855914
+R531,111 ST,111 St,7,IRT,Q,Roosevelt Ave,112th St,,Mez,,Closed,,,0,40.751967,-73.854577
+R532,METS-WILLETS PT,Mets-Willets Point,7,IRT,Q,Roosevelt Ave,Mets Plaza,,Mez,,Open,,,1,40.754961,-73.846017
 R532G,METS-WILLETS PT,Mets-Willets Point,7,IRT,Q,,,,,,Closed,,Pre-2010 closure,0,,
-R532H,METS-WILLETS PT,Mets-Willets Point,7,IRT,Q,Roosevelt Ave,Flushing Meadows Pedestrian Bridge,,S/B,,Open,,,0,40.7544449,-73.8456173
-R533,FLUSHING-MAIN,Flushing-Main St,7,IRT,Q,Roosevelt Ave,Main St,,Mez,,Open,,,1,40.7595743,-73.8301377
-R534,FLUSHING-MAIN,Flushing-Main St,7,IRT,Q,Roosevelt Ave,Union St,,Mez,,Open,,,1,40.7599754,-73.8285667
-R550,34 ST-HUDSON YD,34 St-Hudson Yards,7,IRT,M,11th Ave,W 34th St,,Mez,,Open,,,1,40.7551879,-74.0014949
-R551,34 ST-HUDSON YD,34 St-Hudson Yards,7,IRT,M,11th Ave,W 35th St,,Mez,,Open,,,0,40.7560221,-74.0009906
-R600,CLARK ST,Clark St,23,IRT,Bk,Clark St,Henry St,,Mez,,Open,,,1,40.6977474,-73.9932901
-R601A,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Cadman Plaza W,Montague St,,Mez,,Open,,,1,40.6936998,-73.9903177
-R602,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Joralemon St,Court St,E/S,Mez,Municipal Building,Open,,,1,40.6923214,-73.9904289
-R603,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Joralemon St,Court St,E/S,Mez,Borough Hall,Open,R602,,0,40.6925687,-73.9903123
-R604,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Joralemon St,Court St,W/S,Mez,,Open,,,0,40.6925574,-73.9910485
-R605,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Bridge St,,N/B,,Open,,,0,40.6907529,-73.9853529
-R606,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Hoyt St,,S/B,,Open,,,1,40.6904723,-73.9851518
-R607,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Duffield St,,N/B,,Closed,,,0,40.6904311,-73.9845376
-R608,NEVINS ST,Nevins St,2345,IRT,Bk,Flatbush Ave,Nevins St,,S/B,,Open,,,1,40.6881463,-73.9805576
-R609,NEVINS ST,Nevins St,2345,IRT,Bk,Flatbush Ave,Nevins St,,N/B,,Open,,,0,40.6881586,-73.9802934
-R610,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,2345BDNQR,IRT,Bk,Flatbush Ave,Hanson Pl,,Mez,,Open,,,1,40.6847792,-73.9777668
-R612,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,IRT,Bk,Flatbush Ave,Atlantic Ave,,Mez,,Open,,,1,40.6835526,-73.9767721
-R616,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,IRT,Bk,Flatbush Ave,Atlantic Terminal,,Mez,LIRR Atlantic Terminal,Closed,,Free area changed to paid,0,40.684416,-73.9773575
-R617,BERGEN ST,Bergen St,23,IRT,Bk,Flatbush Ave,Bergen St,,N/B,,Open,,,1,40.6807995,-73.9748694
-R618,BERGEN ST,Bergen St,23,IRT,Bk,Flatbush Ave,Bergen St,,S/B,,Open,,,0,40.6808524,-73.9753119
-R619,GRAND ARMY PLAZ,Grand Army Plaza,23,IRT,Bk,Flatbush Ave,Plaza St,,Mez,,Open,,,1,40.6752412,-73.971048
-R620,EASTN PKWY-MUSM,Eastern Pkwy-Brooklyn Museum,23,IRT,Bk,Eastern Pkwy,Mt Prospect,,Mez,,Closed,,,0,40.6724796,-73.9658675
-R621,EASTN PKWY-MUSM,Eastern Pkwy-Brooklyn Museum,23,IRT,Bk,Eastern Pkwy,Brooklyn Museum,,Mez,,Open,,,1,40.6720187,-73.964323
-R622,FRANKLIN AV,Franklin Avenue-Medgar Evers College,2345S,IRT,Bk,Eastern Pkwy,Franklin Ave,,Mez,,Open,,,1,40.6706271,-73.9578554
-R623,NOSTRAND AV,Nostrand Av,3,IRT,Bk,Eastern Pkwy,Nostrand Ave,,Mez,,Open,,,1,40.6697448,-73.9505215
-R624,KINGSTON AV,Kingston Av,3,IRT,Bk,Eastern Pkwy,Kingston Ave,,Mez,,Open,,,1,40.6692856,-73.942214
-R625,CROWN HTS-UTICA,Crown Hts-Utica Av,34,IRT,Bk,Eastern Pkwy,Schenectady Ave,,Mez,,Open,,,0,40.6689641,-73.9341325
-R626,CROWN HTS-UTICA,Crown Hts-Utica Av,34,IRT,Bk,Eastern Pkwy,Utica Ave,,Mez,,Open,,,1,40.6688418,-73.9317676
-R627,SUTTER AV-RUTLD,Sutter Av-Rutland Rd,3,IRT,Bk,E 98th St,Rutland Rd,,Mez,,Open,,,1,40.6649588,-73.9228676
-R628,SARATOGA AV,Saratoga Av,3,IRT,Bk,Livonia Ave,Saratoga Ave,,Mez,,Open,,,1,40.6615849,-73.9154858
-R629,ROCKAWAY AV,Rockaway Av,3,IRT,Bk,Livonia Ave,Rockaway Ave,,Mez,,Open,,,1,40.6625679,-73.908902
-R630,JUNIUS ST,Junius St,3,IRT,Bk,Livonia Ave,Sackman St,,Mez,,Open,,,1,40.6634361,-73.9030526
-R631,JUNIUS ST,Junius St,3,IRT,Bk,Livonia Ave,Junius St,,Mez,,Closed,,,0,40.6636639,-73.9015491
-R632,PENNSYLVANIA AV,Pennsylvania Av,3,IRT,Bk,Livonia Ave,Pennsylvania Ave,,Mez,,Open,,,1,40.6647613,-73.894062
-R633,VAN SICLEN AV,Van Siclen Av,3,IRT,Bk,Livonia Ave,Van Siclen Ave,,Mez,,Open,,,1,40.6655903,-73.8885118
-R634,NEW LOTS AV,New Lots Av,3,IRT,Bk,Livonia Ave,Ashford St,,Mez,,Open,,,1,40.6663412,-73.8834369
-R635,PRESIDENT ST,President Street-Medgar Evers College,25,IRT,Bk,Nostrand Ave,President St,,Mez,,Open,,,1,40.6681585,-73.9506639
-R636,STERLING ST,Sterling St,25,IRT,Bk,Nostrand Ave,Sterling St,,Mez,,Open,,,1,40.66322,-73.9508988
-R637,WINTHROP ST,Winthrop St,25,IRT,Bk,Nostrand Ave,Winthrop St,,Mez,,Open,,,1,40.6571772,-73.9501162
-R639,CHURCH AV,Church Av,25,IRT,Bk,Nostrand Ave,Church Ave,,Mez,,Open,,,1,40.6508271,-73.9494961
-R641,BEVERLY RD,Beverly Rd,25,IRT,Bk,Nostrand Ave,Beverly Rd,,Mez,,Open,,,1,40.6451365,-73.9488853
-R643,NEWKIRK AV,Newkirk Av - Little Haiti,25,IRT,Bk,Nostrand Ave,Newkirk Ave,,N/B,,Open,,,1,40.6400114,-73.9482823
-R644,NEWKIRK AV,Newkirk Av - Little Haiti,25,IRT,Bk,Nostrand Ave,Newkirk Ave,,S/B,,Open,,,0,40.6400012,-73.9485318
-R645,FLATBUSH AV-B.C,Flatbush Av-Brooklyn College,25,IRT,Bk,Nostrand Ave,Flatbush Ave,,N/B,,Open,,,1,40.6326702,-73.9475123
-R646,FLATBUSH AV-B.C,Flatbush Av-Brooklyn College,25,IRT,Bk,Nostrand Ave,Avenue H,,Mez,,Open,,,0,40.631972,-73.9475887
-R647,FLATBUSH AV-B.C,Flatbush Av-Brooklyn College,25,IRT,Bk,Nostrand Ave,Flatbush Ave,,S/B,,Open,,,0,40.633116,-73.9478046
-R726,MORRIS PARK,Morris Park,5,IRT,Bx,Esplanade,Paulding Ave,,Mez,,Open,,,1,40.8545388,-73.8602834
-R727,PELHAM PKWY,Pelham Pkwy,5,IRT,Bx,Esplanade,Pelham Pkwy N,,Mez,,Open,,,1,40.8588642,-73.8554592
-R728,GUN HILL RD,Gun Hill Rd,5,IRT,Bx,Dyre Ave Line,Gun Hill Rd,,Mez,,Open,,,1,40.8700805,-73.8459139
-R729,BAYCHESTER AV,Baychester Av,5,IRT,Bx,Dyre Ave Line,Thomas E. Brown Ave,,Mez,,Open,,,1,40.8794868,-73.8379875
-R730,EASTCHSTER/DYRE,Eastchester-Dyre Av,5,IRT,Bx,Dyre Ave Line,Dyre Ave,,Mez,,Open,,,1,40.8880862,-73.8310781
-S101,ST. GEORGE,St George,1,SRT,SI,SIRR,Ferry Terminal Viaduct,,Mez,,Open,,,1,40.6440668,-74.0729808
-S101A,ST. GEORGE,St George,1,SRT,SI,SIRR,Richmond Terrace,,Mez,,Open,,,0,40.643501,-74.0744185
-S102,TOMPKINSVILLE,Tompkinsville,1,SRT,SI,SIRR,Victory Blvd,,Mez,,Open,,,0,40.6376265,-74.0750288
+R532H,METS-WILLETS PT,Mets-Willets Point,7,IRT,Q,Roosevelt Ave,Flushing Meadows Pedestrian Bridge,,S/B,,Open,,,0,40.754445,-73.845617
+R533,FLUSHING-MAIN,Flushing-Main St,7,IRT,Q,Roosevelt Ave,Main St,,Mez,,Open,,,1,40.759574,-73.830138
+R534,FLUSHING-MAIN,Flushing-Main St,7,IRT,Q,Roosevelt Ave,Union St,,Mez,,Open,,,1,40.759975,-73.828567
+R550,34 ST-HUDSON YD,34 St-Hudson Yards,7,IRT,M,11th Ave,W 34th St,,Mez,,Open,,,1,40.755188,-74.001495
+R551,34 ST-HUDSON YD,34 St-Hudson Yards,7,IRT,M,11th Ave,W 35th St,,Mez,,Open,,,0,40.756022,-74.000991
+R600,CLARK ST,Clark St,23,IRT,Bk,Clark St,Henry St,,Mez,,Open,,,1,40.697747,-73.993290
+R601A,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Cadman Plaza W,Montague St,,Mez,,Open,,,1,40.693700,-73.990318
+R602,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Joralemon St,Court St,E/S,Mez,Municipal Building,Open,,,1,40.692321,-73.990429
+R603,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Joralemon St,Court St,E/S,Mez,Borough Hall,Open,R602,,0,40.692569,-73.990312
+R604,BOROUGH HALL,Borough Hall,2345R,IRT,Bk,Joralemon St,Court St,W/S,Mez,,Open,,,0,40.692557,-73.991049
+R605,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Bridge St,,N/B,,Open,,,0,40.690753,-73.985353
+R605A,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Duffield St,,N/B,,Open,R605,,0,40.690394,-73.984396
+R606,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Hoyt St,,S/B,,Open,,,1,40.690472,-73.985152
+R606A,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Elm Pl,,S/B,,Open,R606,,0,40.690160,-73.984222
+R606B,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Hoyt-Bridge Sts,,S/B,,Open,R606,,0,40.690796,-73.985791
+R607,HOYT ST,Hoyt St,23,IRT,Bk,Fulton St,Duffield St,,N/B,,Closed,,,0,40.690431,-73.984538
+R608,NEVINS ST,Nevins St,2345,IRT,Bk,Flatbush Ave,Nevins St,,S/B,,Open,,,1,40.688146,-73.980558
+R609,NEVINS ST,Nevins St,2345,IRT,Bk,Flatbush Ave,Nevins St,,N/B,,Open,,,0,40.688159,-73.980293
+R610,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,2345BDNQR,IRT,Bk,Flatbush Ave,Hanson Pl,,Mez,,Open,,,1,40.684779,-73.977767
+R612,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,IRT,Bk,Flatbush Ave,Atlantic Ave,,Mez,,Open,,,1,40.683553,-73.976772
+R616,ATL AV-BARCLAY,Atlantic Av-Barclays Ctr,BDNQR2345,IRT,Bk,Flatbush Ave,Atlantic Terminal,,Mez,LIRR Atlantic Terminal,Closed,,Free area changed to paid,0,40.684416,-73.977358
+R617,BERGEN ST,Bergen St,23,IRT,Bk,Flatbush Ave,Bergen St,,N/B,,Open,,,1,40.680800,-73.974869
+R618,BERGEN ST,Bergen St,23,IRT,Bk,Flatbush Ave,Bergen St,,S/B,,Open,,,0,40.680852,-73.975312
+R619,GRAND ARMY PLAZ,Grand Army Plaza,23,IRT,Bk,Flatbush Ave,Plaza St,,Mez,,Open,,,1,40.675241,-73.971048
+R620,EASTN PKWY-MUSM,Eastern Pkwy-Brooklyn Museum,23,IRT,Bk,Eastern Pkwy,Mt Prospect,,Mez,,Closed,,,0,40.672480,-73.965868
+R621,EASTN PKWY-MUSM,Eastern Pkwy-Brooklyn Museum,23,IRT,Bk,Eastern Pkwy,Brooklyn Museum,,Mez,,Open,,,1,40.672019,-73.964323
+R622,FRANKLIN AV,Franklin Avenue-Medgar Evers College,2345S,IRT,Bk,Eastern Pkwy,Franklin Ave,,Mez,,Open,,,1,40.670627,-73.957855
+R623,NOSTRAND AV,Nostrand Av,3,IRT,Bk,Eastern Pkwy,Nostrand Ave,,Mez,,Open,,,1,40.669745,-73.950522
+R624,KINGSTON AV,Kingston Av,3,IRT,Bk,Eastern Pkwy,Kingston Ave,,Mez,,Open,,,1,40.669286,-73.942214
+R625,CROWN HTS-UTICA,Crown Hts-Utica Av,34,IRT,Bk,Eastern Pkwy,Schenectady Ave,,Mez,,Open,,,0,40.668964,-73.934133
+R626,CROWN HTS-UTICA,Crown Hts-Utica Av,34,IRT,Bk,Eastern Pkwy,Utica Ave,,Mez,,Open,,,1,40.668842,-73.931768
+R627,SUTTER AV-RUTLD,Sutter Av-Rutland Rd,3,IRT,Bk,E 98th St,Rutland Rd,,Mez,,Open,,,1,40.664959,-73.922868
+R628,SARATOGA AV,Saratoga Av,3,IRT,Bk,Livonia Ave,Saratoga Ave,,Mez,,Open,,,1,40.661585,-73.915486
+R629,ROCKAWAY AV,Rockaway Av,3,IRT,Bk,Livonia Ave,Rockaway Ave,,Mez,,Open,,,1,40.662568,-73.908902
+R630,JUNIUS ST,Junius St,3,IRT,Bk,Livonia Ave,Sackman St,,Mez,,Open,,,1,40.663436,-73.903053
+R631,JUNIUS ST,Junius St,3,IRT,Bk,Livonia Ave,Junius St,,Mez,,Closed,,,0,40.663664,-73.901549
+R632,PENNSYLVANIA AV,Pennsylvania Av,3,IRT,Bk,Livonia Ave,Pennsylvania Ave,,Mez,,Open,,,1,40.664761,-73.894062
+R633,VAN SICLEN AV,Van Siclen Av,3,IRT,Bk,Livonia Ave,Van Siclen Ave,,Mez,,Open,,,1,40.665590,-73.888512
+R634,NEW LOTS AV,New Lots Av,3,IRT,Bk,Livonia Ave,Ashford St,,Mez,,Open,,,1,40.666341,-73.883437
+R635,PRESIDENT ST,President Street-Medgar Evers College,25,IRT,Bk,Nostrand Ave,President St,,Mez,,Open,,,1,40.668159,-73.950664
+R636,STERLING ST,Sterling St,25,IRT,Bk,Nostrand Ave,Sterling St,,Mez,,Open,,,1,40.663220,-73.950899
+R637,WINTHROP ST,Winthrop St,25,IRT,Bk,Nostrand Ave,Winthrop St,,Mez,,Open,,,1,40.657177,-73.950116
+R639,CHURCH AV,Church Av,25,IRT,Bk,Nostrand Ave,Church Ave,,Mez,,Open,,,1,40.650827,-73.949496
+R641,BEVERLY RD,Beverly Rd,25,IRT,Bk,Nostrand Ave,Beverly Rd,,Mez,,Open,,,1,40.645137,-73.948885
+R643,NEWKIRK AV,Newkirk Av - Little Haiti,25,IRT,Bk,Nostrand Ave,Newkirk Ave,,N/B,,Open,,,1,40.640011,-73.948282
+R644,NEWKIRK AV,Newkirk Av - Little Haiti,25,IRT,Bk,Nostrand Ave,Newkirk Ave,,S/B,,Open,,,0,40.640001,-73.948532
+R645,FLATBUSH AV-B.C,Flatbush Av-Brooklyn College,25,IRT,Bk,Nostrand Ave,Flatbush Ave,,N/B,,Open,,,1,40.632670,-73.947512
+R646,FLATBUSH AV-B.C,Flatbush Av-Brooklyn College,25,IRT,Bk,Nostrand Ave,Avenue H,,Mez,,Open,,,0,40.631972,-73.947589
+R647,FLATBUSH AV-B.C,Flatbush Av-Brooklyn College,25,IRT,Bk,Nostrand Ave,Flatbush Ave,,S/B,,Open,,,0,40.633116,-73.947805
+R726,MORRIS PARK,Morris Park,5,IRT,Bx,Esplanade,Paulding Ave,,Mez,,Open,,,1,40.854539,-73.860283
+R727,PELHAM PKWY,Pelham Pkwy,5,IRT,Bx,Esplanade,Pelham Pkwy N,,Mez,,Open,,,1,40.858864,-73.855459
+R728,GUN HILL RD,Gun Hill Rd,5,IRT,Bx,Dyre Ave Line,Gun Hill Rd,,Mez,,Open,,,1,40.870081,-73.845914
+R729,BAYCHESTER AV,Baychester Av,5,IRT,Bx,Dyre Ave Line,Thomas E. Brown Ave,,Mez,,Open,,,1,40.879487,-73.837988
+R730,EASTCHSTER/DYRE,Eastchester-Dyre Av,5,IRT,Bx,Dyre Ave Line,Dyre Ave,,Mez,,Open,,,1,40.888086,-73.831078
+S101,ST. GEORGE,St George,1,SRT,SI,SIRR,Ferry Terminal Viaduct,,Mez,,Open,,,1,40.644067,-74.072981
+S101A,ST. GEORGE,St George,1,SRT,SI,SIRR,Richmond Terrace,,Mez,,Open,,,0,40.643501,-74.074419
+S102,TOMPKINSVILLE,Tompkinsville,1,SRT,SI,SIRR,Victory Blvd,,Mez,,Open,,,0,40.637627,-74.075029
 JFK01,HOWARD BCH JFK,Howard Beach,A,IND,Q,,,,,,Open,,,,,
 JFK02,HOWARD BCH JFK,Howard Beach,A,IND,Q,,,,,,Open,,,,,
-JFK03,JFK JAMAICA CT1,Jamaica,E,IND,Q,94th Ave,Sutphin Blvd,,Mez,,Open,,,0,40.6992711,-73.8075757
+JFK03,JFK JAMAICA CT1,Jamaica,E,IND,Q,94th Ave,Sutphin Blvd,,Mez,,Open,,,0,40.699271,-73.807576
 JFK04,JFK JAMAICA CT2,Jamaica,E,IND,Q,,,,,,Closed,,Pre-2010 closure,0,,
 LGA01,LGA AIRPORT CTB,LaGuardia Airport,,IRT,Q,,,,,,Vending,,,0,,
 LGA02,LGA AIRPORT CTB,LaGuardia Airport,,IRT,Q,,,,,,Vending,,,0,,
-LI001,LIB-HEMPSTEAD,Hempstead Transit Center,,LIB,,,"68 W Columbia St, Hempstead, NY 11550",,,,Vending,,,0,40.711278,-73.6244594
+LI001,LIB-HEMPSTEAD,Hempstead Transit Center,,LIB,,,"68 W Columbia St, Hempstead, NY 11550",,,,Vending,,,0,40.711278,-73.624459
 MCB1,METROCARD BUS 1,MetroCard Bus,,BMT,,,,,,,Vending,,,0,,
 MCB2,METROCARD BUS 2,MetroCard Bus,,BMT,,,,,,,Vending,,,0,,
-MCC07,2 BDWY CUST SRV,MTA Headquarters,,IRT,M,,"2 Broadway, New York, NY 10004",,,,Vending,,,0,40.7043847,-74.0128627
+MCC07,2 BDWY CUST SRV,MTA Headquarters,,IRT,M,,"2 Broadway, New York, NY 10004",,,,Vending,,,0,40.704385,-74.012863
 MCV1,METROCARD VAN-1,MetroCard Van,,BMT,,,,,,,Vending,,,0,,
 MCV2,METROCARD VAN-2,MetroCard Van,,BMT,,,,,,,Vending,,,0,,
 MCV3,METROCARD VAN-3,MetroCard Van,,BMT,,,,,,,Vending,,,0,,
-OB01,ORCHARD BEACH,Orchard Beach,Bx12,BUS,Bx,,"Park Dr, Bronx, NY 10464",,,,Bus Entry,,,0,40.8656331,-73.7965185
-PTH01,NEWARK HW BMEBE,Newark,PATH,PTH,NJ,Raymond Plaza W,Platform B,E/S,Mez,Newark Penn Station,Open,,,0,40.7344484,-74.163646
-PTH02,HARRISON,Harrison,PATH,PTH,NJ,Newark Line,Frank E Rodgers Blvd S,,Mez,,Open,,,0,40.7393806,-74.1556461
-PTH03,JOURNAL SQUARE,Journal Square,PATH,PTH,NJ,Newark Line,John F. Kennedy Blvd,,Mez,,Open,,,0,40.7321053,-74.0627759
-PTH04,GROVE STREET,Grove Street,PATH,PTH,NJ,Christopher Columbus Dr,Grove St,,Mez,,Open,,,0,40.7194354,-74.0427514
-PTH05,EXCHANGE PLACE,Exchange Place,PATH,PTH,NJ,Christopher Columbus Dr,Exchange Pl,,Mez,,Open,,,0,40.7167779,-74.0324739
+OB01,ORCHARD BEACH,Orchard Beach,Bx12,BUS,Bx,,"Park Dr, Bronx, NY 10464",,,,Bus Entry,,,0,40.865633,-73.796519
+PTH01,NEWARK HW BMEBE,Newark,PATH,PTH,NJ,Raymond Plaza W,Platform B,E/S,Mez,Newark Penn Station,Open,,,0,40.734448,-74.163646
+PTH02,HARRISON,Harrison,PATH,PTH,NJ,Newark Line,Frank E Rodgers Blvd S,,Mez,,Open,,,0,40.739381,-74.155646
+PTH03,JOURNAL SQUARE,Journal Square,PATH,PTH,NJ,Newark Line,John F. Kennedy Blvd,,Mez,,Open,,,0,40.732105,-74.062776
+PTH04,GROVE STREET,Grove Street,PATH,PTH,NJ,Christopher Columbus Dr,Grove St,,Mez,,Open,,,0,40.719435,-74.042751
+PTH05,EXCHANGE PLACE,Exchange Place,PATH,PTH,NJ,Christopher Columbus Dr,Exchange Pl,,Mez,,Open,,,0,40.716778,-74.032474
 PTH06,PAVONIA/NEWPORT,Newport,PATH,PTH,NJ,Washington Blvd,Town Square Pl,,Mez,,Open,,,0,40.726956,-74.033715
-PTH07,CITY / BUS,Hoboken,PATH,PTH,NJ,Hudson Pl,River St,,Mez,,Open,,,0,40.7357843,-74.0289675
-PTH08,PATH WTC,WTC,PATH,PTH,M,Fulton-Dey Sts,Greenwich St,,Mez,,Closed,,,0,40.7115392,-74.0129074
-PTH09,CHRISTOPHER ST,Christopher Street,PATH,PTH,M,Christopher St,Greenwich-Hudson Sts,,Mez,,Open,,,0,40.7330385,-74.0070605
-PTH10,9TH STREET,9th Street,PATH,PTH,M,6th Ave,W 9th St,,Mez,,Open,,,0,40.7341868,-73.9988261
-PTH11,14TH STREET,14th Street,PATH,PTH,M,6th Ave,W 14th St,,B/D,,Open,,,0,40.7372515,-73.9969417
-PTH12,TWENTY THIRD ST,23rd Street,PATH,PTH,M,6th Ave,W 23rd St,,Mez,,Open,,,0,40.7429031,-73.9927987
-PTH13,THIRTY ST,33rd Street,PATH,PTH,M,6th Ave,W 30th St,,Mez,,Open,,,0,40.747614,-73.9893731
-PTH16,LACKAWANNA,Hoboken,PATH,PTH,NJ,Hudson Pl,Sinatra Dr,,Mez,,Open,,,0,40.7355431,-74.0280487
-PTH17,THIRTY THIRD ST,33rd Street,PATH,PTH,M,6th Ave,W 32nd St,,Mez,,Open,,,0,40.7486361,-73.9886087
-PTH18,NEWARK BM BW,Newark,PATH,PTH,NJ,Raymond Plaza W,Platform B,W/S,Mez,Newark Penn Station,Open,,,0,40.7341579,-74.1640913
-PTH19,NEWARK C,Newark,PATH,PTH,NJ,Raymond Plaza W,Platform C,,Mez,Newark Penn Station,Open,,,0,40.7342696,-74.1642308
-PTH20,NEWARK HM HE,Newark,PATH,PTH,NJ,Raymond Plaza W,Track H,,Mez,Newark Penn Station,Open,,,0,40.7345746,-74.1639868
-PTH21,PATH WTC 2,WTC,PATH,PTH,M,Fulton-Dey Sts,Greenwich St,N,Mez,Oculus WTC Lower Level,Open,,,0,40.7122386,-74.0122315
-PTH22,PATH NEW WTC,WTC,PATH,PTH,M,Fulton-Dey Sts,Greenwich St,,Mez,Oculus WTC Lower Level,Open,,,0,40.712023,-74.0123442
-TRAM1,RIT-MANHATTAN,Manhattan,TRAM,RIT,M,Queensboro Bridge,2nd Ave,,Mez,,Open,,,0,40.7611793,-73.9641395
-TRAM2,RIT-ROOSEVELT,Roosevelt Island,TRAM,RIT,M,Queensboro Bridge,Main St,,Mez,,Open,,,0,40.7573994,-73.9540504
-WCCTR,WEST COUNTY CTR,Westchester County Center,,BEE,,,"198 Central Ave, White Plains, NY 10606",,,,Vending,,,0,41.0367874,-73.7786263
-X001,NYC & CO - 7 AV,NYC & Company Office,,IRT,M,,"810 7th Ave, New York, NY 10019",,,,Vending,,,0,40.7628623,-73.982583
-X002,ELTINGVILLE PK,Eltingville Transit Center,,SRT,SI,,"3230 Richmond Ave, Staten Island, NY 10312",,,,Vending,,,0,40.5605581,-74.1711708
+PTH07,CITY / BUS,Hoboken,PATH,PTH,NJ,Hudson Pl,River St,,Mez,,Open,,,0,40.735784,-74.028968
+PTH08,PATH WTC,WTC,PATH,PTH,M,Fulton-Dey Sts,Greenwich St,,Mez,,Closed,,,0,40.711539,-74.012907
+PTH09,CHRISTOPHER ST,Christopher Street,PATH,PTH,M,Christopher St,Greenwich-Hudson Sts,,Mez,,Open,,,0,40.733039,-74.007061
+PTH10,9TH STREET,9th Street,PATH,PTH,M,6th Ave,W 9th St,,Mez,,Open,,,0,40.734187,-73.998826
+PTH11,14TH STREET,14th Street,PATH,PTH,M,6th Ave,W 14th St,,B/D,,Open,,,0,40.737252,-73.996942
+PTH12,TWENTY THIRD ST,23rd Street,PATH,PTH,M,6th Ave,W 23rd St,,Mez,,Open,,,0,40.742903,-73.992799
+PTH13,THIRTY ST,33rd Street,PATH,PTH,M,6th Ave,W 30th St,,Mez,,Open,,,0,40.747614,-73.989373
+PTH16,LACKAWANNA,Hoboken,PATH,PTH,NJ,Hudson Pl,Sinatra Dr,,Mez,,Open,,,0,40.735543,-74.028049
+PTH17,THIRTY THIRD ST,33rd Street,PATH,PTH,M,6th Ave,W 32nd St,,Mez,,Open,,,0,40.748636,-73.988609
+PTH18,NEWARK BM BW,Newark,PATH,PTH,NJ,Raymond Plaza W,Platform B,W/S,Mez,Newark Penn Station,Open,,,0,40.734158,-74.164091
+PTH19,NEWARK C,Newark,PATH,PTH,NJ,Raymond Plaza W,Platform C,,Mez,Newark Penn Station,Open,,,0,40.734270,-74.164231
+PTH20,NEWARK HM HE,Newark,PATH,PTH,NJ,Raymond Plaza W,Track H,,Mez,Newark Penn Station,Open,,,0,40.734575,-74.163987
+PTH21,PATH WTC 2,WTC,PATH,PTH,M,Fulton-Dey Sts,Greenwich St,N,Mez,Oculus WTC Lower Level,Open,,,0,40.712239,-74.012232
+PTH22,PATH NEW WTC,WTC,PATH,PTH,M,Fulton-Dey Sts,Greenwich St,,Mez,Oculus WTC Lower Level,Open,,,0,40.712023,-74.012344
+TRAM1,RIT-MANHATTAN,Manhattan,TRAM,RIT,M,Queensboro Bridge,2nd Ave,,Mez,,Open,,,0,40.761179,-73.964140
+TRAM2,RIT-ROOSEVELT,Roosevelt Island,TRAM,RIT,M,Queensboro Bridge,Main St,,Mez,,Open,,,0,40.757399,-73.954050
+WCCTR,WEST COUNTY CTR,Westchester County Center,,BEE,,,"198 Central Ave, White Plains, NY 10606",,,,Vending,,,0,41.036787,-73.778626
+X001,NYC & CO - 7 AV,NYC & Company Office,,IRT,M,,"810 7th Ave, New York, NY 10019",,,,Vending,,,0,40.762862,-73.982583
+X002,ELTINGVILLE PK,Eltingville Transit Center,,SRT,SI,,"3230 Richmond Ave, Staten Island, NY 10312",,,,Vending,,,0,40.560558,-74.171171

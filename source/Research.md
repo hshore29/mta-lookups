@@ -27,6 +27,8 @@ This notice about the opening of the Botanic Garden station mentions an exit at 
 
 **MetroTech FEIS** has a series of station diagrams which, while not labeled with booth codes, show that there was an additional token booth at Borough Hall, located on the north side of Fulton St opposite R604. Given that R602 is also a control area at Borough Hall, and R603 is not otherwise assigned to anything, I'm assuming that **R603** was the code for this booth.
 
+**Downtown Brooklyn FEIS** indicates that there is a central mezzanine at DeKalb Ave that ca. 2004 had an exit on the west side of Flatbush Ave Ext - given that the north mezzanine is C006, and the south mezzanine is C008, I'm assuming **C007** was the central mezzanine. The exit is now closed, but I believe this space is still used as a cross-over between the platforms?
+
 **Orchard Beach** are a set of turnstiles that provide access to the *bus* - and they are outfitted with OMNY, per the photos in this tweet: https://twitter.com/cynthia4nyc/status/1694824539002212728/photo/1
 
 **Control Areas with Multiple Exits**
@@ -52,3 +54,10 @@ Given **R186** is in use at Dyckman St and **R197** is in use at Van Cortlandt P
 **68 St - Hunter College** has two new entrances currently under construction; N/B opened in March 2023, S/B is planned for early 2024. Unclear from the published plans what these will be designated so I'm going to guess at R246A and R246B in order of opening.
 
 **South Ferry** the new South Ferry station opened in 2009, with two additional entrances north of the ferry terminal. In May 2012, until the station was closed due to Hurricane Sandy, turnstile tracking was reassigned from R101 (the booth adjacent to the ferry terminal) to R101S. I'm guessing that R101S is the southern of the two new entrances at Water St, so the one further north at Pearl St would be R101N.
+
+**Hoyt St** both platforms have an additional exit at the far eastern-end of the platform; possibly used to be exit-only, I'm marking these as the "A" control areas (R605A, R606A). Then, in early Sept. 2023 an entrance was re-opened in the Macy's building at the western end of the S/B platform; I confirmed it's tracked as part of R606 so I'm calling that R606B.
+
+**Jay St** the south control area at Fulton St is noted as part of N103, with booth N103 being in the middle at Willoughby, so I'm calling this one N103A.
+
+**Others (not added)**
+* Broadway (R512) - exit-only from N/B platform south of main entrace, mid-block between Broadway and 34th Ave
