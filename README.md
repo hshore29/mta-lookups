@@ -104,3 +104,7 @@ Additional environmental impact statements not found on the NYC Planning website
 **FOIL-Closures-03-18-2015.csv**: just the details about closed control areas, in CSV form.
 
 **Research.md** is a markdown file detailing additional one-off sources that provide confirmation about other specific booth locations.
+
+## Changes
+
+On 2/10/24, I noticed that the car displays on an R train had updated from `TIMES SQ-42 ST` to `TIMES SQ-42 ST/PABT`.

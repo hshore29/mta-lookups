@@ -51,13 +51,14 @@ North of Dyckman St, the stations on the 1 train don't have booths on the N/B pl
 * **R196** is 238 St (nothing is **R195**)
 Given **R186** is in use at Dyckman St and **R197** is in use at Van Cortlandt Park, we can infer that the currently in use even numbered codes at the stations in between are the S/B entrances, and the missing odd numbered codes are for the unstaffed N/B entrances.
 
-**68 St - Hunter College** has two new entrances currently under construction; N/B opened in March 2023, S/B is planned for early 2024. Unclear from the published plans what these will be designated so I'm going to guess at R246A and R246B in order of opening.
+**68 St - Hunter College** has two new entrances currently under construction; N/B opened in March 2023, S/B is planned for early 2024. Unclear from the published plans what these will be designated so I'm going to guess at **R246A** and **R246B** in order of opening.
 
-**South Ferry** the new South Ferry station opened in 2009, with two additional entrances north of the ferry terminal. In May 2012, until the station was closed due to Hurricane Sandy, turnstile tracking was reassigned from R101 (the booth adjacent to the ferry terminal) to R101S. I'm guessing that R101S is the southern of the two new entrances at Water St, so the one further north at Pearl St would be R101N.
+**South Ferry** the new South Ferry station opened in 2009, with two additional entrances north of the ferry terminal. In May 2012, until the station was closed due to Hurricane Sandy, turnstile tracking was reassigned from R101 (the booth adjacent to the ferry terminal) to R101S. I'm guessing that R101S is the southern of the two new entrances at Water St, so the one further north at Pearl St would be **R101N**.
 
-**Hoyt St** both platforms have an additional exit at the far eastern-end of the platform; possibly used to be exit-only, I'm marking these as the "A" control areas (R605A, R606A). Then, in early Sept. 2023 an entrance was re-opened in the Macy's building at the western end of the S/B platform; I confirmed it's tracked as part of R606 so I'm calling that R606B.
+**Hoyt St** both platforms have an additional exit at the far eastern-end of the platform; possibly used to be exit-only, I'm marking these as the "A" control areas (**R605A**, **R606A**). Then, in early Sept. 2023 an entrance was re-opened in the Macy's building at the western end of the S/B platform; I confirmed it's tracked as part of R606 so I'm calling that **R606B**.
 
-**Jay St** the south control area at Fulton St is noted as part of N103, with booth N103 being in the middle at Willoughby, so I'm calling this one N103A.
+**Jay St** the south control area at Fulton St is noted as part of N103, with booth N103 being in the middle at Willoughby, so I'm calling this one **N103A**.
 
 **Others (not added)**
 * Broadway (R512) - exit-only from N/B platform south of main entrace, mid-block between Broadway and 34th Ave
+* 34 St-Penn Station (R136) - a closed exit from the S/B platform is indicated in the Penn Station FEIS maps, but it doesn't quite fit in the pattern for R136. What I think might be more likely is that this exit was originally *R138*, but was closed before the LIRR mezzanine was built out, which re-used R138. There's another possible closed exit directly from the NJ Transit mezzanine (R135) indicated on that map, which would be a more likely control area to be originally numbered R136.
